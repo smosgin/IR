@@ -1,0 +1,419 @@
+Approximate time to generate this file: 0.003 seconds
+Begin token stream...
+----------------
+
+
+
+
+
+
+	search
+
+
+
+
+	
+<meta httpequiv=picslabel content=pics10 httpwwwrsacorgratingsv01html l gen true comment rsaci north america server by barrypcnetcom for httpwwwnewscom on
+19960404t08150500 exp 19970701t08150500 r n 0 s 0 v 0 l 0>
+
+
+
+<
+
+
+
+		
+headline 	fontfamily arial
+			fontsize 12pt
+			fontweight bold
+			textdecoration none
+			lineheight 100
+			color black
+			
+
+
+headline2	fontfamily arial
+			fontsize 11pt
+			fontweight bold
+			textdecoration none
+			lineheight 100
+			color black
+
+newsheadline	fontfamily arial black
+			fontsize 18pt
+			fontweight normal
+			textdecoration none
+			lineheight 100
+			color black
+
+shorttakes 	fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			marginleft 4pt
+      			marginright 4pt
+			lineheight 12pt
+			color black
+
+shorttakesbold 	fontfamily arial
+			fontsize 9pt
+			fontweight bold
+			textdecoration none
+			marginleft 4pt
+      			marginright 4pt
+			lineheight 12pt
+			color black
+
+text		fontfamily times
+			fontsize 12pt
+			fontweight normal
+			textdecoration none
+			lineheight 13pt
+			color black
+
+date		fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			lineheight 11pt
+			color black
+			
+byline		fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			lineheight 11pt
+			color black
+
+menu		fontfamily times
+			fontsize 12pt
+			fontweight normal
+			textdecoration none
+			lineheight 14pt
+			color black
+
+services	fontfamily times
+			fontsize 9pt
+			fontweight normal
+			textdecoration none
+			lineheight 14pt
+			color black
+
+attribution	fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			lineheight 11pt
+                        fontstyle italic
+			color black
+			
+quote		fontfamily arial
+			fontsize 9pt
+			fontweight bold
+			textdecoration none
+			lineheight 10pt
+			color black
+
+search		fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			lineheight 16pt
+			color black
+
+		
+jointext	fontfamily arial
+			fontsize 10pt
+			fontweight bold
+			textdecoration none
+			lineheight 12pt
+			color green
+			
+avisited	color green
+                        textdecoration underline 
+
+alink	color blue
+                     textdecoration underline 
+
+>
+			
+		                
+
+
+
+      <
+
+      function setwindowname 
+
+        thisname=cnetmain
+
+      
+
+      setwindowname
+
+        function openwindow
+
+      
+
+      windowopenhttpwwwnewscompagestop20html newwin resizable=yesscrollbars=yesstatus=0width=145height=450
+      var mywindow = windowopen newwin resizable=yesscrollbars=yesstatus=0width=145height=450
+      mywindowlocation = httpwwwnewscompagestop20html
+      mywindowlocation = httpwwwnewscompagestop20html
+      
+
+       >
+
+
+
+               
+
+
+
+        
+
+
+
+         
+
+
+
+
+
+
+
+
+        
+        
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+        
+
+        
+        
+        
+
+
+
+
+
+
+
+
+<a
+href=httpregistrationcnetcomregistration120800htmlwebabbrev=ne
+from=httpwwwnewscomindexhtml><img width=116 height=22
+border=0 src=graphicsjoingif>
+
+
+
+<img width=116 height=564 border=0 src=graphicsmenubar2gif
+alt=menu bar usemap=menubar border=0>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+        
+        
+
+
+
+        
+       
+
+
+
+
+
+	search
+
+	you can search our archives of thousands of newscom stories
+
+tips
+
+you can search for the text of a story the author or the title
+
+separate search terms with commas
+
+you can also use and and or for more complex searches
+netscape and apple will give you all stories that mention both companies
+netscape or apple will give you all stories that mention one company the
+other or both
+
+you can combine and and or for more complex searches netscape and apple
+or netscape and ibm will give you stories that mention netscape and either ibm
+or apple
+
+you can also use not to eliminate stories from your search  apple and not
+microsoft will
+list stories about apple computer that dont mention microsoft
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+		
+	
+		welcome to newscom
+
+	
+		news stories
+
+	
+		take a poll
+
+	
+		take a quiz
+
+	
+		search
+
+	
+		heard any good rumors
+
+	
+		using cnet radio
+
+	
+		custom news
+	
+		desk top news
+	
+
+
+
+
+
+
+
+
+        
+tip newscom looks best when you have times and arial installed on your system 
+you can download these fonts free from microsoft for 
+windows or 
+macintosh
+
+
+
+
+
+
+
+
+
+
+                
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+copyright 169 199597 cnet inc all rights reserved
+        
+
+
+
+
+
+
+

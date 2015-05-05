@@ -1,0 +1,90 @@
+ operaciones 
+<body background="../../images/ypffon.jpg" bgcolor="#ffffff"
+text="#000000" link="#0000ff" vlink="#000080" alink="#800040">
+ &#160;  
+ <img src="../../images/zoperat.gif"
+alt="operaciones" align="bottom" width="579" height="30"> 
+           cedric
+        d bridger  
+           vicepresidente de finanzas y
+        desarrollo corporativo   
+           mart&iacute;n
+        p&aacute;ez allende 
+            vicepresidente de
+        relaciones institucionales   
+           antonio
+        allegreta 
+            vicepresidente de
+        lubricantes   
+           carlos
+        olivieri 
+            vicepresidente de
+        contralor&iacute;a general   
+           juan
+        j. garacija 
+            vicepresidente de
+        compras, contratos y protecci&oacute;n ambiental   
+           ra&uacute;l
+        oreste 
+            vicepresidente de
+        recursos humanos   
+           juan
+        a. rodriguez 
+            vicepresidente de
+        ingenier&iacute;a y tecnolog&iacute;a   
+ <img src="../../images/operatng.jpg"
+alt="management foto" align="bottom" width="564" height="376"> 
+           enrique
+        pourteau 
+            vicepresidente de
+        industrializaci&oacute;n y comercializaci&oacute;n   
+           roberto
+        monti 
+            presidente maxus
+        energy corporation   
+           nells
+        leon 
+            presidente   
+           marcelo
+        d. guiscardo 
+            vicepresidente de
+        exploraci&oacute;n y producci&oacute;n   
+           miguel
+        madanes 
+            vicepresidente
+        ejecutivo   
+  no incluidos en la foto:   
+   norberto noblia 
+    viceresidente de asuntos
+legales   
+   eduardo petazze 
+    vicepresidente   
+   <img
+src="../../images/barra.gif" align="bottom" width="520"
+height="10">   
+      <img
+    src="../../images/tria2.gif" align="bottom" border="0"
+    width="19" height="43"> operaciones locales de
+    exploraci&oacute;n y producci&oacute;n  <font
+    size="3">  
+       <img
+    src="../../images/tria2.gif" align="bottom" border="0"
+    width="19" height="43">operaciones internacionales ypf/maxus  <font
+    size="3">  
+       <img
+    src="../../images/tria2.gif" align="bottom" border="0"
+    width="19" height="43">operaciones de
+    industrializaci&oacute;n y comercializaci&oacute;n  <font
+    size="3">  
+       <img
+    src="../../images/tria2.gif" align="bottom" border="0"
+    width="19" height="43">finanzas - sintesis  <font
+    size="3">  
+       <img
+    src="../../images/tria2.gif" align="bottom" border="0"
+    width="19" height="43">informaci&oacute;n estad&iacute;stica   
+ <img src="../../images/barra.gif"
+align="bottom" width="520" height="10"> 
+  <img
+src="../../images/ypf3d2.gif" alt="ypf logo" align="bottom"
+border="0" width="111" height="52">  

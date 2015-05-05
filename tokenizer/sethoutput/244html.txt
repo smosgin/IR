@@ -1,0 +1,182 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+
+
+a1termpaper economics  labor  employment
+1800termpaper
+termpapers
+term papers
+termpaper
+term paper
+essay
+theme
+thesis
+book report
+case study
+critical analysis
+
+
+
+
+nbsp
+
+
+
+
+
+
+
+subject index
+anthropology
+architecture
+art
+black studies
+business
+ecology
+economics
+education
+film
+healthcare 
+history
+law
+linguistics
+literature
+mass media
+medicine
+music
+philosophy
+political science
+psychology
+religion
+science
+shakespeare
+sociology
+sports recreation
+urban studies
+womens studies
+
+
+
+ 
+
+
+
+
+economics  labor  employment
+
+
+
+
+
+to order a specific paper click the catalog number button next to the paper title of interest
+
+
+
+
+
+ paper title
+description of paper  yr=year written pgs=pages fn=footnotes s=sources $=price
+
+
+
+
+
+	national labor policy and union activity in agriculture	discusses dispute between us farm workers and the teamsters legislative background analysis of events 78yr 15pgs 62fn 19s 	$13425	
+	the history of labor union	traces origins growth legislative background company relations 78yr 12pgs 21fn 9s 	$10740	
+	labor movement origins	18801930 notes the knights of labor formation to gompers and the afl 78yr 24pgs 26fn 8s 	$21480	
+	the power of labor unions in latin america	a historical discussion of labor union status 79yr 9pgs 8fn 5s 	$8055	
+	hoffa and the teamsters	studies his rise to power in the labor organization 79yr 11pgs 17fn 6s 	$9845	
+	the afls attitude toward the american communist party and the soviet union in 194550	analyzes anticommunist attitudes prevalent in the us  labor organizations 79yr 11pgs 20fn 7s 	$9845	
+	the manpower program in new york	discusses the manpower development and training act of 1962 designed to retrain the unemployed into a ready labor force 79yr 15pgs 11fn 6s 	$13425	
+	labor laws and their effect on labor management relations	an overview of labor and management relations laws and legislation 79yr 9pgs 10fn 6s 	$8055	
+	the problem of unemployment in the us today	discusses the rise of unemployment to current crisis proportions effects sociologically on blue and white collar workers in todays  glutted market 1975 78yr 10pgs 19fn 10s 	$8950	
+	the relationship of multinational corporations to unions	examines the conflict of objectives and goals adhered to by these organizations and unions in reference to the abundance of cheap labor aboard and governmental reaction 78yr 15pgs 9fn 9s 	$13425	
+	the workers alliance	an extensive and detailed study of the formulation performance and subsequent demise of the alliance organized unemployed workers whose purpose was to fight  for right in nyc of better conditions and programs 78yr 39pgs 36fn 24s 	$34905	
+	effects on imports on the american labor markets	discusses the impact of the current state of imbalance between imports and exports resulting in unemployment high prices and inferior quality of merchandise 78yr 7pgs 3fn 3s 	$6265	
+	economics and youth	examines the  proliferation of programs designed to increase the employability of youth with a discussion of legislation manpower programs to create skilled labor and a more productive society 81yr 17pgs 17fn 6s 	$15215	
+	equal employment opportunity	an examination of the eeo as part of the civil rights bill in 1974 new powers given to the eeo commission which exerts its function of cracking down on companies and unions practicing job discrimination 81yr 8pgs 18fn 5s 	$7160	
+	unemployment an american problem	an essay on factors creating a low wage labor force with ways to create a more skilled labor force 78yr 5pgs 0fn 0s 	$4475	
+	unemployment in new york	examines the role of big business education unions and violence stemming from unemployment 78yr 6pgs 5fn 4s 	$5370	
+	size distribution pattern of standard metropolitan statistical area	an analysis of interregional migration of labor in the us utilizing statistical methods with graphs and charts as to the efficiency and satisfaction of the labor market 78yr 12pgs 5fn 9s 	$10740	
+	corrupt practices in trade unions	a historical account of the development of trade unions and management concessions focusing primarily on the link between trade unions with racketeers and organized crime 79yr 16pgs 19fn 12s 	$14320	
+	the psychology of negotiations	a look at the methods utilized by management and unions in relation to developing creative alternatives as solutions to their continuous problem of negotiations 79yr 11pgs 2fn 6s 	$9845	
+	union membership	an investigation into the substantial growth in union membership during the last fifteen years focusing on the southern growth and membership by white collar workers 79yr 13pgs 23fn 14s 	$11635	
+	the achievement of full employment	a short discussion of governmental attempts and methods to attain the fluctuating percentage level known as full employment 78yr 5pgs 6fn 9s 	$4475	
+	trade union discrimination against blacks 197376	explores the lack of leadership positions and high level skilled jobs as having a small representation of blacks  observes black caucuses within unions as seeking to correct some of these problems 78yr 14pgs 20fn 8s 	$12530	
+	the wobblies	a discussion of the history of the international workers of the world a radical leftwing organization whose desire it was to start a worldwide labor organization 80yr 5pgs 5fn 4s 	$4475	
+	the advent of containerization	analyzes the use of containers in the cargo industry catering on the shipping industry and as a more efficient method of transporting goods with a look at the resultant labor problems 80yr 11pgs 0fn 2s 	$9845	
+	the international brotherhood of teamsters	an inside look at the teamsters union and its past and present effects on the labor front in the us 80yr 14pgs 15fn 5s 	$12530	
+	capital vs workers	a new look at the ageold struggle of the enslavement of the working class by a capitalist society 78yr 7pgs 6fn 5s 	$6265	
+	managerial responses to the problem of compulsive retirement	examines the varied emotional and financial viewpoints of personnel involved in management and their feelings as to being compulsively retired and what this bodes for the future 79yr 6pgs 9fn 6s 	$5370	
+	the colorado fuel and mining co strike of 1913	examines the background setting event outcome and ultimate meaning of this strike with emphasis on the rise of the united mine workers 79yr 6pgs 19fn 6s 	$5370	
+	division of labor marx durkheim and weber	the contrast of theories of labor with regard to these three men a political theorist a psychologist and a sociologist 79yr 20pgs 15fn 9s 	$17900	
+	george meany the aflcio and union leadership in the us today	critical analysis of labor with particular reference to economics and politics 80yr 10pgs 3fn 4s 	$8950	
+	an examination of the police labor movement	new york pba v city and right to strike problem of public servants 80yr 7pgs 9fn 6s 	$6265	
+	the labor theory of value how relative surplus value may be increased	how labor might be exploited to get more for management 81yr 7pgs 7fn 3s 	$6265	
+	jimmy hoffa and the international brotherhood of teamsters	positive and negative contributions of jimmy hoffa to the union 81yr 18pgs 23fn 7s 	$16110	
+	how migration affects the labor movement in puerto rico	even with a high migration rate unemployment remains 81yr 7pgs 6fn 6s 	$6265	
+	equal opportunity and preferential treatment	marketplace costs of discrimination in hiring training workers 81yr 10pgs 7fn 5s 	$8950	
+	labor negotiations	union demands and collective bargaining in a school district 81yr 5pgs 0fn 0s 	$4475	
+	effects of illegal aliens on judicial and economic systems	legal status pressures on unemployment rates replacement of native in jobs alternative policies 81yr 21pgs 10fn 8s 	$18795	
+	longrun effects of the postwar baby boom on the labor movement	planning for education through social security for shifting population rates 81yr 8pgs 2fn 2s 	$7160	
+	a new class in the united states	service and managerialoriented post world war ii middleincome class educational achievement as function of social class vs economic pressures 81yr 7pgs 16fn 3s 	$6265	
+	collective bargaining on the municipal level in new york city	an examination of the significant rise in municipal labor legislation in the 1970s having seen a rise in union power and the legislative curtailing of such power 79yr 25pgs 29fn 0s 	$22375	
+	migrant workers	examines this great stream of circuit farm workers flowing through the united states portraying these unorganized workers as suffering from low wages lack of benefits and high job insecurity 78yr 16pgs 12fn 7s 	$14320	
+	union membership  a research study	an observation of the changing goals and priorities of american laborincluding growth and decline of labor union membershipeconomic factors the government and the role of technology 83yr 15pgs 15fn 9s 	$13425	
+	impact of the unions on wages prices and the national income	a historical account of effect collective bargaining has had on wages in this centuryby examining wageprice data wage policies by industryarbitration clauses legal cases 81yr 23pgs 22fn 15s 	$20585	
+	an overview of american unionism today	an analysis of collective bargaining as it is today including historical analysis comparison to european and asian systemsunion processes negotiation patterns etc 82yr 20pgs 38fn 10s 	$17900	
+	labors untold story by richard o boyer and herbert  h morais	a review and analysis 81yr 5pgs 0fn 0s 	$4475	
+	the theory of alienation according to karl marx	an examination of marxian theory  specifically that the workers alienation derives from economic and other dissatisfactions in the job context leading to social alienation 79yr 7pgs 32fn 2s 	$6265	
+	the minimum wage  a prohibitive variable in youth unemployment	argues that the underlying variable in a high rate of youth unemployment is the minimum wage law 84yr 7pgs 10fn 6s 	$6265	
+	the structure and role of labor unions in the us	a description of the craft and industrial unions for the purpose of illuminating their respective roles in modern industrial society and various levels of union government will be outlined 80yr 9pgs 19fn 8s 	$8055	
+	collective bargaining	an analysis of collective bargaining as a continuous relationship between labor and management comprised of contract administration in addition to contract negotiation 80yr 9pgs 16fn 5s 	$8055	
+	new us industrial relationsquality worklife programs	an analysis of the trend toward more worker involvement in the decisions on the shop floor and more job satisfactiontied to productivity 81yr 8pgs 17fn 4s 	$7160	
+	the rise and demise of the knights of labor	the formative years of the ascendency of the american federation of labor during the emotion charged years of the late 1800s when the social philosophical and political issues of american labor and trade union movement were put to a test and the role of the knights of labor 82yr 25pgs 31fn 8s 	$22375	
+	american labor history	analyzes the cio and its organizing principles relevant to the realities of mass production and the division along craft lines practiced by the afl and the circumstances leading to their eventual merger 81yr 14pgs 12fn 6s 	$12530	
+	the transformation of the american worker  18301880 and the rise and fall of the knights of labor	discusses these two historical events in american labor history 82yr 12pgs 0fn 0s 	$10740	
+	collective bargaining	a thorough examination of the institution of collective bargaining including its valuecompeting valuesits purpose mediation fact finding and interest arbitrationaccountability grievancesemergency boardsetc 81yr 39pgs 42fn 15s 	$34905	
+	migration of firms to the sunbelt	an examination of the economic growth of states located in the south and southwest due to relocation of firms and corporations to these locations and the resultant labor force relocation 83yr 10pgs 15fn 15s 	$8950	
+	impact of the unions on wages prices and the national income	an in depth study as to the impact and influence unions have had on wages by industry the effect rising wages have then on prices and so on includes legal cases on wage grievances 81yr 24pgs 22fn 16s 	$21480	
+	the individual in arbitration	a historical to present examination of the development of labormanagement arbitration as has followed the development of collective bargaining includes individual rights vs union rights judicial review duty of fair representation and arbitrators roles 82yr 30pgs 28fn 7s 	$26850	
+	safety and health problems in a work place	examines industrial safety in the workplace companies initiating their own safety programs problems in the printing industrysolutions 85yr 7pgs 0fn 5s 	$6265	
+	economic theorists	looks at various economists such as hobbes hoxie perlman webbs in regard to issues on why workers organize the function of a working class organization goals of the labor union the relationship with the current economic system and the role of intellectuals 85yr 14pgs 24fn 11s 	$12530	
+	major changes in the american work force leading to the decline in union membership obstacles blocking the aflcios efforts to organize industrial workers in the south	reasons for the decline of the graybelt the impact of the tafthartley act on american unionism and major problems involved in the implementation and administration of pension funds 85yr 10pgs 24fn 0s 	$8950	
+	collective negotiationbargaining	cites numerous cases and precedents concerning the extent and justification to which an employer may punish an employee for behaviors related to union organizing 79yr 12pgs afn 8s 	$10740	
+	questions concerning unions	discusses open shop union organization in the 1920s the union and new deal legislation world war 11s impact on the american work force 88yr 12pgs 0fn 0s 	$10740	
+	questions in labor economics	discusses the emergence of collective bargainingcurrent trends in collective bargaining profit margin as a tool in collective bargaining 88yr 12pgs 0fn 0s 	$10740	
+	questions in labor economics	crisis in the chain industry as changing the nature of bargainingthe grievance procedure in negotiations the new rules being used by employers as a strategy fair representation by the union 88yr 14pgs 0fn 0s 	$12530	
+	unemployment trends in the us through 1995  a projection	analyzes various factors indicating slow growth in the early 90s women blacks asians  whites in the labor force etc 90yr 7pgs afn 0s 	$6265	
+	forecast report on unemployment 199095	examines the uncertain prospects for employment in the us during this period based on models policy factors within the government itself and the economy 90yr 8pgs 12fn 10s 	$7160	
+	the state of americas unions	looks at early history of unions in america major labor negotiating issues in recent yearspresidential stancesother factorsetc 90yr 14pgs 22fn 10s 	$12530	
+	union vs nonunion workers  the effects of each on the labor market	lokks at compensation of workers in the union vsthe nonunion sectors the proportion of union employees organizational structure and worker productivity 91yr 6pgs 10fn 12s 	$5370	
+	the decline of the american labor movement	demonstrates that although labor unions have accomplished the recognition of the dignity of labor prior to the 1970s that in recent years unions have failed in their efforts to appeal to a new generation of american workers 92yr 10pgs 22fn 8s 	$8950	
+	the modern labor union in america	observes issues confronting both labor unions and management today including modern mixed economies which are prone to stagflation the rapid advances in technology and union concerns over pension benefits and job security more than wage increases single spaced 93yr 4pgs 8fn 4s 	$3580	
+
+
+
+
+
+
+
+best experienced with
+
+click here to start
+
+
+
+
+
+
+send comments to  commentsa1termpapercom 
+
+last updated  122196
+copyright copy1996 asm communications inc  all rights reserved
+
+
+
+
+
+
+
+

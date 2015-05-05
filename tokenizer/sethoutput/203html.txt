@@ -1,0 +1,761 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+
+
+
+
+cdt | fbi survelliance activity data  north carolina
+
+
+
+
+
+appendix a north carolina
+
+
+notice of capacity requirements by county
+for
+
+telecommunications carriers providing
+local services
+
+
+numbers represent historical simultaneous interceptions
+and an estimation of the simultaneous requirement of pen register
+trap and trace and call content interceptions that may be conducted
+anywhere within a county
+
+
+
+
+county requirement
+
+
+
+
+
+statecounty
+estimated actual interceptions that may be conducted
+estimated maximum interceptions that may be conducted
+historical experience
+
+
+north carolinaalamance
+46
+3
+
+
+
+
+north carolinaalexander
+23
+0
+
+
+
+
+north carolinaalleghany
+1216
+9
+
+
+
+
+north carolinaanson
+34
+2
+
+
+
+
+north carolinaashe
+23
+0
+
+
+
+
+north carolinaavery
+23
+0
+
+
+
+
+north carolinabeaufort
+23
+0
+
+
+
+
+north carolinabertie
+23
+0
+
+
+
+
+north carolinabladen
+23
+0
+
+
+
+
+north carolinabrunswick
+1115
+8
+
+
+
+
+north carolinabuncombe
+1115
+8
+
+
+
+
+north carolinaburke
+23
+1
+
+
+
+
+north carolinacabarrus
+811
+6
+
+
+
+
+north carolinacaldwell
+23
+0
+
+
+
+
+north carolinacamden
+23
+0
+
+
+
+
+north carolinacarteret
+23
+0
+
+
+
+
+north carolinacaswell
+34
+2
+
+
+
+
+north carolinacatawba
+23
+1
+
+
+
+
+north carolinachatham
+23
+0
+
+
+
+
+north carolinacherokee
+23
+0
+
+
+
+
+north carolinachowan
+23
+0
+
+
+
+
+north carolinaclay
+23
+0
+
+
+
+
+north carolinacleveland
+46
+3
+
+
+
+
+north carolinacolumbus
+68
+4
+
+
+
+
+north carolinacraven
+23
+0
+
+
+
+
+north carolinacumberland
+1115
+8
+
+
+
+
+north carolinacurrituck
+23
+0
+
+
+
+
+north carolinadare
+23
+1
+
+
+
+
+north carolinadavidson
+1317
+10
+
+
+
+
+north carolinadavie
+23
+0
+
+
+
+
+north carolinaduplin
+23
+0
+
+
+
+
+north carolinadurham
+68
+4
+
+
+
+
+north carolinaedgecombe
+23
+0
+
+
+
+
+north carolinaforsyth
+4154
+32
+
+
+
+
+north carolinafranklin
+23
+1
+
+
+
+
+north carolinagaston
+46
+3
+
+
+
+
+north carolinagates
+23
+0
+
+
+
+
+north carolinagraham
+23
+0
+
+
+
+
+north carolinagranville
+1115
+8
+
+
+
+
+north carolinagreene
+23
+0
+
+
+
+
+north carolinaguilford
+1419
+11
+
+
+
+
+north carolinahalifax
+46
+3
+
+
+
+
+north carolinaharnett
+23
+0
+
+
+
+
+north carolinahaywood
+23
+0
+
+
+
+
+north carolinahenderson
+811
+6
+
+
+
+
+north carolinahertford
+68
+4
+
+
+
+
+north carolinahoke
+23
+0
+
+
+
+
+north carolinahyde
+23
+0
+
+
+
+
+north carolinairedell
+68
+4
+
+
+
+
+north carolinajackson
+710
+5
+
+
+
+
+north carolinajohnston
+23
+0
+
+
+
+
+north carolinajones
+23
+0
+
+
+
+
+north carolinalee
+23
+0
+
+
+
+
+north carolinalenoir
+68
+4
+
+
+
+
+north carolinalincoln
+23
+0
+
+
+
+
+north carolinamacon
+68
+4
+
+
+
+
+north carolinamadison
+23
+0
+
+
+
+
+north carolinamartin
+23
+0
+
+
+
+
+north carolinamcdowell
+23
+0
+
+
+
+
+north carolinamecklenburg
+1317
+10
+
+
+
+
+north carolinamitchell
+23
+1
+
+
+
+
+north carolinamontgomery
+46
+3
+
+
+
+
+north carolinamoore
+1115
+8
+
+
+
+
+north carolinanash
+710
+5
+
+
+
+
+north carolinanew hanover
+34
+2
+
+
+
+
+north carolinanorthampton
+46
+3
+
+
+
+
+north carolinaonslow
+23
+1
+
+
+
+
+north carolinaorange
+23
+0
+
+
+
+
+north carolinapamlico
+23
+0
+
+
+
+
+north carolinapasquotank
+23
+0
+
+
+
+
+north carolinapender
+23
+0
+
+
+
+
+north carolinaperquimans
+23
+0
+
+
+
+
+north carolinaperson
+23
+0
+
+
+
+
+north carolinapitt
+3141
+24
+
+
+
+
+north carolinapolk
+23
+0
+
+
+
+
+north carolinarandolph
+2938
+23
+
+
+
+
+north carolinarichmond
+23
+0
+
+
+
+
+north carolinarobeson
+23
+0
+
+
+
+
+north carolinarockingham
+23
+0
+
+
+
+
+north carolinarowan
+912
+7
+
+
+
+
+north carolinarutherford
+23
+1
+
+
+
+
+north carolinasampson
+23
+0
+
+
+
+
+north carolinascotland
+23
+0
+
+
+
+
+north carolinastanly
+23
+0
+
+
+
+
+north carolinastokes
+23
+0
+
+
+
+
+north carolinasurry
+34
+2
+
+
+
+
+north carolinaswain
+23
+0
+
+
+
+
+north carolinatransylvania
+1317
+10
+
+
+
+
+north carolinatyrrell
+23
+0
+
+
+
+
+north carolinaunion
+23
+0
+
+
+
+
+north carolinavance
+34
+2
+
+
+
+
+north carolinawake
+2229
+17
+
+
+
+
+north carolinawarren
+23
+0
+
+
+
+
+north carolinawashington
+23
+0
+
+
+
+
+north carolinawatauga
+23
+0
+
+
+
+
+north carolinawayne
+23
+1
+
+
+
+
+north carolinawilkes
+23
+0
+
+
+
+
+north carolinawilson
+23
+0
+
+
+
+
+north carolinayadkin
+23
+0
+
+
+
+
+north carolinayancey
+23
+0
+
+
+
+
+
+
+ the term quotcountyquot includes
+boroughs and parishes as well as the district of columbia and
+independent cities us territories ie american samoa guam
+mariana islands puerto rico and the us virgin islands were
+considered as single entities
+
+
+
+back
+
+cdt digital telephony page
+
+cdt home page
+
+
+

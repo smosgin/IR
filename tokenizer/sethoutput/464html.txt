@@ -1,0 +1,959 @@
+Approximate time to generate this file: 0.004 seconds
+Begin token stream...
+----------------
+
+
+
+
+cuadro i evolucioacuten de bienes de uso
+
+
+
+<body background=imagesypffonjpg bgcolor=ffffff
+text=000000 link=0000ff vlink=000080 alink=800040>
+160
+
+    
+        <img
+        src=imagesleftgif alt=left arrow
+        align=bottom border=0 width=30 height=30>
+        paacutegina
+        anterior
+    
+
+evolucion
+de los bienes de uso
+expresados en millones de pesos 
+cuadro i  anexo a
+
+
+    
+        balances generales consolidados al 31 de
+        diciembre de
+        1995
+        1994
+        1993
+    
+    
+        
+        costo
+        depreciacioacuten
+    
+    
+        cuenta principal
+        valor al comienzo del
+        ejercicio 
+        aumentos
+        disminuciones y transferencias
+        netas 
+        valor al cierre del ejercicio
+        acumulada al comienzo del
+        ejercicio
+        disminuciones y transferencias
+        netas 
+        tasa de depreciacioacuten
+        aumentos
+        acumulada al cierre del
+        ejercicio
+        valor residual 
+        valor residual
+        valor residual
+    
+    
+        terrenos y edificios
+        770
+        52
+        24
+        798
+        318
+        87
+        2
+        15
+        246
+        552
+        452
+        453
+    
+    
+        pozos y equipos de explotacioacuten
+        9779
+        1721
+        1427
+        12927
+        6592
+        23
+        1518
+        741
+        7310
+        5617
+        6 
+        3187
+        3144
+    
+    
+        equipamiento de destileriacuteas
+        2409
+        150
+        61
+        2470
+        1292
+        19
+        45
+        94
+        1367
+        1103
+        1117
+        1109
+    
+    
+        equipos de transporte
+        987
+        150
+        21
+        966
+        430
+        27
+        17
+        41
+        444
+        522
+        557
+        303
+    
+    
+        materiales y equipos en depoacutesito
+        266
+        626
+        574
+        318
+        150
+        150
+        150
+        150
+        150
+        318
+        266
+        349
+    
+    
+        perforaciones y obras en curso
+        396
+        1947
+        1474
+        869
+        150
+        150
+        150
+        150
+        150
+        869
+        396
+        538
+    
+    
+        equipos de perforacioacuten y exploracioacuten
+        10
+        150
+        5
+        5
+        8
+        4
+        10
+        150
+        4
+        1
+        2
+        7
+    
+    
+        muebles y uacutetiles e instalaciones
+        116
+        150
+        51
+        167
+        66
+        8
+        10
+        15
+        73
+        94
+        50
+        42
+    
+    
+        equipos de comercializacioacuten
+        381
+        150
+        18
+        399
+        188
+        42
+        10
+        34
+        180
+        219
+        193
+        180
+    
+    
+        otros bienes
+        111
+        57
+        35
+        133
+        68
+        22
+        10
+        10
+        56
+        77
+        43
+        53
+    
+    
+        total 1995
+        15225
+        440323
+        5761
+        19052
+        8962
+        2321
+        
+        950
+        9680
+        9372
+        
+        
+    
+    
+        total 1994 
+        14718
+        1434
+        9274
+        15225
+        8540
+        4724
+        
+        8945
+        8962
+        
+        6263
+        
+    
+    
+        total 1993
+        15390
+        15707
+        2242
+        14718
+        9315
+        1411
+        
+        6367
+        8540
+        
+        
+        6178
+    
+
+
+1 incluye 131 de valor residual imputados
+contra previsiones de bienes de uso
+2 incluye 2076 correspondientes a los bienes de uso de maxus
+al momento de la adquisicioacuten
+3 incluye 28 correspondientes a costos financieros
+capitalizados de bienes cuya construccioacuten se prolonga en
+el tiempo
+4 incluye 42 de valor residual imputados contra la
+previsioacuten para peacuterdidas futuras por contratos a
+largo plazo 2 de valor residual de bienes aportados a
+inversiones no corrientes 230 imputados contra previsiones de
+bienes de uso y 25 imputados contra resultados por
+reconversioacuten de contratos y venta de aacutereas
+5 incluye 162 de depreciacioacuten acelerada de bienes de uso
+por asociacioacuten en aacutereas bajo contratos de ute de
+los cuales 122 fueron imputados contra la previsioacuten para
+peacuterdidas futuras por contratos a largo plazo y 40 contra
+resultados por reconversioacuten de contratos y venta de
+aacutereas
+6  incluye 489 de propiedad minera en aacutereas con reservas
+no probadas
+7 incluye 56 de costo y 37 de depreciacioacuten
+correspondientes a bienes de uso de ypf gas sa al momento de su
+adquisicioacuten
+8 la depreciacioacuten ha sido calculada por el meacutetodo
+de unidad de produccioacuten
+
+    
+        <img
+        src=imagesboschgif alt=firma align=bottom
+        width=209 height=66> 
+        roberto ja dormal bosch
+        por comisioacuten fiscalizadora 
+        
+        <img
+        src=imagesshfirmlgif alt=firma align=bottom
+        width=125 height=140> 
+        nells leon
+        presidente 
+        
+    
+
+<a
+name=inversiones en acciones titulos emitidos en serie y participacion en otras sociedades>inversiones
+en acciones titulos emitidos en serie y participacion en otras
+sociedades
+expresados en millones de pesos
+cuadro i 149 anexo c
+
+
+    
+        balances generales consolidados al 31 de
+        diciembre de
+        1995
+        1994
+        1993
+    
+    
+        
+        informacioacuten
+        sobre el ente emisor
+    
+    
+        
+        caracteristicas de
+        los valores
+        
+        ultimos estados
+        contables emitidos
+    
+    
+        denominacion y emisor
+        clase
+        valor nominal 
+        cantidad
+        valor registrado
+        costo
+        actividad principal
+        domicilio legal
+        fecha
+        capital social
+        resultado del ejercicio
+        patrimonio neto
+        participacioacuten sobre
+        capital social
+        valor registrado
+        valor registrado
+    
+    
+        inversiones corrientes
+        tiacutetulos puacuteblicos
+    
+    
+        bonex
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        5
+        5
+    
+    
+        inversiones no corrientes
+        sociedades artiacuteculo 33  ley n186 19550
+    
+    
+        agroquiacutemica latinoamericana sa
+        certificado
+        u$s1000
+        2400
+        21
+        3
+        petroquiacutemica
+        casilla 8292 
+        la paz 151 bolivia
+        310392
+        4
+        4
+        2
+        6000
+        2
+        2
+    
+    
+        ypf exploration and production overseas inc
+        ordinarias
+        u$s1
+        1000
+        4
+        4
+        exploracioacuten y produccioacuten de
+        petroacuteleo
+        5 greenway plaza sec250 houston 151 texas 77046
+        151 usa
+        3
+        4
+        4
+        4
+        10000
+        
+        
+    
+    
+        ypf sudamericana sa
+        ordinarias
+        bs100
+        498
+        4
+        4
+        exploracioacuten explotacioacuten
+        industrializacioacuten comercializacioacuten
+        transporte y distribucioacuten de hidrocarburos y sus
+        derivados
+        federico suazo 1598 edifico park inn 151 p8176 
+        la paz 151 bolivia
+        060495
+        8
+        4
+        4
+        4
+        9960
+        
+        
+    
+    
+        vinculadas 
+    
+    
+        refineriacutea del norte sa
+        ordinarias
+        ps 10
+        2748219
+        32
+        30
+        refinacioacuten
+        maipuacute 1  p 2176 capital federal 151
+        buenos aires
+        300995
+        92
+        9
+        107
+        3000
+        30
+        32
+    
+    
+        oleoductos del valle sa
+        ordinarias
+        ps 10
+        3302229
+        222
+        14
+        transporte de petroacuteleo por ductos
+        maipuacute 1  p 5176 capital federal 151
+        buenos aires
+        300995
+        110
+        30
+        141
+        3000
+        22
+        17
+    
+    
+        oiltanking ebytem sa
+        ordinarias
+        ps 10
+        816071
+        52
+        4
+        transporte y almacenamiento de hidrocarburos
+        suipacha 268  p 11176 
+        capital federal 151 buenos aires
+        300995
+        27
+        3
+        32
+        3000
+        4
+        3
+    
+    
+        transportes mariacutetimos petroleros sa
+        ordinarias
+        ps 10
+        1793743
+        152
+        13
+        transporte de petroacuteleo por buques
+        tucumaacuten 744  p 11176
+        capital federal 151 buenos aires
+        300995
+        55
+        5
+        65
+        3000
+        16
+        15
+    
+    
+        terminales mariacutetimas patagoacutenicas sa 
+        ordinarias
+        ps 10
+        430800
+        52
+        2
+        almacenamiento y despacho de petroacuteleo
+        maipuacute 942  p 19176
+        capital federal 151 buenos aires
+        300995
+        14
+        4
+        23
+        3000
+        3
+        
+    
+    
+        petroken petroquiacutemica ensenada sa
+        ordinarias
+        ps 1
+        40602826
+        66
+        47
+        petroquiacutemica
+        sarmiento 1230  p 6176
+        capital federal 151 buenos aires
+        311295
+        81
+        28
+        133
+        5000
+        53
+        
+    
+    
+        petroquiacutemica bahiacutea blanca saic
+        ordinarias
+        ps 10
+        486801
+        155
+        15
+        petroquiacutemica
+        25 de mayo 555  p 9176 
+        capital federal 151 buenos aires
+        300995
+        46
+        29
+        164
+        1062
+        6
+        
+        
+    
+    
+        indupa saic
+        ordinarias
+        ps 1
+        12695763
+        7
+        7
+        petroquiacutemica
+        viamonte 1494
+        capital federal 151 buenos aires
+        300995
+        578
+        2
+        878
+        219
+        7
+        
+        
+    
+    
+        concecuyo sa
+        ordinarias
+        ps 1
+        1824000
+        2
+        2
+        atencioacuten y promocioacuten de los intereses
+        comerciales de ypf en las estaciones de servicios con
+        bandera propia
+        cerrito 740  p1176
+        capital federal 151 buenos aires
+        311294
+        6
+        4
+        7
+        3040
+        
+        
+    
+    
+        petrochemical investment company
+        ordinarias
+        u$s1
+        10000
+        4
+        4
+        inversioacuten y financiera
+        south church street 151 po box 309 georgetown
+        151 cayman island
+        311295
+        4
+        4
+        4
+        5000
+        
+        
+    
+    
+        
+        
+        
+        
+        171
+        137
+        
+        
+        
+        
+        
+        
+        
+        130
+        69
+    
+
+
+1 no ha sido consolidada liacutenea por
+liacutenea por estar completamente previsionada <a
+href=spnoteshtmlinstrumentos financieros destinados a compensar riesgos futuros concentracioacuten del riesgo crediticio>nota
+1b
+2 corresponde al porcentaje de participacioacuten sobre el
+patrimonio neto de la sociedad neto de resultados no
+trascendidos a terceros
+3 no ha sido consolidada liacutenea por liacutenea debido a
+que no presenta estados contables por no haber iniciado
+auacuten sus operaciones <a
+href=spnoteshtmlinstrumentos financieros destinados a compensar riesgos futuros concentracioacuten del riesgo crediticio>nota
+1b
+4 no se expone valor alguno ya que el valor registrado es menor
+a $1 milloacuten
+5 corresponde al porcentaje de participacioacuten sobre el
+patrimonio neto de sociedad neto del efecto de hechos
+significativos occurridos en el uacuteltimo trimestre
+6 adicionalmente la compantildeiacutea posee una
+participacioacuten indirecta del 374 a traveacutes de su
+participacioacuten en el patrimonio neto de petrochemical
+investment company
+7 adicionalmente la compantildeiacutea posee una
+participacioacuten indirecta del 465 y 137 a traveacutes
+de su participacioacuten en el patrimonio neto de petrochemical
+investment company y petroquiacutemica bahiacutea blanca
+saic respectivamente
+8 corresponde al balance de constitucioacuten por no haber
+iniciado auacuten sus operaciones <a
+href=spnoteshtmlinstrumentos financieros destinados a compensar riesgos futuros concentracioacuten del riesgo crediticio>
+nota 1b
+
+
+    
+        <img
+        src=imagesboschgif alt=firma align=bottom
+        width=209 height=66> 
+        roberto ja dormal bosch
+        por comisioacuten fiscalizadora 
+        
+        <img
+        src=imagesshfirmlgif alt=firma align=bottom
+        width=125 height=140> 
+        nells leon
+        presidente 
+        
+    
+
+<a
+name=informacion requerida por el articulo 64 apartado i inciso b de la ley n186 19550>informacion
+requerida por el articulo 64 apartado i inciso b de la ley
+n186 19550
+balances generales consolidados al 31 de
+diciembre de 1995 1994 y 1993
+expresados en millones de pesos
+
+cuadro i 149 anexo h
+
+
+    
+        por los ejercicios finalizados el 31 de
+        diciembre de 
+        1995
+        1994
+        1993
+    
+    
+        
+        costos de produccioacuten
+        gastos de
+        administracioacuten
+        gastos de
+        comercializacioacuten
+        gastos de exploracioacuten
+        total
+        total
+        total
+    
+    
+        sueldos y cargas sociales
+        230
+        52
+        65
+        23
+        370
+        303
+        332
+    
+    
+        honorarios y retribuciones por servicios
+        28
+        44
+        28
+        2
+        102
+        64
+        40
+    
+    
+        otros gastos de personal
+        24
+        10
+        9
+        1
+        44
+        28
+        32
+    
+    
+        impuestos tasas y contribuciones
+        18
+        1
+        5
+        150
+        24
+        10
+        20
+    
+    
+        regaliacuteas servidumbres y caacutenones
+        305
+        
+        1
+        
+        306
+        277
+        302
+    
+    
+        seguros
+        25
+        2
+        4
+        
+        31
+        20
+        17
+    
+    
+        alquileres de inmuebles y equipos
+        19
+        6
+        12
+        2
+        39
+        24
+        30
+    
+    
+        gastos de estudio
+        4
+        
+        
+        58
+        62
+        44
+        24
+    
+    
+        depreciacioacuten de bienes de uso
+        904
+        7
+        42
+        
+        953
+        1
+        734
+        1
+        599
+    
+    
+        materiales y uacutetiles de consumo
+        195
+        3
+        8
+        
+        206
+        187
+        223
+    
+    
+        contrataciones de obra y otros servicios
+        178
+        16
+        41
+        9
+        244
+        262
+        298
+    
+    
+        conservacioacuten reparacioacuten y
+        mantenimiento
+        239
+        3
+        18
+        
+        260
+        262
+        133
+    
+    
+        contratos de explotacioacuten de aacutereas
+        productivas
+        35
+        
+        
+        
+        35
+        74
+        296
+    
+    
+        perforaciones exploratorias improductivas
+        
+        
+        
+        120
+        120
+        111
+        64
+    
+    
+        transporte productos y cargas
+        213
+        2
+        63
+        1
+        279
+        230
+        254
+    
+    
+        previsioacuten para deudores por ventas de cobro
+        dudoso 
+        
+        
+        6
+        
+        6
+        13
+        6
+    
+    
+        gastos de publicidad y propaganda
+        
+        11
+        31
+        
+        42
+        52
+        49
+    
+    
+        combustibles gas energiacutea y otros 
+        157
+        24
+        8
+        17
+        206
+        225
+        198
+    
+    
+        total por el ejercicio finalizado el 311295
+        2574
+        181
+        341
+        233
+        3329
+        
+        
+    
+    
+        total por el ejercicio finalizado el 311294
+        2246
+        155
+        337
+        182
+        
+        2920
+        
+    
+    
+        total por el ejercicio finalizado el 311293
+        2334
+        131
+        337
+        115
+        
+        
+        2917
+    
+
+
+1 incluye 3 y 2 por los ejercicios
+finalizados el 31 de diciembre de 1995 y 1994 respectivamente
+correspondiente a la consolidacioacuten proporcional del estado
+de resultados de petroken petroquiacutemica ensenada sa
+
+    
+        <img
+        src=imagesboschgif alt=firma align=bottom
+        width=209 height=66> 
+        roberto ja dormal bosch
+        por comisioacuten fiscalizadora 
+        
+        <img
+        src=imagesshfirmlgif alt=firma align=bottom
+        width=125 height=140> 
+        nells leon
+        presidente 
+        
+    
+
+160<img
+src=imagesbarragif align=bottom width=520
+height=10> 
+<img
+src=imagesypf3d2gif alt=ypf logo align=bottom
+border=0 width=111 height=52>
+
+

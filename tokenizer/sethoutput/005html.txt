@@ -1,0 +1,739 @@
+Approximate time to generate this file: 0.035 seconds
+Begin token stream...
+----------------
+
+atmospheric sciences homepage july 95 access statistics
+
+transmission statistics from aug  1 1996 to aug 31 1996
+
+reqs requests  date
+  |
+ 065       12 | aug  1 1996
+ 261       48 | aug  2 1996
+ 282       52 | aug  3 1996
+ 217       40 | aug  4 1996
+ 190       35 | aug  5 1996
+ 543      100 | aug  6 1996
+ 347       64 | aug  7 1996
+ 461       85 | aug  8 1996
+ 461       85 | aug  9 1996
+ 299       55 | aug 10 1996
+ 163       30 | aug 11 1996
+ 217       40 | aug 12 1996
+ 266       49 | aug 13 1996
+ 380       70 | aug 14 1996
+ 353       65 | aug 15 1996
+ 239       44 | aug 16 1996
+ 179       33 | aug 17 1996
+ 071       13 | aug 18 1996
+ 266       49 | aug 19 1996
+ 570      105 | aug 20 1996
+ 499       92 | aug 21 1996
+ 407       75 | aug 22 1996
+ 364       67 | aug 23 1996
+ 223       41 | aug 24 1996
+ 217       40 | aug 25 1996
+ 695      128 | aug 26 1996
+ 472       87 | aug 27 1996
+ 299       55 | aug 28 1996
+ 326       60 | aug 29 1996
+ 456       84 | aug 30 1996
+ 212       39 | aug 31 1996
+
+total transfers by reversed subdomain
+
+reqs requests  reversed subdomain
+  |
+ 005        1 | 124223203
+ 005        1 | 1010238204
+ 005        1 | 104168194
+ 049        9 | 100104104199
+ 005        1 | 1022349164
+ 005        1 | 1023124147
+ 005        1 | 10435234198
+ 022        4 | 10819232202
+ 011        2 | 1091030202
+ 005        1 | 11135122207
+ 005        1 | 11019348206
+ 005        1 | 112116139192
+ 005        1 | 11396174205
+ 005        1 | 11415105165
+ 005        1 | 114211153206
+ 016        3 | 115169136206
+ 043        8 | 11712234199
+ 005        1 | 11853164204
+ 033        6 | 119164252204
+ 005        1 | 12051156192
+ 027        5 | 12112234199
+ 049        9 | 121235170152
+ 005        1 | 12262197169
+ 005        1 | 12311175140
+ 071       13 | 12412234199
+ 005        1 | 12697137206
+ 005        1 | 1283540198
+ 005        1 | 129277203
+ 011        2 | 13233163152
+ 011        2 | 13036114167
+ 005        1 | 13615297206
+ 016        3 | 146751164
+ 005        1 | 14018524137
+ 005        1 | 141121163141
+ 011        2 | 146140170152
+ 005        1 | 149100214204
+ 005        1 | 150211248199
+ 005        1 | 151181149206
+ 005        1 | 153163188192
+ 011        2 | 158100170204
+ 005        1 | 16163188192
+ 005        1 | 16213673198
+ 005        1 | 16311175140
+ 005        1 | 163128233141
+ 011        2 | 17113234168
+ 022        4 | 17161105162
+ 005        1 | 170182177198
+ 005        1 | 171231163152
+ 005        1 | 175231163152
+ 005        1 | 1782149129
+ 011        2 | 17981178131
+ 016        3 | 18128104166
+ 005        1 | 1828395204
+ 016        3 | 18781178131
+ 011        2 | 189179205137
+ 005        1 | 19113234168
+ 005        1 | 193217196128
+ 005        1 | 2199231205
+ 005        1 | 27182157
+ 005        1 | 27964198
+ 005        1 | 285215198
+ 027        5 | 201766204
+ 011        2 | 20250249204
+ 005        1 | 200163146
+ 005        1 | 2003226169
+ 011        2 | 207210240204
+ 016        3 | 20821132134
+ 016        3 | 2133244205
+ 005        1 | 21225236204
+ 005        1 | 21563135150
+ 016        3 | 219212170152
+ 022        4 | 22148182157
+ 005        1 | 2210134148
+ 005        1 | 223191238130
+ 005        1 | 227141213137
+ 005        1 | 22721091137
+ 049        9 | 22722193129
+ 005        1 | 228193163152
+ 005        1 | 2302219205
+ 022        4 | 23032244205
+ 022        4 | 231128113138
+ 011        2 | 23120853198
+ 005        1 | 23258158128
+ 022        4 | 23435101199
+ 043        8 | 2349834130
+ 005        1 | 2414250203
+ 005        1 | 245153190202
+ 016        3 | 24630177170
+ 011        2 | 2510158137
+ 022        4 | 25187210205
+ 005        1 | 25224183148
+ 005        1 | 2565129208
+ 005        1 | 250236142205
+ 005        1 | 27220116129
+ 005        1 | 29231106142
+ 005        1 | 297518194
+ 005        1 | 3194123152
+ 005        1 | 394229206
+ 005        1 | 304111199
+ 005        1 | 3124493207
+ 005        1 | 3213316207
+ 005        1 | 33242144204
+ 005        1 | 34124114206
+ 005        1 | 3417284155
+ 011        2 | 345229146
+ 005        1 | 361191137
+ 005        1 | 3710164164
+ 005        1 | 37110150206
+ 011        2 | 465204144
+ 005        1 | 40214123140
+ 005        1 | 4116569199
+ 005        1 | 41174149205
+ 016        3 | 41190198205
+ 016        3 | 42218147
+ 016        3 | 43239196128
+ 005        1 | 435415129
+ 005        1 | 4429217131
+ 005        1 | 45202194208
+ 005        1 | 463972199
+ 016        3 | 4843173206
+ 005        1 | 5237109147
+ 005        1 | 5015385206
+ 005        1 | 51151139198
+ 016        3 | 52144231139
+ 005        1 | 542229143
+ 005        1 | 542941166
+ 016        3 | 57613198
+ 005        1 | 6115190199
+ 011        2 | 6172129204
+ 005        1 | 6214139
+ 027        5 | 61114192128
+ 005        1 | 6167112140
+ 005        1 | 621017207
+ 011        2 | 64156152204
+ 005        1 | 6571172128
+ 005        1 | 6820164164
+ 011        2 | 6916243205
+ 005        1 | 70176229155
+ 005        1 | 728671204
+ 027        5 | 73770207
+ 005        1 | 7416229137
+ 005        1 | 782542141
+ 005        1 | 831614196
+ 005        1 | 84144250204
+ 005        1 | 86124252129
+ 005        1 | 878217161
+ 011        2 | 89169250206
+ 005        1 | 8930124165
+ 011        2 | 9913796202
+ 005        1 | 9963135150
+ 005        1 | arpainaddr193196153deunistuttgartimitpckai
+ 005        1 | ataczamgzaamus1
+ 005        1 | atsiemensproxy
+ 005        1 | aueduqutbeeeeselabwatt
+ 005        1 | auedutafenswisufw1
+ 016        3 | aueduunisacitypelican
+ 005        1 | aueduunisaschulzsat201619
+ 005        1 | aueduuwastyx
+ 060       11 | augovbomholeo
+ 011        2 | augovtaspacitanfi
+ 005        1 | aunetaonesydpx1
+ 005        1 | auneticehobartmax17
+ 005        1 | aunettmnsmea02pool167
+ 016        3 | auozsuchemherring
+ 022        4 | beeuneteu000113
+ 005        1 | beeunetproxy1
+ 022        4 | beskynetcharleroippp5
+ 011        2 | brcomriosaoconrado
+ 005        1 | caabcompusmartremote228
+ 005        1 | cabctelp1975
+ 011        2 | cabctelp19786
+ 033        6 | cadfobioemerald
+ 005        1 | caforestrynofcneptune
+ 005        1 | caistarhfxts716
+ 005        1 | canbnbnetbtstts01c15
+ 005        1 | canbnbnetnwcsts02c24
+ 005        1 | caneocomns
+ 005        1 | caopenfacespamburger
+ 016        3 | cauwoslipts31
+ 005        1 | cauwoslipts39
+ 011        2 | chethzrothorn
+ 005        1 | chunibeelwing
+ 005        1 | com3citiesbigtca210
+ 005        1 | comaoppp36
+ 011        2 | comaccesscompm169
+ 005        1 | comaccesscompm2198
+ 005        1 | comaolproxywwwa2
+ 005        1 | comaolproxywwwd3
+ 005        1 | comaolproxywwwe8
+ 038        7 | comaolproxywwwf2
+ 011        2 | comaolproxywwwh1
+ 043        8 | comaolproxywwwh2
+ 022        4 | comaolproxywwwh3
+ 060       11 | comaolproxywwwj2
+ 027        5 | comaolproxywwwk1
+ 011        2 | comaolproxywwwl1
+ 011        2 | comaolproxywwwl9
+ 054       10 | comaolproxywwwm1
+ 005        1 | comaolproxywwwn1
+ 005        1 | comarcoinetg1
+ 071       13 | comatextcrimpshrine
+ 011        2 | comaxionetmb240
+ 022        4 | comazstarnetusr11ip40
+ 005        1 | comazstarnetusr3ip27
+ 005        1 | comazstarnetusr4ip59
+ 005        1 | comazstarnetusr5ip37
+ 005        1 | comazstarnetusr7ip56
+ 005        1 | comazstarnetusr8ip16
+ 005        1 | comazstarnetusr8ip33
+ 016        3 | comazstarnetusr8ip41
+ 011        2 | comazstarnetusr8ip61
+ 005        1 | combaxterroundlakexp1mpg2
+ 005        1 | comboeingwwwfwproxy3
+ 005        1 | comburgoynesl57
+ 005        1 | comcompassnettshou1137
+ 005        1 | comcompuservead04081
+ 005        1 | comcompuservead12125
+ 005        1 | comcompuservead34203
+ 011        2 | comcompuservedd47182
+ 005        1 | comcompuservedd69017
+ 005        1 | comcompuservehd45063
+ 005        1 | comcompuservemd19052
+ 022        4 | comdancrismp21
+ 005        1 | comdeltanetana1039
+ 005        1 | comdestecgate1
+ 005        1 | comdoitnowphxts14
+ 005        1 | comdoitnowphxts24
+ 011        2 | comdscntfcr
+ 005        1 | comdsccccamelot
+ 005        1 | comdtnjayf
+ 005        1 | comerolshdfas1s08
+ 022        4 | comerolsmanas4s39
+ 005        1 | comexecpcmurgo
+ 005        1 | comexecpcpm3221
+ 005        1 | comfluke
+ 011        2 | comfutureoneppp15
+ 005        1 | comgnnproxywwwb01
+ 005        1 | comgnnproxywwwb04
+ 011        2 | comgnnproxywwwb05
+ 005        1 | comgnnproxywwwb07
+ 005        1 | comgnnproxywwwc02
+ 027        5 | comgnnproxywwwc08
+ 027        5 | comgnnproxywwwc09
+ 005        1 | comgoodnettucts16
+ 005        1 | comgtegscmtvhoffmant
+ 005        1 | comgulfnetgn1994423027
+ 027        5 | comhacisfu03
+ 027        5 | comiafrica196712272
+ 033        6 | comiafrica196712275
+ 005        1 | comibmaustinsocks
+ 005        1 | comibmwatsonsocks2
+ 005        1 | cominacomkeymaster
+ 005        1 | cominfobahnosplecomp
+ 005        1 | cominnettex98
+ 005        1 | cominterlogccip203135
+ 005        1 | comkaiwankaiwan156
+ 005        1 | comkonnectionsip26
+ 022        4 | comlogicajuliet
+ 005        1 | comlycosqe20
+ 011        2 | commagmacomdyna143
+ 081       15 | commckinleygalileo
+ 011        2 | commdcmdhcehuffman
+ 005        1 | commegavisioncol29
+ 005        1 | commindspringdialupuser16812112461
+ 005        1 | commindspringdialupuser1681218719
+ 081       15 | commnsincghood
+ 011        2 | commotwebgate3
+ 027        5 | commvrstandler
+ 005        1 | commymnetwww
+ 005        1 | comnesusahost68
+ 005        1 | comnetcomixbalmd104
+ 005        1 | comnetcomixbiral206
+ 016        3 | comnetcomixcoloh218
+ 011        2 | comnetcomixkalmi105
+ 005        1 | comnetcomixminmn117
+ 005        1 | comnetcomixphxaz1604
+ 005        1 | comnetcomixphxaz305
+ 022        4 | comnetcomixseawa523
+ 005        1 | comnetcomixvieva821
+ 005        1 | comnetscapeh207113738
+ 005        1 | comnjccts246
+ 005        1 | comnorwestrelay
+ 011        2 | comnscnatsemibh
+ 005        1 | comnytimesgatekeeper
+ 005        1 | comopentextfirewall2
+ 005        1 | comoracleusgatekeeper
+ 005        1 | compacbellsrvjlbrunn
+ 005        1 | compacbellsrvmnet7
+ 005        1 | compcixnewlondonpm1dyn4
+ 130       24 | compcnetpcnet1
+ 043        8 | compipelineusat2pipe3
+ 016        3 | compipelineusat2pipe4
+ 005        1 | compipexduac212
+ 005        1 | comprimenetcgzip213
+ 005        1 | comprimenetfhuip182
+ 011        2 | comprimenetphxip20024
+ 005        1 | comprimenetphxip20115
+ 011        2 | comprimenettusip205
+ 005        1 | comprimenetyumip140
+ 011        2 | comprodigypiweba2yext
+ 005        1 | comprodigypiweba3yext
+ 005        1 | comprodigypiweba8yext
+ 016        3 | comprodigypiweba9yext
+ 005        1 | comqnetcalanc0112
+ 005        1 | comregiononlinenoble
+ 005        1 | comrockwellccaoproxy
+ 005        1 | comscruznetscmgj
+ 005        1 | comsyspacp57072
+ 005        1 | comtascreadistdsig
+ 005        1 | comteleportippdx1739
+ 005        1 | comtheriverpm4p2
+ 016        3 | comtidragon
+ 011        2 | comtiptonteldial14
+ 011        2 | comtiran235
+ 011        2 | comtransportpdx39
+ 005        1 | comtrwspmeweber
+ 011        2 | comubetlou
+ 016        3 | comutelflagoba32163
+ 011        2 | comwebcrawlerbeach
+ 033        6 | comwecbwiwwwsrvr
+ 043        8 | comweinberggroupns1
+ 005        1 | comwinternetdialupppp66128
+ 016        3 | comwniseaweed
+ 005        1 | comworld2u190i123
+ 005        1 | comworld2u203i123
+ 005        1 | comworldinfonetd247
+ 016        3 | comxilinxunknown60201
+ 016        3 | comzoomjpyeppp
+ 005        1 | degwdgmpaeosf1
+ 005        1 | deruhrprimakelly
+ 005        1 | desbsbeast2
+ 005        1 | deunilandauzepfzepfpc5
+ 005        1 | deuniwuerzburgkksfirewall
+ 011        2 | dkmindmigate
+ 027        5 | dktelekbhkbh132
+ 011        2 | edualaskagiadmlibrary
+ 011        2 | edualaskauafdu0415
+ 022        4 | edualbanyasrcclimateozone
+ 005        1 | eduarizonaasaspc24
+ 152       28 | eduarizonaatmobozone
+ 136       25 | eduarizonaatmochem
+ 033        6 | eduarizonaatmocrystal
+ 005        1 | eduarizonaatmocyclone
+ 016        3 | eduarizonaatmofractus
+ 016        3 | eduarizonaatmohalo
+ 005        1 | eduarizonaatmojed
+ 092       17 | eduarizonaatmolidar
+ 288       53 | eduarizonaatmonimbus
+ 005        1 | eduarizonaatmoozone
+ 016        3 | eduarizonaatmopearl
+ 043        8 | eduarizonaatmorain
+ 016        3 | eduarizonaatmospeedy
+ 054       10 | eduarizonaatmosteve
+ 027        5 | eduarizonaatmostorm
+ 076       14 | eduarizonaatmostratus
+ 163       30 | eduarizonaatmowave
+ 071       13 | eduarizonabpasulabnt15
+ 049        9 | eduarizonacslectura
+ 027        5 | eduarizonacspoodle
+ 011        2 | eduarizonadunas2p1
+ 005        1 | eduarizonafosadmin
+ 016        3 | eduarizonageopalynolog
+ 136       25 | eduarizonageogclimate
+ 022        4 | eduarizonahwrriver
+ 005        1 | eduarizonaispegeo
+ 005        1 | eduarizonalibrarysepub08
+ 005        1 | eduarizonalpldeuteron
+ 005        1 | eduarizonalplmagcon
+ 022        4 | eduarizonalpls2
+ 027        5 | eduarizonaltrrabba
+ 022        4 | eduarizonaoptscititan
+ 005        1 | eduarizonapccebass
+ 005        1 | eduarizonapharmreganlab
+ 011        2 | eduarizonaphysicssoliton
+ 005        1 | eduarizonaradiologygist
+ 005        1 | eduarizonarescomprc4024
+ 005        1 | eduarizonarescomprc5113
+ 011        2 | eduarizonaukitts
+ 005        1 | eduarizonaunevis
+ 005        1 | eduarizonautortola
+ 005        1 | eduarizonauuggashelium
+ 141       26 | eduarizonayumaeclipse
+ 005        1 | eduasueasenpc577
+ 005        1 | eduasuinreppp120
+ 005        1 | eduberkeleysphuhall7551
+ 005        1 | edubrandeisccsoprian5
+ 011        2 | edubuduckwater
+ 011        2 | educaltechamakdv
+ 011        2 | educoloradovivaldi
+ 022        4 | educolostateatmosentropy
+ 005        1 | educolumbialdgobiokbox218
+ 005        1 | educwrulitlit35435
+ 005        1 | edudrexelececbis
+ 027        5 | edudukebotanywhslab
+ 016        3 | edudukeenvfaculty67
+ 005        1 | eduerauprb58b5
+ 011        2 | edugatecheasdougd
+ 005        1 | eduidbsuasm8
+ 027        5 | edulclarkolin7
+ 005        1 | edulouisvilleacademicleuthart
+ 027        5 | edulsusrccmaestro
+ 005        1 | edumaricopamcmc38x225
+ 005        1 | edumaricopapvcfitfran
+ 005        1 | edumasssscdgl
+ 005        1 | edumiamirsmaszebra
+ 071       13 | edumitllnearlink
+ 005        1 | edumsstatecbicobi179
+ 005        1 | edumtugeostrike
+ 016        3 | edundhelioskierkegaard
+ 038        7 | eduneuspa20633
+ 092       17 | eduneuspa20635
+ 022        4 | edunmtnighthawk
+ 011        2 | edunodakundmedlibrary27
+ 005        1 | eduohiostateagkh465d
+ 005        1 | eduohiouphysplntwo321n
+ 011        2 | eduounsslork
+ 049        9 | edupsuesscfaintsun
+ 043        8 | edupsuesscstomate
+ 011        2 | edupurdueatmswarmpool
+ 011        2 | edupurduechemtilt
+ 081       15 | eduriceowlnetmoray
+ 011        2 | edusdsmtiasmist
+ 011        2 | edusdsumx3p35
+ 011        2 | edushsun11134
+ 011        2 | edusjsufacultypc
+ 016        3 | edustanfordgrand
+ 005        1 | edustanfordp211mac
+ 005        1 | edustanfordrhine
+ 049        9 | edusunysbmsrccheget
+ 005        1 | edutamualcorn
+ 011        2 | edutamucoriolis
+ 087       16 | edutamucsrp
+ 005        1 | edutamuktaisun1
+ 011        2 | edutrinityengrnewton
+ 049        9 | eduucaratdkirsh
+ 033        6 | eduucarcgdgauss
+ 060       11 | eduucarcgdgit
+ 005        1 | eduucarharvest
+ 043        8 | eduucarmmmbirch
+ 005        1 | eduucdavisatm33
+ 005        1 | eduucdavisblueprint
+ 114       21 | eduuclatswlats167
+ 005        1 | eduuclatswlats223
+ 027        5 | eduucrmccluskey
+ 119       22 | eduucsblibrarysap14
+ 022        4 | eduucscernie
+ 065       12 | eduucsdchagos
+ 016        3 | eduucsdsplash
+ 065       12 | eduudelstrauss
+ 022        4 | eduuicnursg039
+ 016        3 | eduuiowacbecbe7
+ 005        1 | eduumdtexmex
+ 005        1 | eduumnspaalethea
+ 016        3 | eduunhsrkelvin
+ 005        1 | eduunhsrsherman
+ 016        3 | eduunlcsddgosselin
+ 049        9 | eduunmeeceopus
+ 011        2 | eduusfcfrppp116
+ 005        1 | eduutahbiologybiol25
+ 027        5 | eduutahmetalpental
+ 005        1 | eduutahmetradar
+ 027        5 | eduutexascsrlaplace
+ 022        4 | eduutexasotsslipa4
+ 005        1 | eduutexasphphym11
+ 011        2 | eduuwmcsdalpha2
+ 005        1 | eduvtcnssl011as251111
+ 022        4 | eduvtuusafutura
+ 011        2 | eduwashingtonatmoswindy
+ 011        2 | eduwashingtoncsmaverick
+ 011        2 | eduwashingtoncsminbar
+ 022        4 | eduwashingtoncsvorlon
+ 011        2 | eduwiscmeteorsunset
+ 005        1 | eduwrightalpha
+ 005        1 | eduwrightlibrarypub28
+ 005        1 | eduyalenetcommons107node
+ 005        1 | esciematima14
+ 054       10 | esinmofpro
+ 011        2 | estidtidos
+ 005        1 | esupvudmfboyle
+ 005        1 | esuvcivideo
+ 005        1 | fihelsinkivesuri
+ 011        2 | fijyucohorus
+ 005        1 | fiutajuoru
+ 005        1 | frcnescstnikita
+ 011        2 | frenspyrolite
+ 011        2 | froneraonera
+ 005        1 | frpolytechniquejungle
+ 005        1 | frunivrennes1meule
+ 005        1 | govbnlagsdilg
+ 038        7 | govgfdlsak
+ 005        1 | govlanlsmee
+ 022        4 | govllnlturbulence
+ 038        7 | govnasagsfcanchor
+ 005        1 | govnasagsfcgscsgi04
+ 005        1 | govnasaivvnasa17
+ 011        2 | govnasajplbabylon
+ 011        2 | govnasalarcrti10
+ 060       11 | govnasalarcsisyphus
+ 054       10 | govnoaaabqnoaa3
+ 016        3 | govnoaadvnnwscrpcg
+ 005        1 | govnoaawrhnimbo
+ 005        1 | govosmreetana
+ 011        2 | govpimawwmwwm6556
+ 016        3 | govsrpgateway1
+ 005        1 | govuciarelay1ext
+ 011        2 | govusdanrcsvaengpc2
+ 005        1 | govusgswrpa01fwapas
+ 005        1 | govusgswrw210dcascr
+ 005        1 | govuspsgkeast
+ 038        7 | hkustustsu54
+ 005        1 | idacstikomsbynetra
+ 005        1 | ieucgbiomar
+ 005        1 | ilacilwww
+ 005        1 | itenelcregiorgi
+ 033        6 | jpachokudaimathgalois
+ 043        8 | jpacnagoyauihasihas
+ 022        4 | jpacsokatmokuren2
+ 011        2 | jpacutokyoccsrccsr117
+ 011        2 | jpcohepcolilac
+ 022        4 | jporaixppp235037
+ 054       10 | kracsnuatmlib
+ 076       14 | kracsnunwp2
+ 005        1 | krconowcomnownuri
+ 049        9 | krnmkrenproxy
+ 005        1 | kwmochms
+ 005        1 | milaflaafbsystem120207
+ 005        1 | milafplhcirrus
+ 005        1 | milafrldotornado
+ 005        1 | milafrlerswf2v
+ 005        1 | milafsafbpc2543
+ 011        2 | milarmynvlfyatzeck
+ 011        2 | milarmyssdcn23102
+ 011        2 | milnavychinalakestevemeyer
+ 033        6 | milnoscnradslip15
+ 005        1 | mycomstacksbugh
+ 005        1 | netalbanypm1ip26albny
+ 022        4 | netalterdynipnynewyorkmax53pool054
+ 005        1 | netalterdyniptxdallasmax1pool010
+ 005        1 | netattdialaccessazphoenix1118
+ 005        1 | netattdialaccesscalosangeles3235
+ 076       14 | netattdialaccesscodenver129
+ 005        1 | netattdialaccessmn2minneapolis121
+ 011        2 | netattdialaccessvamiddletown02181
+ 005        1 | netattdialaccessvamiddletown62215
+ 005        1 | netbluegrassnoc
+ 005        1 | netcinti
+ 005        1 | netcintippp33
+ 005        1 | netclarkwitsend
+ 005        1 | netconcentriccnc043045
+ 005        1 | netconcentriccnc059052
+ 016        3 | netcyberhighwayphxtech1
+ 005        1 | netearthlinkmax1soca15
+ 033        6 | netearthlinkmax3laca42
+ 005        1 | neteonplanetts7port30
+ 022        4 | netflashp42
+ 016        3 | netflashp3235
+ 011        2 | netflashtpm145
+ 022        4 | netfnmark618
+ 005        1 | netfuseriogrande54
+ 005        1 | netiadfwpppfw525
+ 005        1 | netibmidjkslip202135775
+ 130       24 | netinfiorfpa1dsp10
+ 005        1 | netinfinipm2s21
+ 005        1 | netinfoavetnwabgr1dial11
+ 005        1 | netiunetport7
+ 005        1 | netiwlp173
+ 005        1 | netlancitemodem89
+ 005        1 | netlightspeedtehppp5
+ 005        1 | netmcicampusuinets03pm01
+ 005        1 | netmcichicago159237189infolink204
+ 005        1 | netmcncspm01041
+ 005        1 | netmetrolinkpc1082
+ 005        1 | netmichdialippm10113
+ 005        1 | netmichdialippm10405
+ 011        2 | netmicronontcont01p05
+ 005        1 | netmtsas2cp15
+ 005        1 | netnantucketppp8
+ 005        1 | netnlutrechtutr99168
+ 005        1 | netnomenomets1p04
+ 005        1 | netodysseepool1012
+ 005        1 | netolympuspapm057
+ 005        1 | netozemailproxyproxy1we0
+ 005        1 | netpiamf81
+ 005        1 | netplanetdenv14
+ 005        1 | netplanetemon313
+ 005        1 | netricochetmg128130
+ 005        1 | netsatwnbrn2
+ 033        6 | netsunvalleysundialin02
+ 011        2 | nettgndial38
+ 005        1 | nettherampkatoip44
+ 005        1 | nettvschk0111
+ 005        1 | netultracinna
+ 005        1 | netusitdynamicjacksonslip16
+ 005        1 | netuumswaseattlemax2cust2
+ 005        1 | netvideotronvlposte209
+ 016        3 | netvoyagerdialflnt49
+ 005        1 | netwhydalann17
+ 005        1 | nlxs4alldialztm0200
+ 005        1 | nlxs4alldialztm0513
+ 005        1 | noasteriskr1
+ 016        3 | nzacmasseyitswww1
+ 022        4 | nzacvuwitstotara
+ 005        1 | nzacwaikatoisis
+ 005        1 | orgcbnsampson
+ 005        1 | orgfortnetdynip69
+ 005        1 | orghalltown
+ 005        1 | orgngsmouth
+ 005        1 | orgrainsbterm1s19
+ 016        3 | orgshodorwash
+ 011        2 | orgworldbankenvlwc1
+ 016        3 | ruksuphys1305
+ 005        1 | runscnetra
+ 016        3 | rurssisiomanta
+ 087       16 | seffaeagle
+ 005        1 | sespacemalin
+ 054       10 | seuuanststiglqst
+ 054       10 | seuuhvidan
+ 033        6 | seuuhvihspforsk
+ 005        1 | sewineasyras26
+ 022        4 | sgcomsingnetts9003525
+ 011        2 | sggovjtcvoyager
+ 011        2 | siasterbellis
+ 005        1 | sksavbacyril
+ 005        1 | tweduccudormg4116a
+ 005        1 | ukacaberdphphysaa
+ 016        3 | ukaclancsesetna
+ 005        1 | ukacleedswebserv1
+ 005        1 | ukaclgupcthcs021
+ 005        1 | ukacmaneemeehpe
+ 033        6 | ukacnercesscjupiter
+ 016        3 | ukacrlagpcswmb
+ 060       11 | ukacstrathdppppr620pc1
+ 011        2 | ukcobulluk29d8de3
+ 005        1 | ukcocimsppp17
+ 027        5 | ukcodirconpoolgw1034
+ 005        1 | ukcomairescmrnickm
+ 022        4 | ukgovtmetowww
+ 005        1 | ustxstatecpaycal467
+ 005        1 | uswalibkitsaplinknet
+ 005        1 | zaacuctegshickory
+ 016        3 | zacotelkomqsomvdoornj
+
+total transfers for each archive section
+
+reqs byte  bytes sent  requests   archive section
+    |
+ 011  007         5084        2 | atmoonlyhomehtml
+ 098  064        46566       18 | applicationhtml
+ 282  049        35864       52 | batsmainhtml
+ 185  313       228950       34 | batsreadmehtml
+ 136  044        31890       25 | bettertonhtml
+ 130  110        80232       24 | bruintjeshtml
+ 043  135        98884        8 | campushtml
+ 043  151       110292        8 | campusmaphtml
+ 190  047        34642       35 | chaoshtml
+ 119  029        21476       22 | chemlabhtml
+ 049  039        28269        9 | codedirhtml
+ 125  418       305693       23 | coursehtml
+ 098  068        49446       18 | davieshtml
+ 320  350       255782       59 | deptshtml
+ 119  072        52577       22 | dickinsonhtml
+ 760 1577      1153185      140 | directoryshtml
+ 054  014        10190       10 | docdirhtml
+ 527  191       139590       97 | facultyshtml
+ 125  034        24782       23 | fuhtml
+ 239  101        73610       44 | hermangpshtml
+ 098  077        56079       18 | hermanhtml
+3409 3507      2564029      628 | homeshtml
+ 136  085        61975       25 | kriderhtml
+ 103  021        15445       19 | lemmonhtml
+ 087  024        17680       16 | mullenhtml
+ 255  305       223250       47 | programshtml
+ 255  579       423334       47 | publicationhtml
+ 065  034        24628       12 | rennohtml
+ 483  154       112805       89 | researchshtml
+ 130  212       154992       24 | research1html
+ 092  130        94860       17 | research2html
+ 065  147       107748       12 | research3html
+ 027  019        13815        5 | research4html
+ 624  570       416372      115 | research5html
+ 098  069        50232       18 | research6html
+ 038  019        13937        7 | schotlandhtml
+ 054  033        24260       10 | sellershtml
+ 054  004         2960       10 | seminarhtml
+ 033  005         3576        6 | statsshtml
+ 022  060        43600        4 | statsjul95html
+ 011  040        29320        2 | statsnowhtml
+ 060  008         5797       11 | weidmanhtml
+ 049  030        22176        9 | zehnderhtml
+ 098  056        41153       18 | zenghtml
+
+
+

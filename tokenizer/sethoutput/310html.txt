@@ -1,0 +1,173 @@
+Approximate time to generate this file: 0.003 seconds
+Begin token stream...
+----------------
+
+
+a1termpaper literature  women by or about
+1800termpaper
+termpapers
+term papers
+termpaper
+term paper
+essay
+theme
+thesis
+book report
+case study
+critical analysis
+
+
+
+
+nbsp
+
+
+
+
+
+
+
+subject index
+anthropology
+architecture
+art
+black studies
+business
+ecology
+economics
+education
+film
+healthcare 
+history
+law
+linguistics
+literature
+mass media
+medicine
+music
+philosophy
+political science
+psychology
+religion
+science
+shakespeare
+sociology
+sports recreation
+urban studies
+womens studies
+
+
+
+ 
+
+
+
+
+literature  women by or about
+
+
+
+
+
+to order a specific paper click the catalog number button next to the paper title of interest
+
+
+
+
+
+ paper title
+description of paper  yr=year written pgs=pages fn=footnotes s=sources $=price
+
+
+
+
+
+	lucy grange by doris lessing	examines the character confined in circumstances and fatalism 79yr 5pgs 4fn 14s 	$4475	
+	the bell jar by s plath	a review of sexuality as seen in this novel 79yr 7pgs 0fn 0s 	$6265	
+	women in hemingway  mortal or mythical	discusses the authors limited perception of women and use of female characters in prominent works 79yr 7pgs 4fn 6s 	$6265	
+	hemingways female characters	traces the strengths and weaknesses of various of hemingways female characters as portrayed in the sun also rises a farewell to arms and for whom the bell tolls 80yr 10pgs 15fn 10s 	$8950	
+	hawthornes the scarlet letter	an analysis of the character pearl 80yr 4pgs 1fn 1s 	$3580	
+	women in light in august and a passage to india	comparison of stereotyped women and womens roles in books by faulkner and forster 81yr 7pgs 0fn 0s 	$6265	
+	the role of women in hemingway and lawrence	thru the majority of both mens works discusses the samevein traits found in their female characters similarities and differences 79yr 10pgs 7fn 7s 	$8950	
+	attitude toward women in the canterbury tales	contends that chaucers work shows an ambivalent attitude towards women 80yr 5pgs 7fn 2s 	$4475	
+	women in love by dh lawrence	a critical examination 80yr 5pgs 4fn 2s 	$4475	
+	defoes moll flanders	an interpretation of this tale of a picaresque woman of virtue emphasizing the literary quality and the equation of love and wealth 80yr 11pgs 14fn 11s 	$9845	
+	the dominant women in gb shaws works	examines the imperious woman as seen in shavian dramaturgy most notably st joan major barbara and mrs warrens profession 82yr 12pgs 10fn 9s 	$10740	
+	shakespeares women	examines the characterizations of women in his plays and sonnets especially the ambiguity of their roles 82yr 9pgs 14fn 10s 	$8055	
+	ethan frome by edith wharton	a critical discussion of the theme of freedom in this work 82yr 8pgs 7fn 7s 	$7160	
+	mrs dalloway by virginia wolfe	a critique and analysis of plot theme characters symbolism imagery and structure 82yr 7pgs 7fn 7s 	$6265	
+	to the lighthouse by virginia wolfe	discuses  plot theme technique style her modernism and importance 82yr 10pgs 12fn 3s 	$8950	
+	shirley by charlotte bronte	a discussion of the minor female characters and their relation to the authors views on women 82yr 4pgs 0fn 0s 	$3580	
+	virginia woolf	how various crises in the authors life affected her writing 82yr 8pgs 15fn 7s 	$7160	
+	jacobs room	by virginia woolf  style irony satire and characters in the authors elegy to her brother 82yr 10pgs 19fn 7s 	$8950	
+	the development of heroines in various books by thomas hardy	tragic flaws in the principal female characters in tess of the durbervilles return of the native and jude the obscure 82yr 11pgs 22fn 12s 	$9845	
+	lady lazarus by sylvia plath	a critical analysis and discussion 79yr 5pgs 0fn 0s 	$4475	
+	anne sexton the vision of women	an analysis of the poets claims of women who are role  restricted and frustrated by repression 79yr 10pgs 14fn 5s 	$8950	
+	the black woman	by toni cade a review 78yr 5pgs 0fn 0s 	$4475	
+	corregidora and sula  two stories of black women	a review and character analysis of black women and an exploration of the role feminine awareness plays in the life of the black woman 79yr 7pgs 0fn 0s 	$6265	
+	to room 19 by doris lessing	an analysis of this work which chronicles the life of a woman caught in a role which denies her essential self by invalidating an area of her emotional response 88yr 5pgs 0fn 0s 	$4475	
+	concepts of good and evil in sula by toni morrison	examines ways in which order is shaken and the impulses of characters in the novel to refute confining patterns by defying current standards of morality to recreate their own reality 87yr 8pgs 6fn 2s 	$7160	
+	death of a salesman and a worn path	a look at the respective characterizations in these works by authur miller and eudora welty 88yr 4pgs 0fn 0s 	$3580	
+	the works of se hinton	analyzes her works such as the outsiders that was then theis is now rumble fish tex and how hintons books explore responsibility friendship desire communication and commitment among adolesence 90yr 7pgs 17fn 9s 	$6265	
+	virginia woolfs three guineas	examines its credibility as a feminist text amd notes this work as the most political of all her books and her savergery in her attack on male domination and its effects on civilization 90yr 6pgs 10fn 5s 	$5370	
+	the street by ann petry	observes the characterization of lutie as being transformed by the strictures of her world from a striving independent parent to a victim of both racism and sexism 90yr 6pgs 10fn 4s 	$5370	
+	everyday use by alice walker	sees this story as a contrast of people and metaphors 90yr 4pgs 0fn 0s 	$3580	
+	willa cathers my antonia	a review of the book in which characters must ultimately do right in order to succeed 90yr 5pgs 3fn 0s 	$4475	
+	willa cathers death comes for the archbishop	portrays mexicans and indians in a somewhat negative light though her characterizations are not absolute but relative 90yr 4pgs 4fn 0s 	$3580	
+	martha quest by doris lessing	summary of adolescence set in south africa and the symbolic family relations within a study in human nature 80yr 8pgs 0fn 0s 	$7160	
+	women in the works of hermann hesse	from siddhartha to the later works of goldmund and narcissus and beneath the wheel traces feminine character development 81yr 10pgs 16fn 25s 	$8950	
+	nora and emma	in a dolls house and madame bovary shows how both women are products of their environments families cultures and how they conform or rebel to the social conventions of the day 81yr 7pgs 9fn 6s 	$6265	
+	dantes conception of women	examines dantes views as seen through divine comedy and a critical analysis of the characters pia metelda francesca and picarda 82yr 5pgs 0fn 0s 	$4475	
+	women and social protest in zolas germinal	a study of the plight of women in late 19th century french society 82yr 4pgs 0fn 0s 	$3580	
+	don quixotes attitude toward women	examines cervantes highly romanticized notions of ideal love as seen through the eyes of his famous windmill chaser 83yr 8pgs 7fn 2s 	$7160	
+	the nibelungenlied	analysis of the character of kriemhild in the ancient germanic myth 84yr 16pgs 0fn 0s 	$14320	
+	the antieve antithesis view of women in medieval literature	women as saints or sinners in medieval french and english literature and verse 84yr 8pgs 22fn 5s 	$7160	
+	women as pacifists in the aeneid	feminism in ancient greece 84yr 6pgs afn 0s 	$5370	
+	alice walkers meridian and the role of women	a description of this work and the life of the central character meridian hill as an example of the roles of women in the southern civil rights movement 91yr 8pgs afn 0s 	$7160	
+	in country by barbara ann mason	examines this novel as beautifully recapturing the mood of a kentucky town in the postvietnam year of 1984 91yr 5pgs 0fn 0s 	$4475	
+	willa cathers   my antonia	examines cathers work as a lovesong or eulegy to the indomitable pioneer spirit ion which her character antonia had survived over the toughest imaginable ordeals to triumph over the land 91yr 8pgs afn 3s 	$7160	
+	little women by louisa may alcott	examines the contrast of wealth and poverty and the social and psychological signifcance as a major theme as the sisters discover that the deeper meaning of their lives consists  in the love they are able to give each other 91yr 4pgs 0fn 0s 	$3580	
+	the bluegrass meadow in kate chopins the awakening	examines the bluegrass meadow as serving as a symbol for what edna pontellier desires all her life but ultimately cannot have namely a sense of freedom and assurance of herself 91yr 6pgs 5fn 0s 	$5370	
+	the significance of the blue  grass meadow in kate chopins the awakening	contrasts the blue grass meadow as serving as a reminder to edna of the familiarity of youth to the sea the sand the sun and the sky the natural elements of the gulf coast and her life with her new orleans businessmanhusband 91yr 5pgs 10fn 3s 	$4475	
+	necessary losses by judith viorst	analyzes this work in terms of its central theme  a study of what we give up in order to grow up 91yr 10pgs 22fn 5s 	$8950	
+	images motifs and patterns in jane eyre by charlotte bronte	observes images of the natural landscape to objectify janes thoughts and feelings the cinderella motif in her struggle with aggressive female antagonists and the pilgrimage 91yr 6pgs 9fn 4s 	$5370	
+	frankenstein by mary shelley	examines victor frankenstein as essentially a tragic faustian character though without the religious overtones inherent in the faustian legend 91yr 4pgs 3fn 0s 	$3580	
+	a comparison of mary shelleys frankenstein and the last man	how both novels came out of the gothic tradition but are not really gothic novels  the main characters as isolated and alone unable to relate to humans  prometheanism as a theme in both novels and the uses made of nature  mans need to find a place 84yr 7pgs 13fn 3s 	$6265	
+	mary shelleys frankenstein	the link between frankenstein and the prometheus myth  mans need to be godlike and gods need to subordinate man  romanticist and enlightenment views of man  character sketches of robert walton and victor frankenstein 85yr 6pgs 4fn 4s 	$5370	
+	the golden apples by eudora welty	a synthesis of critical analyses of weltys philosophical novel including a summary  the importance of mystery and magic in her writings 83yr 9pgs 8fn 9s 	$8055	
+	a comparison of f scott fitzgerald and edith wharton	background of the twenties prosperity and progress along with intolerance and bigotry  fitzgerald and wharton as analysts of upper class society  wharton as more of a critic of social injustice and big business fitzgerald as showing the tragedy of wo 82yr 14pgs 21fn 15s 	$12530	
+	an analysis of death and the family by lily pincus	review of death and the family which mostly deals with the mechanisms of marriage and how death affects marital  relationships  attacks cultural taboos about death psychoanalytic frame of reference how people handle grief comparison to marx and fr 78yr 10pgs 4fn 0s 	$8950	
+	worlds of pain	a review of lillian rubins book of interviews of working class whites  deals with marriage pregnancy childrearing power in relationshipsworking wives sex roles and their attitudes toward them 85yr 7pgs afn 0s 	$6265	
+	the woman warrior by maxine hong kingston	reviews this book which analyzes what it is like to grow up female and chineseamerican 88yr 3pgs 0fn 0s 	$2685	
+	the millstone  by margaret drabble and the centurys	daughter  by pat barfer  the correlation between motherhood and salvation in these two works 90yr 6pgs 8fn 0s 	$5370	
+	jane austens pride and prejudice	portrays women as hunters and men as prey in the realm of polite society because women had to marry shrewdly to assure themselves a solid place in society 90yr 5pgs 7fn 4s 	$4475	
+	women in medieval literature	observes the depictions of women throughout medieval literature as having religious overtones and either virtuous and obedient or evil and alluring as seen in beowulf the canterbury tales sir gawain and the green knight 90yr 4pgs 5fn 0s 	$3580	
+	mary shelleys frankenstein	the link between frankenstein and the prometheus myth  mans need to be godlike and gods need to subordinate man  romanticist and enlightenment views of man  character sketches of robert walton and victor frankenstein 85yr 6pgs 4fn 4s 	$5370	
+
+
+
+
+
+
+
+best experienced with
+
+click here to start
+
+
+
+
+
+
+send comments to  commentsa1termpapercom 
+
+last updated  122196
+copyright copy1996 asm communications inc  all rights reserved
+
+
+
+
+
+
+
+

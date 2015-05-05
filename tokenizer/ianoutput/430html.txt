@@ -1,0 +1,253 @@
+acu 1971 senate ratings
+  acu 1971 senate ratings  
+republicans in caps 
+  acu key issues index  
+alabama   
+allen 
+85 
+sparkman 
+67 
+alaska   
+gravel 
+0 
+stevens 
+50 
+arizona   
+fannin 
+100 
+goldwater 
+100 
+arkansas   
+fulbright 
+20 
+mcclellan 
+70 
+california   
+cranston 
+0 
+tunney 
+0 
+colorado   
+allott 
+82 
+dominick 
+87 
+connecticut   
+ribicoff 
+0 
+weicker 
+71 
+delaware   
+boggs 
+53 
+roth 
+90 
+florida   
+chiles 
+50 
+gurney 
+100 
+georgia   
+gambrell 
+58 
+talmadge 
+60 
+hawaii   
+inouye 
+14 
+fong 
+67 
+idaho   
+church 
+5 
+jordan 
+85 
+illinois   
+stevenson 
+0 
+percy 
+24 
+indiana   
+bayh 
+0 
+hartke 
+0 
+iowa   
+hughes 
+0 
+miller 
+91 
+kansas   
+dole 
+100 
+pearson 
+42 
+kentucky   
+cook 
+61 
+cooper 
+53 
+louisiana   
+ellender 
+68 
+long 
+76 
+maine   
+muskie 
+0 
+smith 
+82 
+maryland   
+beall 
+74 
+mathias 
+0 
+massachusetts   
+kennedy 
+0 
+brooke 
+11 
+michigan  
+hart 
+0 
+griffin 
+76 
+minnesota  
+humphery 
+0 
+mondale 
+0 
+mississippi   
+eastland 
+94 
+stennis 
+94 
+missouri   
+eagleton 
+0 
+symington 
+5 
+montana   
+mansfield 
+12 
+metcalf 
+11 
+nebraska   
+curtis 
+100 
+hruska 
+100 
+nevada   
+bible 
+56 
+cannon 
+50 
+new hampshire   
+mcintyre 
+17 
+cotton 
+94 
+new jersey   
+williams 
+0 
+ case 
+0 
+new mexico   
+anderson 
+20 
+montoya 
+13 
+new york   
+ buckley 
+100 
+ javits 
+10 
+north carolina   
+ervin 
+80 
+jordan 
+41 
+north dakota   
+burdick 
+0 
+ young 
+89 
+ohio   
+ saxbe 
+56 
+ taft 
+58 
+oklahoma   
+harris 
+0 
+ bellmon 
+71 
+oregon   
+ hatfield 
+18 
+ packwood 
+44 
+pennsylvania   
+ schweiker 
+25 
+ scott 
+50 
+rhode island   
+pastore 
+11 
+pell 
+0 
+south carolina   
+hollings 
+67 
+ thurmond 
+100 
+south dakota   
+mcgovern 
+0 
+ mundt 
+tennessee   
+ baker 
+94 
+ brock 
+100 
+texas   
+bentsen 
+41 
+ tower 
+100 
+utah   
+moss 
+6 
+ bennett 
+94 
+vermont   
+ aiken 
+28 
+ stafford 
+33 
+virginia   
+byrd 
+95 
+spong 
+40 
+washington   
+jackson 
+23 
+magnuson 
+12 
+west virginia   
+byrd 
+56 
+randolph 
+22 
+wisconsin   
+nelson 
+0 
+proxmire 
+0 
+wyoming   
+mcgee 
+40 
+ hansen 
+100 

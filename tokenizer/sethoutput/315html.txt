@@ -1,0 +1,171 @@
+Approximate time to generate this file: 0.003 seconds
+Begin token stream...
+----------------
+
+
+a1termpaper mass media  television  radio
+1800termpaper
+termpapers
+term papers
+termpaper
+term paper
+essay
+theme
+thesis
+book report
+case study
+critical analysis
+
+
+
+
+nbsp
+
+
+
+
+
+
+
+subject index
+anthropology
+architecture
+art
+black studies
+business
+ecology
+economics
+education
+film
+healthcare 
+history
+law
+linguistics
+literature
+mass media
+medicine
+music
+philosophy
+political science
+psychology
+religion
+science
+shakespeare
+sociology
+sports recreation
+urban studies
+womens studies
+
+
+
+ 
+
+
+
+
+mass media  television  radio
+
+
+
+
+
+to order a specific paper click the catalog number button next to the paper title of interest
+
+
+
+
+
+ paper title
+description of paper  yr=year written pgs=pages fn=footnotes s=sources $=price
+
+
+
+
+
+	public broadcasting	discusses divisions of administration public television in the united states system 78yr 7pgs 5fn 5s 	$6265	
+	ownership and control of the mass media in america	an analysis of fair control of the media and private interest including the attempts of itt to purchase the american broadcasting system and a sociological view of the media as being responsible for shaping public opinion 79yr 10pgs 6fn 10s 	$8950	
+	small screen color tv an evaluation	from a consumer report examines an article rating the item on service and quality 79yr 5pgs 0fn 0s 	$4475	
+	difference in newspaper and tv reporting	analyzes the coverage given in these two media to news events stressing time and space priority and depth 80yr 9pgs 0fn 0s 	$8055	
+	the first amendment and the fairness doctrine	covers the history and its effect on the media and its relation with the fcc and the courts includes exhibits 80yr 15pgs 2fn 7s 	$13425	
+	prime time access rule	an examination of the history and evolution from its inception in 1971 71yr 7pgs 8fn 7s 	$6265	
+	william s paley	an overview of his life and impact on broadcasting and mass media 80yr 13pgs 23fn 7s 	$11635	
+	mass media and the invasion of privacy issue	conflicts between a free press and invasion of privacy  examines into the controversy over whether or not to televise trials 83yr 7pgs 8fn 10s 	$6265	
+	live tv or print  which is more reliable	gives a case for both sides being more factual at certain times   also discusses the need for regulation of media 83yr 7pgs 7fn 6s 	$6265	
+	media the second god by tony schwartz	the effects of broadcasting on communication and persuasion 83yr 6pgs 7fn 0s 	$5370	
+	considerations of satellite communications	discusses satellite communications its present and future directions 85yr 7pgs 4fn 10s 	$6265	
+	the role of the mass media in the civil rights movement	examines the mass media newspapers magazines professional journals radio television and the movies as influencial agents of socialization in the civil rights movement of the 1950s and 1960s 90yr 16pgs 21fn 12s 	$14320	
+	sensationalism in television journalism	focuses on geraldo riveras defense against charges of sensationalism and yellow journalism leveled against him by writers for newsweek abc television news and the new york times 91yr 6pgs 0fn 0s 	$5370	
+	minority ownership of broadcasting stations  the case of metro broadcasting versus the fcc	an analysis of the recent supreme court decision in upholding affirmative action policies in broadcasting ownership  looks at the fairness doctrine pro and anti affirmative action views regarding station ownership conclusion 91yr 11pgs 17fn 9s 	$9845	
+	john f kennedy and the mass media	discusses how kennedy used the media to enhance his career and focuses particularly on the televised nixonkennedy debates which took place in the 1960 presidential campaign 93yr 6pgs afn 10s 	$5370	
+	late night radio audiences	compares night radio to its overly commercialized counterpart in the areas of jazz classical rock and talk shows depicting role of the disc jockey and his relation to the audience 79yr 10pgs 5fn 6s 	$8950	
+	broadcasting licensing and establishment	discusses attempts to set up a broadcasting station and the role of the fccs form 301 80yr 4pgs 5fn 4s 	$3580	
+	the development of radio and television 19401950	an examination of the fccs influence on tv and radio expansion during this time period 80yr 4pgs 3fn 4s 	$3580	
+	financing broadcasting in canada west germany and japan	an analysis of how foreign governments finance broadcasting operations focusing on the methods used by the above countries 80yr 7pgs 14fn 3s 	$6265	
+	radio bantu	examines this apartheid dialect station in south africa which operated solely in the interests of maintaining the thencurrent racist regime 80yr 11pgs 10fn 4s 	$9845	
+	recent developments in public broadcasting	analyzes the programming policies of public television networks stressing the changes at wnet and wbaifm radio as examples 80yr 7pgs 9fn 5s 	$6265	
+	radio stations	a look at public radio broadcasting its history and forms 84yr 8pgs 23fn 5s 	$7160	
+	print media coverage of the montgomery bus boycott 195556  a comparison of newspaper journalism in southern and northern states	includes introduction southern press coverage as negative and unsympathetic northern press coverage as positive and giving favorable publicity to martin luther king and other boycott leaders etc 91yr 25pgs afn 40s 	$22375	
+	electronic media and attitude formation	examines the phenomenon of radio and televisionwith specific attention to the manner in which television and radio depict or create reality and the effect on a number of social and cultural values and the impact upon members of minority groups 93yr 8pgs 14fn 0s 	$7160	
+	television news production	notes professional roles involved and outlines a news program 78yr 10pgs 11fn 15s 	$8950	
+	community antenna television	discusses the rules and standards the fcc had set for cable television funding and grants congressional vs fcc control franchises in programming and utopian dreams of push button receipt of any desired program 78yr 15pgs 0fn 6s 	$13425	
+	the history of cable television	includes its beginnings funding fcc regulations and future uses in the us 78yr 9pgs 9fn 6s 	$8055	
+	televised rock concerts	a commentary on the new television audience that kirschner has created the business of rock the speculation on tv as a media that will increase its interest in rock performance with more creative efforts 79yr 8pgs 6fn 9s 	$7160	
+	crisis in tv by aimonson	observes the impact that programs and commercials have on even the most passive viewing audience 79yr 4pgs 0fn 0s 	$3580	
+	political campaigns does tv present or package politicians	focuses particularly on kennedy and nixon and how television can present the image that appeals to the senses  regardless of the issues at hand 79yr 9pgs 13fn 9s 	$8055	
+	television survey	a study of people who watch television their social status and interests 80yr 9pgs 2fn 1s 	$8055	
+	television violence	discusses the influence of violence on the behavior of children 80yr 6pgs 9fn 7s 	$5370	
+	the cool fire by b shanks	book review on how to make it in television 80yr 5pgs 0fn 0s 	$4475	
+	how television supports cultural stereotypes of sexes	an analysis of the role of the television media which is able to keep alive traditional roles and dependent female independent male roles 80yr 6pgs 2fn 7s 	$5370	
+	reporting war through the television media	examines the efficacy and impact of using the media for war reportage stressing cultural shock elements 80yr 3pgs 3fn 5s 	$2685	
+	the impact of television	analyzes the political economic sociological and psychological impact of tvs technological and industrial contribution 80yr 5pgs 7fn 7s 	$4475	
+	the video beam in todays competitive television	discusses the advent of largescreen tv units and their implications for the industry  80yr 8pgs afn 0s 	$7160	
+	the 1977 boxing scandal and television	discusses allegations of favoritism kickbacks and falsified records in illfated tvboxing alliance involving abc and don king productions in 1977 77yr 12pgs 6fn 4s 	$10740	
+	corporate teleconferencing	examines the process by which information is transferred among members of an organization 80yr 9pgs 14fn 6s 	$8055	
+	five ideas for tv shows for kids	educational television shows for children dealing with crafts ethnic relations survival skills 80yr 7pgs 0fn 0s 	$6265	
+	television programming	violence in childrens programming and the extent to which television influences news events 80yr 7pgs 0fn 0s 	$6265	
+	black humorous television programs	black stereotyped characterization new perceptions of blacks and televisions contributions to separatism and or black pride 80yr 8pgs 18fn 6s 	$7160	
+	television news a look at the networks	a look at the growing role of network news in america with some history and analysis of events that shaped its influence  also treats the role of women in network news the evolving importance of the anchor  how tv sensationalizes events 86yr 15pgs 9fn 6s 	$13425	
+	the role of the media in westmoreland vs cbs	the importance of the westmoreland suit and how the media shapes public opinion by how it interviews and presents news  ideological status of media military and government and how they often clash 85yr 11pgs 7fn 8s 	$9845	
+	children and television	a history of television specifically dealing with the steps taken to regulate childrens programming and advertising 85yr 9pgs 15fn 0s 	$8055	
+	the sponsor	how commercial tv is a selling machine dominated by sponsors  how modern tv presents certain ideas 84yr 7pgs 0fn 0s 	$6265	
+	the positive and negative effects of tv on our daily life	how tv has and will continue to change  listing of positive and negative effects and how public viewing habits can affect them 84yr 5pgs 5fn 5s 	$4475	
+	news viewing habits of working and nonworking women	a research study comparing the news viewing habits of working and nonworking women  how the womens news audience hashas not changed in 15 years  literature review hypothesis conclusions 85yr 12pgs 6fn 5s 	$10740	
+	media influence and strategy in the recent presidential election	analyzes whether the 1988 campaign tv coverage was fundamentally different than other campaigns or that it was the logical culmination of certain tendencies such as artificiality distortion and subliminal persuasion 88yr 10pgs 6fn 5s 	$8950	
+	public television during the reagan administration	analyzes the financial position of public television and its options going into the 1990s surviving against the budget cuts of the reagan administration competing against cable in the commercial marketplace and retaining a high standard of quality  88yr 20pgs 26fn 18s 	$17900	
+	television  its past present and future	examines the history of television network and advertisor control ratings and pressure groups advancement of televisions technology such as highdefinition television and the use of fiber optics etc 88yr 12pgs 17fn 28s 	$10740	
+	ted turner  a  biography	examines the life and business successes of turner a flamboyant individualistic controversial figure who built a broadcasting empire rivaling the three major television networks 88yr 6pgs 9fn 0s 	$5370	
+	cheers  the tv comedy	analyzes the set characters and appeal of this television show one of the most popular comedies of the 1980s 88yr 6pgs 6fn 10s 	$5370	
+	an analysis of cbss 60 minutes	observes 60 minutes as both reflecting and promoting a major change in the nature of television documentary production 90yr 6pgs 6fn 5s 	$5370	
+	sex and violence on television	examines the considerable concern in recent years about the increase of sexually explicit and violent material in television programming 90yr 7pgs 14fn 7s 	$6265	
+	the network news as sensational	looks at the tendencies of the national evening news as competing for war and hostage dramas as the best competition for ratings 90yr 9pgs 10fn 5s 	$8055	
+	watching media  the gulf war	examines how important visuals ha e become in allowing viewers to understand what has been going on focusing on the gulf war as an example 91yr 6pgs 0fn 0s 	$5370	
+	the use of the camcorder in media	observes the the increasing use of the camcorder and an influx of events being captured by stray video cameras in the hands of citizens looks at the the rodney king case the san francisco earthquake etc as examples 91yr 6pgs afn 5s 	$5370	
+	nonverbal communication on network news	observes a great deal of physical intuitive and nonverbal communication taking place in a typical broadcast including shrugging of shoulders rolling of eyes and projections of personal space etc 92yr 6pgs afn 4s 	$5370	
+
+
+
+
+
+
+
+best experienced with
+
+click here to start
+
+
+
+
+
+
+send comments to  commentsa1termpapercom 
+
+last updated  122196
+copyright copy1996 asm communications inc  all rights reserved
+
+
+
+
+
+
+
+

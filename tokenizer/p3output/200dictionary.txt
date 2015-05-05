@@ -1,0 +1,400 @@
+a
+Number of entries: 2
+Starting Line: 1
+and
+Number of entries: 4
+Starting Line: 3
+$000
+Number of entries: 2
+Starting Line: 7
+$1
+Number of entries: 6
+Starting Line: 9
+$10
+Number of entries: 6
+Starting Line: 15
+$100
+Number of entries: 3
+Starting Line: 21
+$1000
+Number of entries: 5
+Starting Line: 24
+$10000
+Number of entries: 4
+Starting Line: 29
+$100000
+Number of entries: 3
+Starting Line: 33
+$10740
+Number of entries: 75
+Starting Line: 36
+$11
+Number of entries: 2
+Starting Line: 111
+$1126
+Number of entries: 1
+Starting Line: 113
+$11635
+Number of entries: 67
+Starting Line: 114
+$12
+Number of entries: 5
+Starting Line: 181
+$12530
+Number of entries: 56
+Starting Line: 186
+$130
+Number of entries: 2
+Starting Line: 242
+$13425
+Number of entries: 71
+Starting Line: 244
+$14320
+Number of entries: 58
+Starting Line: 315
+$15
+Number of entries: 5
+Starting Line: 373
+$150
+Number of entries: 6
+Starting Line: 378
+$15215
+Number of entries: 38
+Starting Line: 384
+$1595
+Number of entries: 2
+Starting Line: 422
+$16110
+Number of entries: 33
+Starting Line: 424
+$17
+Number of entries: 3
+Starting Line: 457
+$17005
+Number of entries: 24
+Starting Line: 460
+$1755
+Number of entries: 1
+Starting Line: 484
+$1790
+Number of entries: 17
+Starting Line: 485
+$17900
+Number of entries: 61
+Starting Line: 502
+$18
+Number of entries: 2
+Starting Line: 563
+$18795
+Number of entries: 35
+Starting Line: 565
+$189
+Number of entries: 3
+Starting Line: 600
+$19
+Number of entries: 2
+Starting Line: 603
+$193
+Number of entries: 2
+Starting Line: 605
+$19690
+Number of entries: 18
+Starting Line: 607
+$1995
+Number of entries: 2
+Starting Line: 625
+$2
+Number of entries: 3
+Starting Line: 627
+$20
+Number of entries: 4
+Starting Line: 630
+$200
+Number of entries: 4
+Starting Line: 634
+$2000
+Number of entries: 2
+Starting Line: 638
+$20000
+Number of entries: 2
+Starting Line: 640
+$20585
+Number of entries: 17
+Starting Line: 642
+$21
+Number of entries: 1
+Starting Line: 659
+$210
+Number of entries: 3
+Starting Line: 660
+$21480
+Number of entries: 22
+Starting Line: 663
+$22
+Number of entries: 2
+Starting Line: 685
+$22375
+Number of entries: 38
+Starting Line: 687
+$226
+Number of entries: 2
+Starting Line: 725
+$23
+Number of entries: 2
+Starting Line: 727
+$231
+Number of entries: 1
+Starting Line: 729
+$23270
+Number of entries: 12
+Starting Line: 730
+$240
+Number of entries: 2
+Starting Line: 742
+$24165
+Number of entries: 11
+Starting Line: 744
+$245
+Number of entries: 4
+Starting Line: 755
+$2495
+Number of entries: 2
+Starting Line: 759
+$25
+Number of entries: 8
+Starting Line: 761
+$250
+Number of entries: 2
+Starting Line: 769
+$2500
+Number of entries: 2
+Starting Line: 771
+$25000
+Number of entries: 4
+Starting Line: 773
+$25060
+Number of entries: 9
+Starting Line: 777
+$255
+Number of entries: 2
+Starting Line: 786
+$25955
+Number of entries: 10
+Starting Line: 788
+$2685
+Number of entries: 45
+Starting Line: 798
+$26850
+Number of entries: 23
+Starting Line: 843
+$27745
+Number of entries: 6
+Starting Line: 866
+$28640
+Number of entries: 10
+Starting Line: 872
+$29535
+Number of entries: 2
+Starting Line: 882
+$3
+Number of entries: 7
+Number of entries: 1
+Starting Line: 269570
+zsidok
+Number of entries: 9
+Starting Line: 269571
+zsidokra
+Number of entries: 2
+Starting Line: 269580
+zsidosag
+Number of entries: 6
+Starting Line: 269582
+zsidosagot
+Number of entries: 2
+Starting Line: 269588
+zsidot
+Number of entries: 2
+Starting Line: 269590
+zsigmond
+Number of entries: 3
+Starting Line: 269592
+zsofia
+Number of entries: 15
+Starting Line: 269595
+zsoldos
+Number of entries: 1
+Starting Line: 269610
+zsolnay
+Number of entries: 1
+Starting Line: 269611
+zsolt
+Number of entries: 13
+Starting Line: 269612
+zsugoritas
+Number of entries: 2
+Starting Line: 269625
+zsugorodik
+Number of entries: 2
+Starting Line: 269627
+zsugorodott
+Number of entries: 2
+Starting Line: 269629
+zsuzsa
+Number of entries: 2
+Starting Line: 269631
+zu
+Number of entries: 1
+Starting Line: 269633
+zugtak
+Number of entries: 1
+Starting Line: 269634
+zuhant
+Number of entries: 5
+Starting Line: 269635
+zuhantak
+Number of entries: 2
+Starting Line: 269640
+zundel
+Number of entries: 1
+Starting Line: 269642
+zurich
+Number of entries: 2
+Starting Line: 269643
+zurzavar
+Number of entries: 1
+Starting Line: 269645
+zuzzuk
+Number of entries: 1
+Starting Line: 269646
+zvezda
+Number of entries: 2
+Starting Line: 269647
+zvornik
+Number of entries: 2
+Starting Line: 269649
+zvyahilsky
+Number of entries: 1
+Starting Line: 269651
+zwach
+Number of entries: 3
+Starting Line: 269652
+zwack
+Number of entries: 1
+Starting Line: 269655
+zyuganov
+Number of entries: 15
+Starting Line: 269656
+zyuganovs
+Number of entries: 4
+Starting Line: 269671
+zzzzzzz
+Number of entries: 39
+Starting Line: 269675
+|copyright
+Number of entries: 2
+Starting Line: 269714
+||
+Number of entries: 6
+Starting Line: 269716
+sartres
+Number of entries: 1
+Starting Line: 269722
+�100
+Number of entries: 1
+Starting Line: 269723
+�1000
+Number of entries: 1
+Starting Line: 269724
+�165
+Number of entries: 1
+Starting Line: 269725
+�250
+Number of entries: 1
+Starting Line: 269726
+�2524
+Number of entries: 1
+Starting Line: 269727
+�3000
+Number of entries: 1
+Starting Line: 269728
+�357
+Number of entries: 1
+Starting Line: 269729
+�500
+Number of entries: 2
+Starting Line: 269730
+�5000000
+Number of entries: 1
+Starting Line: 269732
+�600
+Number of entries: 1
+Starting Line: 269733
+�gy
+Number of entries: 1
+Starting Line: 269734
+�j
+Number of entries: 1
+Starting Line: 269735
+�ljen
+Number of entries: 1
+Starting Line: 269736
+�llam
+Number of entries: 1
+Starting Line: 269737
+�llami
+Number of entries: 1
+Starting Line: 269738
+�llamok
+Number of entries: 1
+Starting Line: 269739
+�llel
+Number of entries: 1
+Starting Line: 269740
+�ltal
+Number of entries: 1
+Starting Line: 269741
+�ltaluk
+Number of entries: 1
+Starting Line: 269742
+�rdekeinek
+Number of entries: 1
+Starting Line: 269743
+�rja
+Number of entries: 1
+Starting Line: 269744
+�rtelemben
+Number of entries: 1
+Starting Line: 269745
+�rtelmis�g
+Number of entries: 1
+Starting Line: 269746
+�rtelmis�gi
+Number of entries: 1
+Starting Line: 269747
+�r�sok
+Number of entries: 1
+Starting Line: 269748
+�s
+Number of entries: 1
+Starting Line: 269749
+�super
+Number of entries: 1
+Starting Line: 269750
+�t
+Number of entries: 1
+Starting Line: 269751
+�the
+Number of entries: 1
+Starting Line: 269752
+�v
+Number of entries: 1
+Starting Line: 269753
+�ve
+Number of entries: 1
+Starting Line: 269754
+�vtizedes
+Number of entries: 1
+Starting Line: 269755
+���x
+Number of entries: 1
+Starting Line: 269756

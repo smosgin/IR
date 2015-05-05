@@ -1,0 +1,27 @@
+Token: Weight
+----------------
+allow: 0.0325435214
+website: 0.0456999391
+communications: 0.0149100395
+seeing: 0.0516628921
+association: 0.0282215625
+alert: 0.0516628921
+sea: 0.0674488246
+click: 0.0188143756
+netscape: 0.1199423820
+display: 0.0530928113
+access: 0.0596401580
+education: 0.0149100395
+homepage: 0.0530928113
+message: 0.0466050543
+portions: 0.0625000000
+designed: 0.0264093131
+document: 0.0367528535
+framecapable: 0.1688479930
+obtain: 0.0384515300
+frame: 0.0560122393
+dont: 0.0376287512
+frames: 0.1250000000
+browser: 0.1875000000
+read: 0.0392272659
+utilize: 0.0530928113

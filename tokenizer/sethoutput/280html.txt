@@ -1,0 +1,234 @@
+Approximate time to generate this file: 0.002 seconds
+Begin token stream...
+----------------
+
+
+a1termpaper business  marketing  market research
+1800termpaper
+termpapers
+term papers
+termpaper
+term paper
+essay
+theme
+thesis
+book report
+case study
+critical analysis
+
+
+
+
+nbsp
+
+
+
+
+
+
+
+subject index
+anthropology
+architecture
+art
+black studies
+business
+ecology
+economics
+education
+film
+healthcare 
+history
+law
+linguistics
+literature
+mass media
+medicine
+music
+philosophy
+political science
+psychology
+religion
+science
+shakespeare
+sociology
+sports recreation
+urban studies
+womens studies
+
+
+
+ 
+
+
+
+
+business  marketing  market research
+
+
+
+
+
+to order a specific paper click the catalog number button next to the paper title of interest
+
+
+
+
+
+ paper title
+description of paper  yr=year written pgs=pages fn=footnotes s=sources $=price
+
+
+
+
+
+	marketing as the satisfaction of the desires of users of goods and services	examines marketings purpose methods economics consumer patterns and role in business 78yr 13pgs 15fn 6s 	$11635	
+	marketing segmentation	examines marketing techniques relative to buyer characteristics and consumption patterns 78yr 8pgs 2fn 5s 	$7160	
+	salesmen consumer vs industrial goods	compare attitude selling technique demographic data and behavioral differences involved in reaching specific markets 78yr 30pgs 13fn 5s 	$26850	
+	the nature of marketing management or mass communication	depicts the relationship between the technological society and mass systems and role of the media 78yr 4pgs 4fn 4s 	$3580	
+	life insurance programs	a hypothetical plan of sales strategy for implementation on the masses 78yr 5pgs 0fn 0s 	$4475	
+	psychographics market research today	studies market strategy in relation to psychological differences among the consumer market 79yr 12pgs 36fn 9s 	$10740	
+	family buying behavior buying decisions and processes and consumer behavior	discusses factors that affect and influence family buying patterns and trends 79yr 9pgs afn 0s 	$8055	
+	proposals for improving the marketing services to lowincome areas	studies existing literature to determine if prices and services are higher in these areas and proposals to improve such services 79yr 6pgs 5fn 4s 	$5370	
+	a study of differences in blackwhite consumption	analyzes consumer consumption trends and patterns preferences to establish if differences actually do exist 79yr 11pgs 11fn 5s 	$9845	
+	the marketing of spanish foods in the u s	an assessment of marketing techniques regional attraction media and the direction and quality of marketing programs 79yr 6pgs 1fn 1s 	$5370	
+	product deletions an analysis of corporate policy and procedure in gradually eliminating an unprofitable product from an industrys product mix	includes outline 79yr 6pgs 2fn 12s 	$5370	
+	the swifts company a  case study	examines swifts decision to market prestuffed turkeys and an analysis of consumer reaction with conclusion 79yr 14pgs 0fn 0s 	$12530	
+	how can inner city marketing be improved	looks at the relationship between marketing institutions and inner city residents methods that could improve this situation 79yr 14pgs 3fn 2s 	$12530	
+	promotional methods of the tea industry	examines new advertising and promotional techniques as a response to the decline in tea sales 79yr 10pgs 5fn 5s 	$8950	
+	marketing methods of the tea industry	examines new advertising and promotional techniques as a response to the decline in tea sales 79yr 5pgs 2fn 4s 	$4475	
+	problems of the tea industry in the us	includes pricing production competition from foreign countries and other problems the industry currently faces 79yr 5pgs 3fn 4s 	$4475	
+	marketing techniques in a nonmarketing situation	discusses utilization of techniques for maximum efficiency particularly in hospitals 79yr 5pgs 2fn 4s 	$4475	
+	marketing strategy and structure	discusses theoretical marketing strategy and various phases and failures to analyze consumer reactions 79yr 6pgs 0fn 5s 	$5370	
+	marketing research study of continental appliances	examines financial marketing situation who manufacture dishwashers with future recommendations 79yr 9pgs 0fn 0s 	$8055	
+	marketing program	examines a hypothetical openended investment company in terms of funds promotional efforts investments and stockholding 79yr 5pgs 0fn 0s 	$4475	
+	how blacks and whites differ in their buying decisions	discusses the psychological and sociological causes for the differences between black and white consumption patterns attitudes and shopping habits 79yr 17pgs 25fn 15s 	$15215	
+	the role of the manufacturers representative	examines the middleman the advantages of independent selling establishing clientele financial risk and job security that are involved 79yr 7pgs 6fn 4s 	$6265	
+	consumer behavior	notes primarily the factors that precipitate buying 79yr 5pgs 2fn 4s 	$4475	
+	marketing plan	recommendations for better pricing and marketing of cars 80yr 7pgs 0fn 0s 	$6265	
+	marketing a new product	details methods of research and marketing for a hypothetical industry 80yr 5pgs 0fn 0s 	$4475	
+	marketing the business condominium	investigates this new real estate market sales methods and marketing plans in the sale of business condominiums 79yr 4pgs 3fn 5s 	$3580	
+	the adolf coors company	examines the relationship between production and consumption and the companys distribution mix 79yr 5pgs 10fn 6s 	$4475	
+	the nature and scope of market research as a decision maker	an analysis of the various techniques and statistical approaches used in marketing research as an aid in decision making with applications to the food industry 79yr 18pgs 58fn 23s 	$16110	
+	the status of bank marketing programs	an analysis of the current practices and technological innovations of banks and financial institutions designed to draw new customers discusses computerized magnetic banking cards credit card systems bank services for nominal fees overdraft systems and flexible credit 79yr 26pgs 15fn 18s 	$23270	
+	promotional strategy of the revlon cosmetics company	an analysis of the current and future practices of this company in regard to the promotional plans advertising budget promotional targets and  strategies 80yr 12pgs 7fn 10s 	$10740	
+	salesmen consumer vs industrial goods	an attempt to define the qualities in salesmen necessary to become successful through examining satisfaction historically in salesmen and includes questionnaire method focusing upon consumer and industrial goods 80yr 20pgs 4fn 4s 	$17900	
+	franchise management and marketing	focuses primarily on the nature of franchising with specific emphasis on the operations of macdonalds burger king seveneleven and puppy palace 80yr 30pgs 0fn 15s 	$26850	
+	consumer behavior past present  in the future	the motivation of the american buyer is examined in detail through history and projected into future business 80yr 7pgs 8fn 6s 	$6265	
+	an analysis of the cosmetics industry	the multileveled cosmetic industry is defined with impact on the economy and marketing strategy also analyzed 80yr 8pgs 13fn 5s 	$7160	
+	major oil marketing  the service station	examines the origins and current status of owning and operating a service station 80yr 7pgs 3fn 7s 	$6265	
+	fast food franchise management and marketing	an indepth analysis of this curiously american phenomenon with special attention given to the mcdonalds corporation 80yr 40pgs 25fn 12s 	$35800	
+	the marketing of services	examines the marketing approaches of a wide variety of service business such as consumer services and public services 80yr 8pgs 7fn 5s 	$7160	
+	salesmanship selling squeezeeez to supermarkets	examines the motivation involved in marketing and selling a novelty product 80yr 7pgs 0fn 0s 	$6265	
+	howard johnsons	an in depth analysis of the sales approach marketing methods and overall comeback in the era of fast food merchandising 80yr 11pgs 15fn 8s 	$9845	
+	pricing a product a case study of corning glass works corp	an analysis of the price policies involved in the development and marketing of cornings tv bulbs 80yr 7pgs 9fn 2s 	$6265	
+	significance of channels of distribution	theories actual practices economic and marketing analysis of channels of distribution 80yr 15pgs 21fn 9s 	$13425	
+	a comparison of delta northwest  pan american airways	the pluses problems and operations of these three airlines and what the management of each is doing to maintain or improve total production 80yr 6pgs 0fn 0s 	$5370	
+	fast foods restaurants vs prepared or full service restaurants	a comparison of the benefits and drawbacks of these two types of food services 80yr 7pgs 8fn 8s 	$6265	
+	consumer behavior in marketing of services	theories of consumer behavior as relates to the special characteristics of marketing services 80yr 13pgs 11fn 9s 	$11635	
+	the marketing manager a profile	a study of this cornerstone of the corporate process as decision maker and problem solver 80yr 16pgs 6fn 6s 	$14320	
+	the americanization of a european soup	a case study of the rose food corporations attempts to market a line of dehydrated soups 80yr 8pgs 0fn 0s 	$7160	
+	marketing management	an analysis of the problems within a managerial marketing situation in corporate memo form 80yr 9pgs 0fn 4s 	$8055	
+	a new product analysis for the consideration of the board of directors of bottoms up inc	an analysis of an idea for the introduction by the firm of a new line of baby powder 80yr 6pgs 4fn 4s 	$5370	
+	consumer behavior	a study of the elements which affect in this aspect of human behavior and how they are implemented in advertising   marketing and sales methods 80yr 11pgs 5fn 5s 	$9845	
+	marketing management problems	examines the problems inherent in developing the sales potential of a hypothetical firm 80yr 24pgs 5fn 2s 	$21480	
+	the marketing of ethical pharmaceuticals in western europe as compared to the us	different tactics for different markets 80yr 8pgs 16fn 7s 	$7160	
+	industrial marketing strategy	analysis and necessary planning  includes charts and tables showing various industries compared 80yr 11pgs 7fn 16s 	$9845	
+	marketing strategy for digital equipment corporation	comparisons with ibm and attached moodys industrial manual report 80yr 8pgs 5fn 7s 	$7160	
+	the safety razor division of the gillette co	its competition and marketing strategies 80yr 10pgs 0fn 0s 	$8950	
+	the marketing plan for the game all star basketball	detailed discussion of the marketing of this board game and its attempt to cash in on the interest in the game itself 80yr 25pgs 13fn 8s 	$22375	
+	people and places in marketing	actually a brief overall book on marketing in general  consumer motivation demographics wholesale and retail distribution and government regulation  also a brief history 80yr 57pgs 43fn 20s 	$51015	
+	the sprite case	analysis of   marketing and sales planning for selling sprite against soft drink competition 80yr 6pgs 0fn 0s 	$5370	
+	consumer behavior new florescent lighting lamp and fixture	explanation of research on consumer attitudes on this subject 80yr 10pgs 0fn 0s 	$8950	
+	1980 marketing plan for kleenex	history of product situation analysis and contributing factors to success demand networking objectives and strategies 80yr 18pgs 8fn 0s 	$16110	
+	husband and wife consumer purchasing decisions	male and female buying habits and areas where divisions are blurred 81yr 8pgs 9fn 6s 	$7160	
+	marketing orange plus	test marketing and strategies for increasing demand for birds eye product 80yr 7pgs 0fn 0s 	$6265	
+	new product marketing	strategies for marketing a candy product 79yr 7pgs 0fn 0s 	$6265	
+	comparative marketing profiles for levis	history present market prospects corporate social responsibility 80yr 10pgs 15fn 3s 	$8950	
+	sears roebuck and the electric car	strategies for marketing and selling a new and unusual product 79yr 10pgs 5fn 5s 	$8950	
+	sevenup company	marketing strategies for launching a new soft drink 81yr 17pgs 0fn 3s 	$15215	
+	new methods of marketing research	combining old methods into interdisciplinary research 80yr 6pgs 2fn 2s 	$5370	
+	channels of distribution	strategies for marketing solarpowered home space and hot water heaters 80yr 6pgs 2fn 5s 	$5370	
+	wisconsin bank project	assessing customer relations through a marketing survey with questionnaire 81yr 6pgs 1fn 1s 	$5370	
+	marketing saccharin	case study of marketing artificial sweetener with respect to possibility of being carcinogenic agent competition public demand for dietary product 81yr 15pgs 18fn 10s 	$13425	
+	new product development	pd programs new product ideas brand building marketing research methods 81yr 10pgs 6fn 5s 	$8950	
+	marketing plan for temple university	the universitys attempts to boost enrollment in its mba and communications programs 81yr 7pgs 4fn 5s 	$6265	
+	performance of firm four	case study of marketing strategies of hypothetical unsuccessful manufacturer 81yr 7pgs 0fn 0s 	$6265	
+	shortterm marketing plan	marketing strategies for compact cars 81yr 7pgs 6fn 8s 	$6265	
+	new product marketing and development	product development test packaging and other market strategies for cookies 81yr 13pgs 9fn 12s 	$11635	
+	the waste makers	by vance packard marketing and conspicuous consumption in america 81yr 6pgs 6fn 1s 	$5370	
+	empire hotel marketing program	case study of upgrading hotel in response to gentrification of area in which it is located 81yr 7pgs 0fn 0s 	$6265	
+	s  l holding company	case study in marketing womens apparel in multiline firm 81yr 5pgs 0fn 0s 	$4475	
+	marketing in an inflationary economy	marketing research pricing distribution promotion followup services 81yr 10pgs 11fn 11s 	$8950	
+	marketing in the brewing industry	product history government regulation market segmentation 82yr 7pgs 16fn 5s 	$6265	
+	adolph coors cos distribution problems	an analysis of coors attempts to overcome anheuserbusch and miller in the all competitive beer industry 84yr 8pgs 17fn 0s 	$7160	
+	amway corporation  marketing strategies	a product positioning survey using information on and analysis of the amway corporation an international direct marketing firm 84yr 12pgs 15fn 8s 	$10740	
+	a comparison of the marketing strategies of an independent retail establishment and a major chain franchise system in the contemporary restaurant industry	a look at the marketing procedures of the mcdonalds corporation and the hard rock cafe 85yr 17pgs 22fn 21s 	$15215	
+	business policy in the context of policy formulation	a study of the elements which affect in this aspect of human behavior and how they are implemented in advertising   marketing and sales methods 85yr 7pgs 4fn 0s 	$6265	
+	different approaches and techniques in selling	examines the prospect and sales person relationship and the techniques of persuasion and logic as they relate to the development of new prospects 84yr 8pgs 13fn 12s 	$7160	
+	identification of marketing problems and objectives at the mcdonalds corporation	discusses and analyzes the current position of mcdonalds in the fast food industry its franchise base and competitive situation 86yr 14pgs 13fn 18s 	$12530	
+	hotel management	a discussion of the target market confronting the hotel manager in a newly opened hotelrestaurant 82yr 5pgs 0fn 5s 	$4475	
+	marketing a new product  a voice activated typewriter	examines research and development marketing strategy and marketing concepts applied  to the introduction of a new product  also looks at methods to consider in responding to ads for computer programmers 84yr 7pgs 0fn 0s 	$6265	
+	current legal developments in marketing	observes the continued success of the consumer movement in regard to acceptable ethics and standards in advertising 84yr 9pgs 14fn 11s 	$8055	
+	career opportunities in marketing	recruiting strategies market research and merchandising 76yr 9pgs 15fn 9s 	$8055	
+	wing cuisine  characteristics and marketing strategy	examines wing cuisine as a result of an extensive program of market research focusing on the frozen food industry particularly the frozen vegetable lines 84yr 11pgs 0fn 0s 	$9845	
+	marketing techniques and managerial strategy in the hypothetical promotion of a longerlife battery	an analysis of various marketing research factors that must be taken into account in the marketing strategy for the introduction of this product 83yr 11pgs 8fn 7s 	$9845	
+	avon products inc and quoizel inc  managementmarketing problems and solutions	a case study 87yr 4pgs 1fn 1s 	$3580	
+	the marketing of japanese products in the united states	includes introduction evolution key marketing issuesalternative approaches practical applications analysis future prospects 85yr 13pgs 12fn 20s 	$11635	
+	marketing analysis of general electric	an observation of the prospects for growth for general electricincluding marketing strategies to account for such advents as deregulation under the reagan administration 81yr 25pgs 32fn 0s 	$22375	
+	the marketing of two recently designed and similar telephone products	an examination of the numerous companies entering the telephone device market place 84yr 7pgs 0fn 8s 	$6265	
+	general motors the grand prix	a marketing plan to utilize various advertising and sales techniques to forecast its possible success 78yr 8pgs 11fn 4s 	$7160	
+	the sears discover card  marketing strategy	an analysis of sears attempt to enter the credit card business through their discover card the heavy losses experienced thus far and a marketing plan to promote the benefits of the discover credit card 88yr 9pgs 4fn 5s 	$8055	
+	marketing research  luck wales taylor and rubin	a summary of this text dealing with the various of marketing research 85yr 6pgs 0fn 0s 	$5370	
+	qualitative and quantitative research in the marketing function	identifies and describes different situations where consumer behavior research is important and compares and contrasts the advantages of qualitative and quantitative research in terms of the type of information gained and how it can be used for each situation 84yr 10pgs afn 5s 	$8950	
+	marketing auditplan for a dermatology practice in san francisco california	a demographic study of market place factors in the cosmetic industry in san francisco specifically focusing on dermatology practices observing competitionlocal health institutions etc 87yr 8pgs 8fn 0s 	$7160	
+	the marketing history of general foods americana recipe vegetable line	a case study of the market decisions on a frozen vegetable product 84yr 4pgs 0fn 0s 	$3580	
+	an annotated bibliography of marketing specifics in the accounting profession	includes an introduction and 50 annotated bibliographies  of journal articles on marketing techniques in the accounting profession 87yr 12pgs 0fn 0s 	$10740	
+	an analysis of the marketing problems of the sears corporation from 1971 through 1981	an analysis of the strategies utilized by top management within the sears headquarters during this period of intense economic problems in america  poses alternative solutions 82yr 15pgs 20fn 16s 	$13425	
+	how bands are promoted in the pop music industry	examines the recording industries sales expansion through promotional techniques  particularly  by the advent of music videos  other methods include mtv posters  circulars  private promoters  and live concert tours 87yr 7pgs 2fn 8s 	$6265	
+	how to market a hotel	discusses ways to market and promote a hotel  methods of marketing to groups and associations  marketing a chain hotel  selling at the front desk and geographical marketing methods 88yr 9pgs 8fn 5s 	$8055	
+	business memo in regard to a marketing problem suggesting a solution in the clothing industry	 88yr 3pgs 0fn 0s 	$2685	
+	national bank of san francisco  a case study	an analytical approach looking at its marketing methods from an inference of facts in the case 88yr 8pgs 0fn 0s 	$7160	
+	competition in the brewing industry	analyzes the competitive positions of the major companies in the brewing industry and their respective marketing strategies 88yr 6pgs 0fn 0s 	$5370	
+	marketing of fax machines in indonesia	explores the possible market available in indonesia for facsimile machines using data gathered from a variety of sources 89yr 9pgs 12fn 14s 	$8055	
+	dutch food industries company  a case study	a marketing managers analysis focusing on a strategy for a new salad dressing looking at the problem alternatives and solution 88yr 5pgs 0fn 0s 	$4475	
+	marketing  differentiated vs undifferentiated strategy	examines marketing strategy when promoting established firms having brand identification and customer loyalties and their products and the non established brand name 88yr 10pgs 17fn 10s 	$8950	
+	feminism and consumer behavior	examines the changing image of women from the traditional viewpoint of housewife and mother to the influence of feminism and the professional roles with the resultant revolution in marketing plans and advertising campaigns 88yr 11pgs 16fn 10s 	$9845	
+	how sales and marketing work together	examines the interrelationship between sales and marketing similar and different focal points 88yr 6pgs 10fn 7s 	$5370	
+	marketing auditing	discusses this technique which involves a systematic examination of the marketing units objectives strategies organization and performance to determine whether the marketing strategy is working 88yr 10pgs 15fn 10s 	$8950	
+	impulse buying vs planned buying purchase behavior	examines the various basiss for consumer decisions such as chance habit impulse social orientation heredity emotional response etc  and compares factors involved in planned purchase choices to  impulse buying or those reached by instantaneous decision 88yr 17pgs 20fn 12s 	$15215	
+	franchising  historic to present	looks at the history of franchising advantages to small businesses benefits to companycustomer risks involved location decisions costs etc 90yr 6pgs 10fn 0s 	$5370	
+	summaries of marketing articles	reviews various current articles dealing with advertising and marketing 90yr 5pgs 4fn 0s 	$4475	
+	macys marketing strategy	observes macys traditional promotional plans as alluring to price considerations to its continuing concept and commitment to basic merchandising strategy of vast selection and a mix of store and national brands instead of promotions 90yr 11pgs 9fn 8s 	$9845	
+	tourist development in the offseason	a comprehensive literature review and analysis studies the history of tourist development during the off season characteristics of the tourist industry alternatives tourism management 90yr 9pgs afn 10s 	$8055	
+	the family and consumer behavior	explores the nuclear family as the primary household unit targeted by marketing research such as the decline of the traditional marriedcouple divorce rates etc 90yr 11pgs 16fn 11s 	$9845	
+	the holiday corporation  a market strategy for the hotel industry	describes background of the holiday corporation market segmentation in the hotel industry marketing strategy prospects for the future 90yr 11pgs 20fn 0s 	$9845	
+	apple computers  case study	how apple computer redefined its marketing startegy by moving into the business market under the direction of john sculley 90yr 6pgs 0fn 0s 	$5370	
+
+
+
+
+
+
+
+best experienced with
+
+click here to start
+
+
+
+
+
+
+send comments to  commentsa1termpapercom 
+
+last updated  122196
+copyright copy1996 asm communications inc  all rights reserved
+
+
+
+
+
+
+
+

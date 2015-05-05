@@ -1,0 +1,8 @@
+ netshade 2.0 screen shot 
+ netshade 2.0 for windows 95  
+<img
+ismap align=middle src="ns2_screen1.gif" width="378"
+height="397">
+   <a
+href="netshade.html">go back 
+   view the "security levels" pane 

@@ -1,0 +1,62 @@
+ informaci&oacute;n estad&iacute;stica (cont.1) 
+<body background="../../../images/ypffon.jpg" bgcolor="#ffffff"
+text="#000000" link="#0000ff" vlink="#000080" alink="#800040">
+ &#160; 
+ <img src="../../../images/zstatabl.gif"
+alt="informacion estadistica" align="bottom" width="579"
+height="30">&#160; 
+          <img
+        src="../../../images/left.gif" align="bottom" border="0"
+        width="30" height="30">   
+          p&aacute;gina
+        anterior  
+                   tabla
+                comparativa de reservas de petr&oacute;leo y gas
+                de las principales compa&ntilde;&iacute;as
+                petroleras en 1994 que cotizan en la bolsa de new
+                york 
+                 (miles de millones de b.p.e)  
+         <img src="../../../images/grafcias.gif"
+        alt="grafico imagen" align="bottom" width="569"
+        height="229"> 
+           *incluyendo maxus   
+                   ventas por
+                areas geogr&aacute;ficas 
+                % total en el mundo   
+             <img src="../../../images/zcorinf2.gif"
+            alt="grafico imagen" align="bottom" width="359"
+            height="123"> 
+                   reservas
+                por areas geogr&aacute;ficas 
+                % total en el mundo   
+         <img src="../../../images/zcorin2a.gif"
+        alt="grafico imagen" align="bottom" width="356"
+        height="122">  
+                   producci&oacute;n
+                de petr&oacute;leo 
+                % total argentina   
+         <img src="../../../images/zcorinf3.gif"
+        alt="grafico imagen" align="bottom" width="358"
+        height="122">  
+                   producci&oacute;n
+                de gas natural 
+                % total argentina   
+         <img src="../../../images/zcorin3a.gif"
+        alt="grafico imagen" align="bottom" width="353"
+        height="122">  
+                   venta de
+                nafta 
+                % total argentina   
+         <img src="../../../images/zcorinf4.gif"
+        alt="grafico imagen" align="bottom" width="355"
+        height="123">  
+          p&aacute;gina
+        siguiente   
+          <img
+        src="../../../images/right.gif" align="bottom" border="0"
+        width="30" height="30">  
+ <img src="../../../images/barra.gif"
+align="bottom" width="520" height="10"> 
+  <img
+src="../../../images/ypf3d2.gif" alt="ypf logo" align="bottom"
+border="0" width="111" height="52">  

@@ -1,0 +1,76 @@
+Approximate time to generate this file: 0.0 seconds
+Begin token stream...
+----------------
+
+  
+    problem with cprogram interface with robot
+  
+  
+    
+      problem with cprogram interface with robot
+    
+
+ follow ups   post followup   workspace user group   faq 
+
+posted by taykw on august 15 1996 at 080411
+our company owns a mitsubishi industrial microrobotmodel rvm2 i have encountered problem of c program interface with the robot via rs 232 serial port the cfunction format used to send to the robot is   fputsstring of robot commandsstdaux but alwaysreceived no respond from the robot can anyone up in the cyber space tell me why thanks regards 
+
+
+follow ups
+
+re problem with cprogram interface with robot nick oakley 090303 82296
+0
+
+
+xonxoff protocol for epson in c volker pinkitz 085000 82296
+0
+
+
+re problem with cprogram interface with robot nick oakley 035428 81996
+3
+
+re problem with cprogram interface with robot taykheewee 093528 81996
+0
+
+
+re problem with cprogram interface with robot taykheewee 093320 81996
+0
+
+
+re problem with cprogram interface with robot taykheewee 093113 81996
+0
+
+
+
+
+
+post a followup
+
+
+
+
+
+
+name 
+email 
+subject 
+comments
+
+ our company owns a mitsubishi industrial microrobot
+ model rvm2 i have encountered problem of c program 
+ interface with the robot via rs 232 serial port the c
+ function format used to send to the robot is 
+   fputsquotstring of robot commandsquotstdaux but always
+ received no respond from the robot can anyone up in 
+ the cyber space tell me why thanks regards
+  
+
+
+
+optional link url 
+link title 
+optional image url 
+ 
+
+ follow ups   post followup   workspace user group   faq 
+

@@ -1,0 +1,1 @@
+I have included a Makfile for convenience.  This program has been tested and works on GL.  Please inspect the Makefile if you wish to run the commands separately, or you can consecutively run "make" and then "make run" in the root directory.  Email me if you have any questions and/or issues.

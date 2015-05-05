@@ -1,0 +1,21 @@
+Token: Weight
+----------------
+home: 0.0164524578
+robotrak: 0.0585851707
+eurobot: 0.1863150299
+april: 0.0329049155
+workspace: 0.1542787999
+return: 0.0241024140
+robot: 0.0911875367
+copyright: 0.0103803454
+revision: 0.0544752963
+1996: 0.0329049155
+frankfurt: 0.1532907933
+stand: 0.0964096561
+page: 0.0164524578
+registered: 0.0448631048
+trademarks: 0.0570073277
+germany: 0.0718201846
+simulations: 0.1047251001
+exhibition: 0.1532907933
+copy: 0.0329049155

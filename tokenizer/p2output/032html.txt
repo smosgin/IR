@@ -1,0 +1,12 @@
+Token: Weight
+----------------
+airsar: 0.3333333433
+cm: 0.0943872184
+brucechapmanjplnasagov: 0.0828534290
+updated: 0.0265067369
+cm4278: 0.4502613246
+death: 0.0938997790
+cband: 0.0918451399
+images: 0.2050748318
+valley: 0.1687237769
+lband: 0.0918451399

@@ -1,0 +1,163 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+
+
+
+
+cdt | fbi surveillance activity data  arizona
+
+
+
+
+
+appendix a arizona
+
+
+notice of capacity requirements by county
+for
+
+telecommunications carriers providing
+local services
+
+
+numbers represent historical simultaneous interceptions
+and an estimation of the simultaneous requirement of pen register
+trap and trace and call content interceptions that may be conducted
+anywhere within a county
+
+
+
+county requirement
+
+
+
+
+
+statecounty
+estimated actual interceptions that may be conducted
+estimated maximum interceptions that may be conducted
+historical experience
+
+
+arizonaapache2
+30
+
+
+
+
+
+arizonacochise
+3749
+29
+
+
+
+
+arizonacoconino
+68
+4
+
+
+
+
+arizonagila2
+30
+
+
+
+
+
+arizonagraham2
+30
+
+
+
+
+
+arizonagreenlee
+23
+0
+
+
+
+
+arizonala paz2
+30
+
+
+
+
+
+arizonamaricopa
+502655
+398
+
+
+
+
+arizonamohave21
+2816
+
+
+
+
+
+arizonanavajo2
+31
+
+
+
+
+
+arizonapima148
+193117
+
+
+
+
+
+arizonapinal14
+1911
+
+
+
+
+
+arizonasanta cruz
+1419
+11
+
+
+
+
+arizonayavapai
+1723
+13
+
+
+
+
+arizonayuma41
+5432
+
+
+
+
+
+ the term quotcountyquot includes
+boroughs and parishes as well as the district of columbia and
+independent cities us territories ie american samoa guam
+mariana islands puerto rico and the us virgin islands were
+considered as single entities
+
+
+
+back
+
+cdt digital telephony page
+
+cdt home page
+
+
+

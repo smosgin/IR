@@ -1,0 +1,10 @@
+Token: Weight
+----------------
+rod: 0.2222716659
+norlingchristensen: 0.2399673760
+mitchell: 0.1301030070
+david: 0.1113943383
+powerpoint: 0.4799347520
+japel: 0.2399673760
+internet: 0.2158362418
+elizabeth: 0.1919078082

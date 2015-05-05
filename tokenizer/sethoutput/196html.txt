@@ -1,0 +1,38 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+gps
+ 
+
+
+on 3 april 1995 a low earthorbiting leo receiver was
+successfully launched aboard the microlab 1 satellite  this
+receiver orbiting at an altitude of about 700 km receives radio
+signals from the constellation of 24 global positioning system
+gps satellites  these radio signals are refracted or bent by the
+earths atmosphere and by measuring the doppler shifted
+frequency of the received radio signals these measurements are
+converted into vertical pressure and temperature profiles of the
+earths atmosphere  early results indicate that accuracies of about
+1 to 2 k are being obtained between altitudes of about 5 km to
+35 km  this new remote sensing technique promises to open up
+new ways to monitor climate and climate change and also to
+provide substantially improved initial global data for weather
+prediction
+
+the project is a joint program between the university corporation
+for atmospheric research ucar the national center for
+atmospheric research ncar the jet propulsion laboratory
+jpl orbital sciences corporation osc allan osborne
+associates and the university of arizona  the figure shows a
+typical gpsmet vertical temperature profile together with nearby
+high resolution radiosonde soundings cl regular radiosondes
+rs and interpolated nmc data=1a 
+
+for further information please contact prof benjamin m herman
+
+
+
+
+
+

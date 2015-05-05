@@ -1,0 +1,13 @@
+ sir-b radar images 
+ sir-b radar images 
+  sir-b  is a 
+sar that flew on the 
+space shuttle in 1984. it acquired data at many sites around the
+world. 
+    <img align=middle
+src="gif/dv/thumb/sirbdv8.gif">sample sir-b image of death
+valley  (44k) 
+ <img src="gif/icons/back-yellow.gif"
+align=bottom>      imaging radar home page
+ updated 8/23/94 
+ bruce.chapman@jpl.nasa.gov 

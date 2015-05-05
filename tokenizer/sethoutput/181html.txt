@@ -1,0 +1,905 @@
+Approximate time to generate this file: 0.004 seconds
+Begin token stream...
+----------------
+
+
+datawebdevlibisste48html sample issue
+
+
+
+
+copyright 
+wireless business  finance via newsnet 
+january 3 1996
+sample issue headlines
+
+
+stocks  despite decembers downdraft it was a very good yearnbspnbspnbsp145 words
+
+
+
+austrian gsm license awarded for $400 millionnbspnbspnbsp93 words
+
+
+special reportwbfs survey of the year ahead in wireless
+
+late1995 signposts point way toward industry trends of 1996nbspnbspnbsp2086 words
+
+
+financial
+
+intercel prepares to launch offerings of stock notesnbspnbspnbsp176 words
+cellular operator closes twotrack debt financingnbspnbspnbsp226 words
+
+
+technology
+
+lack of handsets seen impeding dualband gsm services  nbspnbspnbsp545 words
+glenayre nexus team up to support spreadspectrum technologynbspnbspnbsp288 words
+
+
+telecom stock recap
+
+dichotomy in telecom stocks as market closes out 1995nbspnbspnbsp972 words
+
+
+fcc
+
+multiple spectrum auctions and more on the waynbspnbspnbsp292 words
+
+
+
+
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+stocks  despite decembers downdraft it was a very good year
+
+     a tumultuous year but one that in the end proved highly
+rewarding from a financial standpoint that is how many who follow
+the wireless industry from wall street doubtless will remember 1995  
+     for the 12 months through dec 29 the north american
+telecommunications indexcomposed of the stocks of 16 publicly held
+largecapitalization companies all of which do business in cellular
+and paging services or in manufacturing wireless equipment wbf
+jan 4 1995increased 304 percent much of this gain came in the
+second half of 1995     not all telecom indices followed this
+pattern however  the 20stock chicago board options exchange global
+telecommunications index up 225 percent on the year was flat since
+midjuly
+
+
+
+north american telecommunications index
+                  
+122995 close  39217
+
+twelvemonth range
+high         low
+39217      29562
+
+percentage changes
+one month     37
+three months  85
+six months   224
+
+
+
+
+
+
+back to headline list
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+austrian gsm license awarded for $400 million
+
+     bowing to bidders demands that a winner be named by years end
+austrias top telecom regulator announced dec 29 that a germanled
+group will be licensed to operate the nations first private cellular
+system  ocall led by deutsche telekom and siemens ag with financial
+backing from austrian interests is to begin service of the global
+system for mobile communications gsm network in about six months 
+austrias ptt building out its own gsm service is expected to pay
+the same amount$400 millionthat transportation commissioner viktor
+klima said ocall offered for the 15year license
+
+
+
+
+back to headline list
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+late1995 signposts point way toward industry trends of 1996
+
+executive summary  from interviews with industry leaders and analysis
+of recent events it is possible to connect some of the dots and make
+educated guesses about what 1996 holds in store for wireless
+
+     the way larry vanston sees it the year ahead will be a lot like
+95 in the world of wireless telecommunications  this is to say that
+1996 will be another year of recordsetting growth heightened
+competition and rapid technological change for the industry
+according to vanston president of austin texasbased consultants
+technology futures inc
+     vanston and other observers surveyed by wbf said it may well be
+that the industry is in for a year when the pace of developments if
+anything gains more momentum  such an acceleration is seen occurring
+across a broad frontmanifested by prices for services driven lower
+as more competitors arrive on the scene and by a stream of
+technological advancesand against a backdrop where wireless
+telephony becomes a widespread reality in more markets overseas
+     but this is not to say that there are no clouds on the wireless
+horizon  indeed renewed signs of a slowdown in the us cellular
+marketthe worlds largest in terms of absolute subscribershave
+dampened the growth outlook for network operators and for handset and
+infrastructure manufacturers 
+     as nokia corp noted dec 14 despite improvement in nokias
+us mobile phone business growth and profitability in nokia mobile
+phones have developed somewhat below plan  that sent the price of
+nokias american depositary receipts tumbling for the second time in
+two months page 9  
+     however it was unclear at press time whether handset
+manufacturers in general faced a repeat of the overages that built up
+in their us inventories during the 1994 christmas season
+     all the same wall streeters are a notoriously fickle bunch and
+any falloff in domestic wireless growth should be measured against
+the blistering expansion that the us market enjoyed during 1994 and
+the first half of 1995  net subscriber additions simply could not be
+sustained forever at such an explosive rate and cellulars longterm
+growth pattern seems firmly intact 
+     by the end of 1996 it is conceivable that there will be 40
+million cellular subscribers in the united statesa gain of 10
+million in a 15month span
+
+  all eyes turn to pcs
+
+     big changes are destined to sweep the us wireless market this
+year as the industry comes to grips with the probable enactment of
+legislation aimed at deregulating telecommunications  this would give
+network operators the statutory certainty they need to move forward
+with big purchases of new equipment said matthew flanagan president
+of the telecommunications industry association arlington va
+     moreover the us market is on the verge of entering a new phase
+with the advent of broadband personal communications services pcs 
+it may be another year yet before pcs is marketed on a large scale
+but pcs licensees are betting big bucks that both lower price points
+and the digitally enhanced sound quality of calls placed over their
+systems will prove appealing to consumers who have disdained cellular
+as too costly and to at least some cellular subscribers    
+     this years challenges for pcs players will be to finish the us
+licensing processthe cblock spectrum auction see page 10 is set
+to resume this weekand to bring newly licensed services to market
+said tom mateer vice president of business development for sprint
+telecommunications venture stv the alliance of sprint corp and
+three large cable television operators
+     our goal is to provide service in our own markets by the end of
+1996 mateer said of kansas citybased stv the largest of the ab
+block major trading area mta licensees in terms of potential market
+population  other mta licensees including att wireless services and
+pcs primeco lp are working against similar timetables
+     while committed to code division multiple access cdma as its
+technology
+standard stv had not named equipment vendors for its network
+buildoutestimated to cost from $3 billion to $4 billion by industry
+sourcesat press time  mateer said talks with prospective suppliers
+were moving along
+     some funds from sprints longanticipated deal to sell 10 percent
+equity interests to france telecom and germanys  deutsche telekom
+which was approved by the fcc last month are expected to be earmarked
+for stvs buildout
+     on the narrowband side of pcs action will center on how
+successfully competitors narrow the lead that mobile telecommunication
+technologies corp mtel enjoys in this market  for its part mtel
+continues to grapple with what alex brown  sons inc recently called
+rollout concerns surrounding the companys skytel 2way advanced
+messaging service  
+
+  competition consolidation and convergence  more of the same
+only more so
+
+     perhaps the most important issue before the wireless industry is
+how to compete effectively on a landscape that seemingly keeps
+shifting beneath its feet  for many wireless players achieving
+scale is the way to maximize their competitive ability  
+     this consolidation trend has been most pronounced in paging
+where arch communications group inc and airtouch paging announced the
+most recent acquisitions deals giving them about 25 million and 22
+million us subscribers respectively  suffice it to say that more
+paging acqui sitions are in the offing this year
+     but 1996 will see the introduction of new wireless players as
+well via corporate spinoffs  for instance  sprints spinoff of its
+sprint cellular subsidiary to shareholders wbf june 21 1995 is on
+track for completion late next month or early in march and att
+corps landmark breakup wbf sept 27 1995 is set to close by
+years end
+     other wireless companies may become publicly held entities 
+pagemart inc the only privately held company among the top us
+paging operators has hinted that it may go this route and london
+financial circles are abuzz that hutchison wampoa of hong kong will
+float orange its uk personal communications network pcnpossibly
+as part of a larger realignment of its telecom interests
+     and the cast of characters getting into wireless seems likely to
+keep on growing  two recent examples 
+
+       a unit of international family entertainment inc whose
+chairman is evangelist pat robertson bought out the majority interest
+held by motorola inc in pakistan mobile communications ltd licensed
+to offer nationwide cellular service based on the global system for
+mobile communications gsm standard as well as paging in the asian
+country
+       fidelity capital part of the bostonbased mutual funds giant
+has helped engineer a deal aimed at strengthening specialized mobile
+radio smr operator pittencrieff communications inc in its core
+texas market wbf may 10 1995  pittencrieff shareholders were to
+vote late this week on the companys merger with fidelityowned
+advanced mobilecomm inc
+     meanwhile convergence has continued to take on new and different
+forms in wireless  for instance there is the growing trend among
+competitionminded service providers to establish themselves as one
+stop shops 
+     in the space of a week last month dallasbased paging network
+inc pagenet announced marketing agreements with both stv and gte
+corp giving pagenet new distribution channels for its digital and
+alphanumeric services in both the pcs and local telephone markets
+respectively  
+     stv by packaging cable services on a promotional basis with its
+planned service offerings for the local and longdistance telephone
+markets appears to be seeking as many distribution sources as
+possible  stv also signed an agreement covering various text
+messaging services with national dispatch center inc a san diego
+based data network operator last month 
+
+  technology  its show time for cdma iden
+
+     technology like competition is a powerful catalyst for
+convergence  the wireless industry should look during 1996 for more
+developments along the lines of these recent announcements
+       putting aside their intense rivalry motorola granted lm
+ericsson ab a license to use flex motorolas highspeed paging
+protocol in the swedish companys pagers and infrastructure
+equipment
+       ibm corp nokia and the pcs subsidiary of pacific telesis
+group will work together on making wireless data services accessible
+to subscribers via ibm thinkpad laptop computers  the ability to send
+and receive email and facsimile messages and to gain access to the
+internet will be a key selling point for pacific bell mobile services
+in marketing pcs in its service area of california and nevada the
+companies said
+     but in the dynamic field of wireless technology the cdma air
+interfaceand its promise of offering 10 times the capacity of analog
+cellularno doubt will command the limelight right through 1996     
+          the first cdma system to achieve commercial status was
+hutchison telecoms cellular service in hong kong last fall  next up
+will be a longawaited cellular network built out in los angeles by
+airtouch communications which has spent much time finetuning it
+followed by the
+mid1996 launch of shinsegi telecommunications incs cellular system
+in south korea wbf aug 30 1995
+     importantly the 43 member companies of the cdma development
+group have verified test results done with cdmas 13 kilobits per
+second vocoder a touchstone to achieving wirelinequality voice
+communications over cdma networks 
+     cdma handsets for use on pcs networks are expected to become
+available during the first half of 1996 said kevin kelley vice
+president of external affairs for qualcomm inc san diego  the
+company plans to ship 1 million terminals this year
+     for enhanced specialized mobile radio esmr operator nextel
+communications inc call at least some of the questions
+surrounding the sound quality of motorolas esmr technology known as
+iden wbf april 12 1995 will be resolved this year  
+     even while cementing its nationwide footprint in place with the
+imminent completion of its acquisition of dial page inc dpge the
+rutherford njbased company plans to conduct asinglemarket beta
+test of what nextel executives call reconfigured iden before the end
+of march  based on the results the company will decide whether to
+proceed with a more broadscale commercial introduction of the
+technology nextel disclosed in a recent securities and exchange
+commission filing
+     meanwhile geotek communications incwith a $25 million line of
+credit provided by hughes electronics corp at its disposal to acquire
+additional 900 mhz spectrumwill begin commercial operation of its
+own smr service in philadelphia its initial market this month
+     finally two companies developing interferencereducing cellular
+filters that use hightemperature superconducting materials are bound
+to make news  illinois superconductor corp is proceeding with
+operational field trials while superconductor technologies inc
+announced the delivery of its second receiver filter subsystem for gsm
+base stations last week
+
+  international  asia brazil seen as where the action will be
+
+     according to the commerce departments office of
+telecommunications brazil and india wbf dec 6 1995 will merit
+close scrutiny from the wireless industry this year as emerging
+markets with the greatest untapped potential
+     also noted agency analyst stephanie mccullough cellular
+competition will come to five countries for the first time  south
+korea taiwan belgium poland and ireland  the czech republic will
+choose operators for two digital networks this spring and pcn
+services may take shape in more european nations page 7
+     three other asian tigers also are likely to make waves in
+cellular in 1996
+     in china handset prices and user tariffs are projected to fall
+spelling further rapid subscriber growth  having recently awarded
+ericsson its third infrastructure contract in 12 months guangdong
+mobile communications corp soon will qualify as one of the worlds
+biggest network operators boasting subscriber capacity of ap
+proximately 12 million on its gsm network and more than 14 million
+on its analog system
+     in indonesia the staterun pt telekomunikasi indonesia is con
+verting its revenuesharing arrangements with private investors in the
+nations five fixed and mobile operators into joint ventures  this
+may open the door to more foreign capital akin to the $800 million
+and the $586 million that nynex corpwbf oct 11 1995 and deutsche
+telekom paid respectively for equity stakes in indonesias two gsm
+carriers last year
+     in terms of sheer numbers of participantsseven with a combined
+subscriber base projected by lehman brothers asia ltd at 1 million
+as of the end of 1995malaysia is one of the most competitive of the
+major markets for voicebased wireless services in the world  celcom
+the nations dominant cellular operator wbf dec 7 1994 but
+saddled with an analogbased systemfaces a difficult task in
+protecting its market position against several upstarts offering
+highercapacity gsm
+     action item  technology futures tel 5122588898
+telecommunications industry association tel 7039077700 arthur
+andersen tel 4046885600 us commerce department tel 202482
+2000 nokia tel 358018071 motorola tel 7085765000 ericsson
+tel 4687190000 northern telecom tel 2146841000 qualcomm
+tel 6195871121 att bell labs tel 7089792000 sprint
+telecommunications venture tel 9136243000 nextel tel 201438
+1400 airtouch tel 5102103000 alex brown tel 4107271700
+lehman brothers asia tel 85228693188 
+
+
+
+back to headline list
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+intercel prepares to launch offerings of stock notes
+
+     intercel inc anticipates spending $110 million this year to
+build out personal communication service pcs networks in major
+trading areas for which powertel pcs partners lp won licenses last
+year followed by an additional commitment of $150 million to be
+spent in 1997
+     in its latest annual report west point 
+gabased intercel disclosed that it plans to make concurrent public
+offerings of stock and notes during the first quarter of 1996 
+approximate amounts raised from these offerings will be $1155 million
+and $150 million respectively
+     the offerings are being undertaken in conjunction with the
+cellular network operators plans to acquire powertel wbf july 5
+1995 a privately held consortium in which intercel already is a
+major participant  
+     cash interest on the notes will not be payable before 2001 
+intercel also is negotiating a $20 million revolving credit facility
+     while noting that its cellular operations have achieved positive
+operating income intercel warned in the annual report that
+management expects significant operating losses beginning in 1996
+reflecting the impact of pcs buildout and marketing costs
+intercel tel 7066459520
+
+
+
+back to headline list
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+cellular operator closes twotrack debt financing
+
+     colombias communicacion celular sa comcel received net
+proceeds of $1455 million from a recently completed debt financing
+the companys first
+     the funds will be used to expand the companys network coverage
+in its eastern colombia service area which includes the capital city
+of bogota and which has a potential market population of 158 million
+people
+     comcel adding subscribers at the rate of 4000 a month had a
+middecember base of approximately 62000  the company is in the
+process of upgrading its technology with the time division multiple
+access digital standard to be paired with its advanced mobile phone
+system analog network
+     the financing said majority owner bell canada international
+inc had two components  a $100 million syndicated eurodollar senior
+secured term loan due in the year 2001 and an oversubscribed $150
+million private placement of 
+highyield senior deferred coupon bonds due 2003  the bonds which
+will accrete at a 13125 percent rate compounded semiannually until
+november 2000 and begin paying cash interest in may 2001 are combined
+with warrants that if fully exercised would amount to a 2 percent
+equity interest in comcel 
+     montrealbased bell canada international a bce inc subsidiary
+owns 51 percent of comcel  the rest is owned by colombias principal
+telecom companies wireline operator empresa de telecomunicaciones de
+santafe de bogota and longdistance carrier empresa nacional de
+telecomunicaciones
+     bell canada international tel 5148701511  
+
+
+
+back to headline list
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+lack of handsets seen impeding dualband gsm services  
+
+     cellular operators that employ global system for mobile
+communications gsm technology in their networks should think long
+and hard about pairing their services with gsms higherfrequency
+counterparts dcs1800 and pcs1900
+     so says toni stadelmann deputy managing director of mobile
+services for swiss telecom which has deployed a dcs1800 personal
+communications network pcn in geneva to go with its nationwide gsm
+cellular network  
+     while its experience with pcn has been limited
+the geneva system was rolled out to coincide with the telecom 95
+trade show and conference last octoberthe ptt plans to introduce
+dcs1800 service in zurich and basel next fall as a capacityenhancing
+supplement to 900 mhz cellular in these hightraffic markets
+stadelmann told the pcs1900 in north america conference in washington
+last month
+     in the long run he said the company hopes to reach roaming
+agreements that would tie its pcn service together with europes gsm
+cellular operators and countries that either have pcn alreadythe
+united kingdom germany and franceor are contemplating pcn rollouts
+including sweden and italy
+     but there is one sizable problem  wireless equipment
+manufacturers need to speed up efforts to bring dualband mobile
+phones to market  the subject of gsmdcs1800 handsets also came up
+during another recent meeting in washington      i dont know of any
+vendor today committed to developing these handsets malcolm cowan
+general manager of the richardson texasbased pcs business unit of
+northern telecom ltd told the pcs strategies conference 
+     if recent contract announcements are any indication however
+finlands nokia corp may be the first to take the plunge 
+     the company has signed a twoyear contract with telia mobitel
+the biggest gsm cellular network in sweden for the delivery of base
+station subsystems that can be used either for a standalone dcs1800
+network or a seamless dualband service  the base stations are
+designed to bolster capacity in areas with heavy calling traffic as
+well as to improve indoor coverage  
+
+  savings on fixed and operating costs more flexibility in setting
+rates
+
+     nokias other recent gsmdcs1800 infrastructure deals were with
+nordictel holdings of sweden and sonofon of denmark  it also was the
+vendor for swiss telecoms dcs1800 system
+     for swiss telecomscheduled to face competition in pcn beginning
+in 1998 when spectrum set aside for private operators will be opened
+uppairing gsm and dcs1800 will afford cost advantages in the areas
+of infrastructure its transmission network and customer service and
+billing stadelmann said  
+     according to an analysis in which the ptt assigned different
+weightings to these cost areas potential savings of 30 percent can be
+had12 percent on both transmission network and billingcustomer
+service expenses and another 6 percent on infrastructure costs
+     moreover in limiting its pcn coverage to urban areas stadelmann
+said that swiss telecom has found that it can devise a rate structure
+that offers greater appeal to the more priceconscious segment of the
+wireless voice market
+     by setting rates close to those of the wireline network swiss
+telecom hopes to induce customers to switch over to pcn from the fixed
+network for the mobility it affords  but that of course first would
+require a more robust roaming capability
+     all stadelmann could do last month was ask rhetorically  what
+are the manufacturers  doing  he would like to see action sooner
+rather than later
+swiss telecom tel 4131627693
+
+
+
+back to headline list
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+glenayre nexus team up to support spreadspectrum technology
+
+     glenayre technologies inc is considering plans to manufacture
+receivers incorporating technology developed by nexus
+telecommunication systems ltd which plans to market the technology
+to paging operators aiming to address the low end of the twoway
+messaging market
+     the companies announced an agreement last month to collaborate on
+integrating glenayremade switches controllers and base stations
+with nexuss reversechannel receivers and twoway applications
+platform  
+     the deal is noteworthy because glenayre will provide protocol
+information on the companys gl3000 advanced paging terminal that
+would facilitate the operation of the twoway nexus network on
+existing oneway paging systems  
+     besides possibly making nexusbased receivers itself glenayre
+holds an option to buy them from nexus as an original equipment
+manufacturer  in return nexus granted the charlotte ncbased
+company the right to obtain a worldwide license on its returnchannel
+technology
+
+  us beta test draws near 
+
+     essentially the spreadspectrum nexus technology wbf nov 9
+1994 affords oneway paging carriers a lowspeed return channel 
+nexus network uses the unlicensed 902928 mhz band for the return
+channel which operates at 200 bits per secondfar slower than reflex
+or pact the narrowband personal communications service pcs
+protocols developed by motorola inc and att wireless systems
+respectively
+     rani cohen senior vice president of givatayim israelbased
+nexus said that nexus network is geared toward service offerings
+where speed is not criticalmost notably a confirmation or short
+messaging capability that would appeal to pricesensitive paging
+subscribers
+     a beta test of nexus network involving american paging inc and
+several other us carriers is scheduled for next month  
+minneapolisbased american paging holds five regional narrowband pcs
+licenses 
+     samsung the south korean conglomerate is expected to begin
+shipping
+twoway paging units supporting nexus network by next summer
+     nexus tel 97235710226 glenayre tel 7045220483 
+
+
+
+back to headline list
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+dichotomy in telecom stocks as market closes out 1995
+
+     optimism over us telecom deregulation helped provide ballast
+for the stocks of some network operators but many equipmentrelated
+equities are still being held in check by uncertainty over profits
+   glenayre gave shareholders a christmas present in the form of a 3
+for2 stock splitthe equipment manufacturers second such
+distribution in six months
+
+     
+wireless industry stock price performance                             
+december 29 1995
+
+company nameticker symbol    
+1229     1 week    1 mo      3 mos
+price     chg       chg       chg  
+
+equipmentrelated services
+
+allen group aln   
+$2238  06      164    313
+andrew andw         
+3825     38      105     374
+audiovox vox  
+544      54      164      54
+california microwave cmic   
+1663     36      189      342
+cincinnati microwave cnmw    
+450      40      357     702
+dsc communications digi     
+3688     07      48      378
+digital microwave dmic 
+1000    130      59      192
+general motors hughes gmh   
+4913      21       54       198
+glenayre technologies gems  
+6225      27       97      135
+highwaymaster hwym     
+1038     114     162      202
+interdigital communications idc   
+738      56      70      106
+itron itri  
+3375     125      195       216
+lxe lxei      
+838      15      15      183
+metricom mcom     
+1363     68     148      394
+motorola mot 
+5700     09      67      257
+nexus telecommunications nxsfc    
+588       22      175        22
+northern telecom nt    
+4300     06       72       207
+pcom pcms   
+2000      26      250      106
+proxim prox      
+1775      84      351       406
+qualcomm qcom     
+4300     34      14       63
+specialty teleconstructors sctr   
+216      92     138      361
+spectrian spct    
+2225      23      73      348
+stanford telecommunications stii 
+2225     171      171       113
+tellabs tlab 
+3700     33      33      122
+telular wrls  
+863      92     198      373
+telxon tlxn  
+2263     40      37       52
+trimble navigation trmb     
+1863     26     177      262
+
+
+rhcsindependents
+
+ameritech ait     
+$5888     13     56      129
+alltel at    
+2950      26      00       13
+bell atlantic bel      
+6688      19      39        90
+bellsouth bls     
+4350      27      98       190
+century tel enterprises ctl 
+3175      33      12        45
+frontier fro     
+3000     101     165       127
+intelcom group itr     
+1225      32     256       39
+lci international lci  
+2050     108     123        45
+lincoln telecommunications ltec  
+2113      30     105       127
+mfs communications mfst    
+5325      42     170       217
+nynex nyn   
+5400      77      75       131
+pacific telesis group pac   
+3350      08     107        89
+sbc communications sbc 
+5725      09      55        41
+so new england telecomms sng     
+3975      19     100       124
+u s communications group usw     
+3563      29     131       270
+u s media group umg    
+1900      20      48       
+winstar communications wcii 
+1713      07     181      144
+worldcom wcom    
+3525      60      93        97
+
+conglomerates
+
+att t  
+$6475    19     32     15
+bce bce 
+3450     04       26       34
+comcast cmcsk     
+1819     10      67      91
+comsat cq    
+1863     07      26     177
+gte gte 
+4388      09       09      121
+mci communications mcic     
+2613     32      46       02
+sprint fon   
+3963     09      25      132
+
+paging
+
+american paging app    
+$638     38     121    177
+arch communications group apgr   
+2400      55       35      86
+metrocall mcll    
+1913     67      219     311
+mobile telecom technologies mtel 
+2138     34      100     308
+mobilemedia mblm  
+2225     11      140     176
+paging network page    
+2438      48        60       16
+pronet pnet  
+2950      40       29       13
+teletouch communications tell          
+350       77        98       00
+     
+
+cellularsmr operators
+
+airtouch communications ati 
+$2813     18     04     82
+cellular communications comma    
+4975      31       31      87
+cellular communications intl ccil    
+4275      59      239      140
+cellular comms of puerto rico ccpr    
+2775      58       18      90
+centennial cellular cycl    
+1713       07     99     122
+clearnet communications clntf    
+1600     23       49       85
+commnet cellular cels  
+1413    134     169     153
+dial page dpge    
+1575     67       33     113
+geotek communications gotk  
+631     137     114     308
+intercel icel     
+1700      46      71       171
+millicom intl cellular miccf    
+3050      08      08       51
+nextel communications call  
+1475     48      00       126
+palmer wireless pwir   
+2200     11      11       11
+pittencrieff communications pitc  
+383      00       16      153
+pricellular pc    
+1300     51       20       30
+rogers cantel mobile comms rcmif     
+2650     55       218      87
+united states cellular usm  
+3375     04       36      75
+vanguard cellular systems vcela  
+2025     47      90      210
+
+american dep sharesreceipts
+
+alcatel alsthom ala    
+$1750    45      21      45
+british telecommunications bty   
+5650     37       15      98
+cable  wireless cwp   
+2113     18       12       70
+hong kong telcommunications hkt  
+1763      00      37       34
+grupo iusacell cel     
+1013      00      120     221
+lm ericsson ericy    
+1950     13      179     204
+nippon telegraph  telephone ntt 
+4100      38      00       79
+nokia noka  
+3900      33      294     440
+telebras tbr 
+4738     18      21      00
+telefonica de espana tef    
+4188     18      00       18
+telefonos de mexico tmx     
+3188     41      74      00
+telkom indonesia tlk   
+2525      10      210      
+vodafone group vod     
+3525      14      08       140
+
+oemssoftwareother
+
+a+ network acom    
+$1175   121   113   230
+anadigics anad     
+2125     149      90    234
+boston technology bstn      
+1275     89    105    157
+brightpoint cell   
+1413    134    169     15
+brite voice systems bvsi    
+1338    137    183    277
+cellstar clst      
+2600     28     10    168
+cellular technical services ctsc
+2325      69      69      28
+coherent communications sys ccsc
+1925     132     203    300
+comverse technology cmvt    
+2000     53    101     80
+cycomm international cyi    
+425     105    171    320
+dsp communications dspc     
+4363      23     09     322
+electronics communications elcc 
+200       00    467    600
+general magic gmgc 
+1063     34      76    280
+illinois semiconductor isco 
+1700     42     56     619
+mwave mwav        
+675      18      00    538
+octel communications octl   
+3225      40     19     75
+racotek raco       
+513      68    109    163
+richardson electronics rell 
+1075     34     162     344
+stm wireless stmi  
+1925      07     167     49
+shared technologies stcl    
+131     417    500    638
+socket communications sckt  
+300     134    265     505
+tcsi tcsi 
+1850     86     156     233
+tekelec tklc       
+1050    300    333    533
+tessco technologies tess   
+2850      00      96      96
+wireless telecom group wtt  
+1600     73      23    141
+
+
+mobile satellite
+
+american mobile satellite skyc 
+$3063    156    124    279
+electromagnetic sciences elmg
+1100      00      23     43
+globalstar telecomms gstrf  
+3700      07     233     731
+orbital sciences orbi       
+1275     38    150    215
+
+standard  poors 500 index 61593
+dow jones industrial average  511712
+asterisk indicates stock at a sixmonth high
+source bloomberg 
+
+
+
+
+back to headline list
+
+copyright
+wireless business  finance via newsnet
+january 3 1996
+
+multiple spectrum auctions and more on the way
+
+     at the fccs dec 15 open meeting chairman reed hundt hailed the
+prospect of simultaneous spectrum auctions as a tremendous
+accomplishment  
+     and with good reason  while the specialized mobile radio smr
+auction that began a month ago generally has moved along at a more
+sedate pace the cblock auction of bandwidth for broadband personal
+communications services pcs kicked off with a bang on dec 18  net
+high bids for the 493 cblock licenses exceeded $12 billion by the
+end of the fourth round
+     one hopeful puerto ricobased pcs 2000 lp offered an
+astronomical $327 million in net high bids for basic trading area
+bta licenses in the first round skewing the bidding  but the
+hectic activity put to rest at least some doubts about whether the
+longdelayed cblock auction would measure up to last years pcs
+auction of major trading area licenses
+     meanwhile smr operators praised fcc plans to auction widearea
+licenses for 10 mhz in contiguous blocks of 20 60 and 120 channels in
+the 800 mhz band  also two notices of proposed rulemaking nprms
+will allot still more spectrum for use in wireless applications if
+adopted as final rules by the fcc
+       one would open the 37386 ghz band for pointtopoint
+microwave operations  bta licenses would be auctioned offpossibly
+as soon as a year from nowwith credits and installment plans
+accorded to small businesses that wish to bid  a provision would
+permit the processing of pending license applications in the 38640
+ghz band 
+       the other nprm would give hospitals access to vacant
+television channels in the very and ultra highfrequency bands
+doubling in many regions the number of frequencies available for
+remote patient monitoring  higher power levels also would be allowed
+for medical telemetry devices
+fcc tel 2026327000
+
+
+
+back to headline list
+
+
+
+

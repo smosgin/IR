@@ -1,0 +1,396 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+
+
+
+   virtual library of standard robots
+   
+
+
+
+virtual library of standard robots
+
+workspace is supplied with the following robot models abb irb2000
+abb irb6000 fanuc s12 s420fd s500 motomoan k10s kawasaki js6 nachi
+nr8608 comau 6125 kuka 16115kuka 16160 unimation rx90 pana hr50
+puma 260 puma 560
+
+the following is a list of all the robot models which are available
+for use within workspace
+
+vrml files of these models can be downloaded by clicking on a
+particular robots name
+
+if your browser does not recognise the file type then upgrade
+your browser to recognise vrml
+
+
+
+
+
+abb
+irb 1000
+abb
+irb 1400
+abb
+irb 1500
+abb
+irb 2000
+abb
+irb 3000
+abb
+irb 3200
+abb
+irb 34002510
+abb
+irb 60 
+abb
+irb 6000 
+abb
+irb 6400 
+abb
+irb 640028 
+abb
+irb 6400c 
+abb
+irb 90 
+abb
+irb l6 
+abb
+irb l6aw 
+abb
+irb l6e 
+abb
+trallfa tr5002 
+abb
+trallfa tr5003hw 
+acma
+x88 
+adept
+1 
+adept
+3 
+adept
+604 
+aea
+neater 
+bosch
+sr450 
+bosch
+sr600 
+bosch
+sr800 
+cincinatti
+milacron t3426 
+cincinatti
+milacron t3776 
+cincinatti
+milacron t3786 
+cincinatti
+milacron t3886 
+cloos
+romat 106 
+cloos
+romat 56 
+cloos
+romat 66 
+cloos
+romat 76 
+cloos
+romat 76s 
+comau
+6125 
+comau
+smart laser 550 
+crs
+a250 
+crs
+a460 
+cybernetic
+mentor 
+cybernetic
+neptune 
+daihen
+otc g01 
+daihen
+otc v01 
+daihen
+otc v20s 
+devilbis
+p100 
+eshed
+er iii scorbot 
+eshed
+er v scorbot 
+eshed
+er vii scorbot 
+eshed
+er14 
+eshed
+erix 
+eurobtec
+ir52c 
+eurobtec
+rob3i 
+fanuc
+a510 
+fanuc arcmate junior
+fanuc
+arcmate oh
+fanuc
+arcmate senior 
+fanuc
+lrmate
+fanuc
+m400
+fanuc
+p100
+fanuc
+s10 
+fanuc
+s12  a120 
+fanuc
+s420fd 
+fanuc
+s420if 
+fanuc
+s500 
+fanuc
+s6  a100 
+fanuc
+s700 
+fanuc
+s900w 
+feedback
+esa1010 
+graco
+edy1 
+hitachi
+m6100 
+ibm
+7575 upgraded sr5428 
+ibm
+7676 sr5407 
+ibm
+7676 upgraded sr5427 
+igm
+rt280 
+kawasaki
+ee1 
+kawasaki
+eh120 
+kawasaki
+es65 
+kawasaki
+ex100 
+kawasaki
+ex40
+kawasaki
+js10
+kawasaki
+js5 
+kawasaki
+ux120 
+kawasaki
+ux150 
+komatsu
+ral10 
+kuka
+ir 16115 
+kuka
+ir 16160 
+kuka
+ir 16315 
+kuka
+ir 36115 vertical 
+kuka
+ir 36150 
+kuka
+ir 36152 
+labman
+35 
+lamberton
+robotics aa1000 
+lamberton
+robotics aa2000 
+lamberton
+robotics aa4000 
+mitsubishi
+movemaster ex 
+mitsubishi
+pa10
+mitsubishi
+rve2
+mitsubishi
+rvt100a
+motoman
+k100rsh 
+motoman
+k100s 
+motoman
+k10as 
+motoman
+k10msb 
+motoman
+k10s 
+motoman
+k120s 
+motoman
+k30s 
+motoman
+k30sh 
+motoman
+k3s 
+motoman
+k506 
+motoman
+k60csh 
+motoman
+k60s 
+motoman
+k6ms 
+motoman
+k6sb 
+motoman
+ms304sb  wsb 
+motoman
+s50s 
+motoman
+s604sb  wsb 
+motoman
+sk16 
+motoman
+v6 
+nachi
+8400 
+nachi
+8608 
+nachi
+isr 
+nachi
+ras30 
+nachi
+robot 7602 
+nachi
+robot 7603 
+nachi
+vorg10x  11x 
+nachi
+vorg35 
+nei
+tomkat 6 komatsu ral10 
+nokia
+nrs10 aitec 
+orii
+rzc725
+panasonic
+aw010a
+panasonic
+a1
+panasonic
+cm6404d 
+panasonic
+hr 50 
+panasonic
+hz al 
+panasonic
+hz am 
+panasonic
+ksv20 
+panasonic
+v1c 
+redifussion
+merlin 
+reis
+rdk500 
+reis
+rv15 
+reis
+srv12l
+samsung
+am1
+sands
+tech artemis r15
+sands
+tech deucalion r17 
+sands
+tech perseus r16 
+sankyo
+sr5407 
+sankyo
+sr5427 
+sankyo
+sr5428 
+sankyo
+sr5438 
+seiko
+rt2000 
+seiko
+rt3000 
+seiko
+rt3100c 
+seiko
+rt3200 
+seiko
+tt2000 
+seiko
+tt3000 
+seiko
+tt4000sc 
+seiko
+xm5064
+stauumlbli
+rx90l
+stauumlbli
+rx90
+stauumlbli
+rx130
+tq
+ma2000 
+tq
+ma3000 
+tq
+ma9000 
+umi
+microbot alpha2 
+umi
+rt100 
+umi
+rt100+ 
+umi
+rtx 
+unimation
+puma 260 
+unimation
+puma 560  560c 
+unimation
+puma 761 
+unimation
+puma 762 
+unimation
+rs154
+unimation
+rs84
+yamaha
+zeta1
+
+
+
+
+
+
+return to home page 
+
+
+
+workspace and robotrak
+are registered trademarks of robot simulations ltd
+
+copyright copy 1996 robot simulations
+ltd
+
+last revision 3 april 1996
+
+
+

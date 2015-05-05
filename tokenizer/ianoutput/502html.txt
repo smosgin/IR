@@ -1,0 +1,135 @@
+ online entertainment still trails tv 
+<meta http-equiv="pics-label" content='(pics-1.0 "http://www.rsac.org/ratingsv01.html" l gen true comment "rsaci north america server" by "barryp@cnet.com" for "http://www.news.com" on
+"1996.04.04t08:15-0500" exp "1997.07.01t08:15-0500" r (n 0 s 0 v 0 l 0))'>
+.headline 	{font-family: arial;
+			font-size: 12pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+.headline2	{font-family: arial;
+			font-size: 11pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+.newsheadline	{font-family: arial black;
+			font-size: 18pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 100%;
+			color: black}
+.shorttakes 	{font-family: arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			margin-left: 4pt;
+      			margin-right: 4pt;
+			line-height: 12pt;
+			color: black}
+.shorttakesbold 	{font-family: arial;
+			font-size: 9pt;
+			font-weight: bold;
+			text-decoration: none;
+			margin-left: 4pt;
+      			margin-right: 4pt;
+			line-height: 12pt;
+			color: black}
+.text		{font-family: times;
+			font-size: 12pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 13pt;
+			color: black}
+.date		{font-family: arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+			color: black}
+.byline		{font-family: arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+			color: black}
+.menu		{font-family: times;
+			font-size: 12pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 14pt;
+			color: black}
+.services	{font-family: times;
+			font-size: 9pt;
+			font-weight: normal;
+			text-decoration: none;
+			line-height: 14pt;
+			color: black}
+.attribution	{font-family: arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 11pt;
+                        font-style: italic;
+			color: black}
+.quote		{font-family: arial;
+			font-size: 9pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 10pt;
+			color: black}
+.search		{font-family: arial;
+			font-size: 9pt;
+			font-weight: medium;
+			text-decoration: none;
+			line-height: 16pt;
+			color: black}
+.jointext	{font-family: arial;
+			font-size: 10pt;
+			font-weight: bold;
+			text-decoration: none;
+			line-height: 12pt;
+			color: green}
+a:visited	{color: green;
+                        text-decoration: underline }
+a:link	{color: blue;
+                     text-decoration: underline }
+      function setwindowname() {
+        this.name="cnet_main";
+      setwindowname();
+        function openwindow()
+//      window.open('http://www.news.com/pages/top20.html', 'newwin', 'resizable=yes,scrollbars=yes,status=0,width=145,height=450');
+      var mywindow = window.open('', 'newwin', 'resizable=yes,scrollbars=yes,status=0,width=145,height=450');
+//      mywindow.location = "http://www.news.com/pages/top20.html";
+      mywindow.location = "http://www.news.com/pages/top20.html";
+         &nbsp;
+<a
+href="http://registration.cnet.com/registration/1,2,,0800.html?webabbrev=ne&
+from=http://www.news.com/index.html"><img width=116 height=22
+border=0 src="/graphics/join.gif"> 
+<img width=116 height=564 border=0 src="/graphics/menubar2.gif"
+alt="menu bar" usemap="#menubar" border=0>
+         online entertainment still trails tv  
+        by  
+			alex lash  
+		july 14, 1996, 10 a.m. pt
+most computer users do not consider the online world a replacement for other sources of entertainment, according to a survey from <a
+href="http://www.intelliquest.com/">intelliquest 's worldwide
+internet/online tracking service in which just 17 percent of respondents described cyberspace &quot;always&quot; or &quot;usually&quot; better than than
+television.
+conducted in april and may, the study covers the home and business use of people 16 and older in the u.s. some of the conclusions are as follows:
+fifty-four percent of the 16-and-over population use a computer, including at home, work, or school. of computer users, 32 percent ventured online in the three months prior to being interviewed, which projects to 35 million user of the internet or online services.
+nearly half of those who go online, about 15 million, said they are connected no more than 2 hours per week. of the remaining 20 million users, about 8 million access from home and are online more than 5 hours per week, an important statistic for those looking to exploit the internet
+as a home entertainment medium.
+the survey drew no comparisons between the internet and printed
+entertainment, although 61 percent described themselves as &quot;avid&quot; readers of books.
+the survey also confirmed some of the conventional wisdom concerning the net: 64 percent of users are male, 46 percent are college-educated, and 60 percent have household incomes over $50,000.
+putting the numbers against a larger backdrop, the survey found that 35
+percent of all full-time u.s. students 16 and over are online, compared with
+only 4 percent of unemployed or retired people. only 14 percent of all
+small-business employees use online services.
+webmasters might be interested to know that 26 percent of users &quot;always&quot; use a search engine and 13 percent &quot;always&quot; use bookmarks (although 44 percent &quot;never&quot; use them, most likely the same people who refuse to use a map or read instruction manuals).
+other findings included: 75 percent used email in the month before their interview; 69 percent accessed the web; 52 percent went online to obtain general news; 49 percent sought out information about &quot;specific products and services;&quot; 32 percent read an online magazine; 31 percent downloaded shareware or freeware; and 7 percent attempted an online banking transaction, the same number that accessed adult entertainment.
+related story: 
+ net user estimates come down to earth 
+ copyright  &#169 1995-97 cnet, inc. all rights reserved.

@@ -1,0 +1,13 @@
+Token: Weight
+----------------
+accessed: 0.1370770186
+send: 0.0340800919
+support: 0.0430042893
+errorimagemap: 0.1714052707
+client: 0.1888884753
+file: 0.0878892168
+map: 0.2130516917
+doesnt: 0.1180866137
+coordinates: 0.1587654799
+erroryour: 0.1714052707
+imagemap: 0.3428105414

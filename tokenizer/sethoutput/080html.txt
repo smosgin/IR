@@ -1,0 +1,153 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+airsar compressed stokes matrix data cm description
+airsar compressed stokes matrix data cm description
+
+
+
+
+this manual is still being converted
+
+
+
+airsar data compression formats
+
+
+	for airsar data there are four possible formats   
+
+		1 compressed stokes matrix data 
+			multilookquadpol lowres 10 bytespixel
+		2 compressed scattering matrix 730 processor data 
+			single lookquadpol10 bytespixel
+		3 compressed scattering matrix 35 processor data 
+			single lookquadpol lowres 10 bytespixel
+		4 uncompressed synoptic amplitude data 
+			vax real4 single pol lowres 4 bytespixel
+	in the following descriptions
+	
+		sign  will return the sign of the argument  � 1 
+
+		nint  will indicate that the nearest integer value is calculated of its 
+argument  
+
+		int  will indicate that the truncation of the floating point value to integer 
+is calculated of its argument and that if the floating point value is less than zero 
+subtraction by 10 is additionally required  note that this is not the same as fortran 
+int 
+
+		genfac is the airsar general scale factor whose value is recorded in the 
+header of the oldheader field 133
+
+
+
+
+stokes matrix data
+
+	airsar compressed stokes matrix cm quadpol data  10 bytes per pixel   
+consists of one file for each scene per frequency  each line of each file consists of 1024 
+azimuth samples  there are 750 or 1282 lines depending on the processor each 
+corresponding to progressively greater range from the radar  the azimuth pixel spacing 
+is 121 meters for the pre1993 prf and 8 meters for the 1993 and later prf  the range 
+pixel spacing is 666 meters assumes 20 mhz data  the first two or three lines in the 
+file are header lines  the data has been symmetrized such that shv = 05 shv +svh 
+and is usually calibrated  for the 730 processor the data has been multilooked by 4 
+while for the 35 processor the data has been multilooked by 16  
+
+� 10 bytes per pixel  quadpol data with
+	� byte1   intlog2m11
+	� byte2  nint254mantissa   15
+		mantissa = m11  2byte1
+		qsca = genfac  byte2  254  + 15 2byte1
+	� byte3  nint127 m12qsca
+	� byte4  nint127 signm13qsca sqrtm13qsca
+	� byte5  nint127 signm14qsca sqrtm14qsca
+	� byte6  nint127 signm23qsca sqrtm23qsca
+	� byte7  nint127 signm24qsca sqrtm24qsca
+	� byte8  nint127 m33qsca
+	� byte9  nint127 m34qsca
+	� byte10  nint127 m44qsca
+	the total power is 
+		tp = m11 = genfac  byte2  254 + 15 2byte1 
+	the remaining terms are given by 
+
+		m12 = m11 byte3 127
+		m13 = signbyte4 m11 byte4 1272
+		m14 = signbyte5 m11 byte5 1272
+		m23 = signbyte6 m11 byte6 1272
+		m24 = signbyte7 m11 byte7 1272
+		m33 = m11 byte8 127
+		m34 = m11 byte9 127
+		m44 = m11 byte10 127
+		m22 = m11  m33  m44
+
+	the difference between the airsar cm data and sirc mlc data is chiefly 
+that for airsar the elements of the stokes matrix are stored directly to each 
+compressed byte  while for sirc the crossproducts that when combined appropriately 
+comprise the stokes matrix are stored  in addition the airsar data employs a general 
+scale factor while sirc does not  and finally the value stored in the first two bytes by 
+airsar is the total power divided by the general scale factor while the value stored in 
+the first two bytes by sirc is four times the total power
+
+
+
+the stokes matrix and crossproducts
+
+the symmetrized stokes matrix may be formed from the crossproducts of the scattering 
+matrix that are stored by sirc in the mlc format as follows
+
+	m11 = shhshh + svvsvv + 2shvshv  40
+	m12 = shhshh  svvsvv  40
+	m13 = reshhshv + reshvsvv   20
+	m14 = imshhshv  imshvsvv   20
+	m21 = m12
+	m22 = shhshh +svvsvv  2shvshv   40
+	m23 =  reshhshv  reshvsvv   20
+	m24 = imshhshv + imshvsvv  20
+	m31 = m13
+	m32 = m23
+	m33 = shvshv  + reshhsvv  20
+	m34 = imshhsvv  20
+	m41 = m14
+	m42 = m24
+	m43 = m34
+	m44 = shvshv  reshhsvv  20
+
+	the crossproducts in terms of the symmetrized stokes matrix elements are 
+
+	shhshh = 2m12 + 2m11  m33  m44
+	shvshv = m33 + m44
+	svvsvv = 2m11  2m12  m33  m44
+	shhshv = complex m13 + m23 m14  m2 4 
+	shhsvv = complex  m33  m44 2m34 
+	shvsvv = complex m13  m23 m14 + m24 
+ 
+
+	for slc data the stokes matrix will not be symmetrized  the unsymmetrized 
+stokes matrix is given by
+
+	m11 = shhshh + shvshv + svhsvh + svvsvv  40
+	m12 = shhshh  shvshv + svhsvh  svvsvv  40
+	m13 = reshhshv + resvhsvv   20
+	m14 = imshhshv  imsvhsvv   20
+	m21 = shhshh + shvshv  svhsvh  svvsvv  40
+	m22 = shhshh + svvsvv  shvshv  svhsvh  40
+	m23 =  reshhshv  resvhsvv   20
+	m24 = imshhshv + imsvhsvv  20
+	m31 = reshhsvh + reshvsvv   20
+	m32 =  reshhsvh  reshvsvv   20
+	m33 = shvshv  + reshhsvv  20
+	m34 = imshhsvv+imshvsvh  20
+	m41 =  imshhsvh  imshvsvv   20
+	m42 = imshhsvh + imshvsvv  20
+	m43 =  imshhsvv  imshvsvh  20
+	m44 = reshvsvh  reshhsvv  20
+
+
+
+<img src=gificonsbackyellowgif
+align=bottom>     imaging radar home page
+
+updated 82594
+brucechapmanjplnasagov
+	

@@ -1,0 +1,12 @@
+Token: Weight
+----------------
+staff: 0.0954242572
+document: 0.1176091358
+system: 0.0477121286
+continuing: 0.1255272478
+wont: 0.2222716659
+tracking: 0.1740362644
+college: 0.1204120070
+enter: 0.1361727864
+ccecs: 0.2399673760
+education: 0.0477121286

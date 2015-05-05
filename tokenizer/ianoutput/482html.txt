@@ -1,0 +1,36 @@
+ directores y funcionarios 
+<body background="../../images/ypffon.jpg" bgcolor="#ffffff"
+text="#000000" link="#0000ff" vlink="#000080" alink="#800040">
+ &#160; 
+ &#160; <img src="../../images/zdiroff.gif"
+alt="directores y funcionarios" align="bottom" width="579"
+height="30"> 
+          agustin blanco**  
+          h&eacute;ctor a.domeniconi  
+          carlos de la vega  
+          carlos priani*  
+          patricio c. perkins  
+          daniel cameron  
+          mario l.pi&ntilde;eiro  
+          roberto j.a.dormal bosch*  
+          mario e.v&aacute;zquez*  
+          bayless a.manning  
+ <img src="../../images/directrs.jpg"
+alt="directorios y funcionarios foto" align="bottom" width="565"
+height="255">    
+          italo luder  
+          miguel madanes 
+          vicepresidente ejecutivo   
+          nells leon 
+          presidente  
+          james r. lesch  
+          ernst schneider  
+  directorio 
+* comisi&oacute;n fiscalizadora 
+** director suplente  
+  <img
+src="../../images/barra.gif" align="bottom" width="520"
+height="10">   
+  <img
+src="../../images/ypf3d2.gif" alt="ypf logo" align="bottom"
+border="0" width="111" height="52">  

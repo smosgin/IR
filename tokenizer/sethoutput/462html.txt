@@ -1,0 +1,927 @@
+Approximate time to generate this file: 0.007 seconds
+Begin token stream...
+----------------
+
+
+
+
+notas a los estados contables 4
+
+
+
+<body background=imagesypffonjpg bgcolor=ffffff
+text=000000 link=0000ff vlink=000080 alink=800040>
+160
+notas a los estados contables 
+por los ejercicios finalizados el 31 de diciembre de 1995 1994 y
+1993
+continuacioacuten
+
+    
+        
+        <img
+        src=imagesleftgif align=bottom border=0
+        width=30 height=30> 
+        
+        paacutegina
+        anterior
+    
+
+<a
+name=10 informacion adicional sobre los estados de origen y aplicacion de fondos>10
+informacion adicional sobre los estados de origen y aplicacion de
+fondos
+
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        pagos en efectivo en concepto de
+    
+    
+        impuesto a las ganancias y sobre los
+        activos
+        8
+        18
+        26
+    
+    
+        intereses
+        122
+        57
+        32
+    
+    
+        
+        130
+        75
+        58
+    
+    
+        caja y equivalentes de caja fondos
+        incluye
+    
+    
+        caja y bancos
+        40
+        57
+        80
+    
+    
+        inversiones
+        4
+        7
+        8
+    
+    
+        
+        44
+        64
+        88
+    
+
+las principales operaciones financieras y de
+inversioacuten que no afectaron fondos estaacuten
+constituidas para los ejercicios finalizados el 31 de diciembre
+de 1995 1994 y 1993 por la compensacioacuten de anticipos de
+impuestos con creacuteditos impositivos relacionados con
+exportaciones utilidad por la cancelacioacuten de cargas
+fiscales con bocones la distribucioacuten de dividendos no
+pagados el consumo de previsiones de bienes de uso el pago de
+dividendos mediante la compensacioacuten de creacuteditos
+aportes en bienes de uso a sociedades vinculadas previsiones
+para peacuterdidas futuras por contratos a largo plazo ventas
+a creacutedito de bocones y bienes de uso y cobranza de
+creacuteditos en bienes de uso y bocones
+<a
+name=11 informacioacuten sobre segmentos de negocio>11
+informacioacuten sobre segmentos de negocio
+el negocio principal de la sociedad es la
+exploracioacuten y produccioacuten de petroacuteleo crudo y
+gas natural y la refinacioacuten y comercializacioacuten de
+productos derivados del petroacuteleo la exploracioacuten y
+produccioacuten de yacimientos quotupstreamquot incluye
+las compras contractuales de gas y compras de petroacuteleo
+crudo derivadas de contratos de servicio y concesiones y las
+actividades de extraccioacuten de petroacuteleo y gas todas
+estas operaciones se llevan a cabo a traveacutes del segmento
+de quotexploracioacuten y produccioacutenquot mientras
+que las operaciones de refinacioacuten y venta
+quotdownstreamquot se realizan por medio del segmento de
+quotrefinacioacuten y marketingquot las otras actividades
+de la sociedad que no encuadran en estas dos categoriacuteas
+se agrupan bajo la clasificacioacuten administracioacuten
+central que comprende tambieacuten los activos no asignados a
+los otros dos segmentos activos corporativos incluyendo las
+disponibilidades
+el resultado operativo y los activos
+identificables para cada segmento han sido determinados
+despueacutes de ajustes de consolidacioacuten las ventas
+entre los segmentos se efectuacutean a precios internos de
+transferencia establecidos por ypf que reflejan aproximadamente
+los precios de mercado en argentina
+
+
+    
+        
+        exploracioacuten y
+        produccioacuten 
+        refinacioacuten y marketing
+        administracioacuten central
+        ajustes de
+        consolidacioacuten
+        total
+    
+    
+        ejercicio finalizado el 31 de
+        diciembre de 1995
+    
+    
+        ventas netas a terceros
+        730
+        3453
+        150
+        150
+        4183
+    
+    
+        ventas netas a sociedades controladas y vinculadas
+        30
+        89
+        150
+        150
+        119
+    
+    
+        ventas netas intersegmentos
+        2113
+        17
+        150 
+        2130
+        150
+    
+    
+        ventas netas totales
+        2873
+        3559
+        150
+        2130
+        4302
+    
+    
+        utilidad peacuterdida operativa
+        777
+        244
+        145
+        8
+        884
+    
+    
+        resultado de inversiones permanentes
+        125
+        43
+        150
+        150
+        82
+    
+    
+        depreciacioacuten de bienes de uso 
+        631
+        158
+        5
+        150
+        794
+    
+    
+        inversioacuten en bienes de uso
+        1663
+        306
+        38
+        150
+        2007
+    
+    
+        activos identificables
+        5017
+        3571
+        610
+        61
+        9137
+    
+    
+        ejercicio finalizado el 31 de diciembre de
+        1994
+    
+    
+        ventas netas a terceros
+        708
+        3516
+        150
+        150
+        4224
+    
+    
+        ventas netas a sociedades controladas y vinculadas
+        26
+        77
+        150
+        150
+        103
+    
+    
+        ventas netas intersegmentos
+        1856
+        13
+        150 
+        1869
+        150 
+    
+    
+        ventas netas totales
+        2590
+        3606
+        150
+        1869
+        4327
+    
+    
+        utilidad peacuterdida operativa
+        597
+        283
+        133
+        10
+        737
+    
+    
+        resultado de inversiones permanentes
+        4
+        29
+        150
+        150
+        25
+    
+    
+        depreciacioacuten de bienes de uso 1
+        573
+        144
+        4
+        150
+        721
+    
+    
+        inversioacuten en bienes de uso
+        1084
+        210
+        24
+        150
+        1318
+    
+    
+        activos identificables
+        4187
+        3009
+        723
+        49
+        7870
+    
+    
+        ejercicio finalizado el 31 de diciembre de
+        1993
+    
+    
+        ventas netas a terceros
+        830
+        3373
+        150
+        150
+        4203
+    
+    
+        ventas netas a sociedades controladas y vinculadas
+        31
+        156
+        150
+        150
+        187
+    
+    
+        ventas netas intersegmentos
+        1856
+        150
+        150
+        1856
+        150
+    
+    
+        ventas netas totales
+        2717
+        3529
+        150
+        1856
+        4390
+    
+    
+        utilidad peacuterdida operativa
+        782
+        153
+        129
+        14
+        792
+    
+    
+        resultado de inversiones permanentes
+        150 
+        7
+        150 
+        150 
+        7
+    
+    
+        depreciacioacuten de bienes de uso 
+        465
+        132
+        2
+        150
+        599
+    
+    
+        inversioacuten en bienes de uso
+        924
+        416
+        6
+        150
+        1346
+    
+    
+        activos identificables
+        3954
+        3117
+        916
+        150
+        7987
+    
+
+
+1 neto de depreciacioacuten acelerada
+las ventas por exportaciones por los ejercicios
+finalizados el 31 de diciembre de 1995 1994 y 1993 fueron 1387
+1213 y 889 respectivamente la mayor parte de estas
+exportaciones se realizan a paiacuteses de ameacuterica
+central y ameacuterica del sur principalmente a brasil y
+chile
+<a
+name=12 beneficios sociales y otros beneficios para el personal>12
+beneficios sociales y otros beneficios para el personal
+la sociedad otorga una serie de beneficios
+sociales y otros beneficios a su personal cuyas principales
+caracteriacutesticas se exponen a continuacioacuten
+
+    
+        <a
+        name=a obra social y otros beneficios posteriores al retiro>a
+        obra social y otros beneficios posteriores al retiro 
+        ien julio de 1994 la sociedad
+        constituyoacute una obra social independiente para
+        beneficio de sus empleados activos durante 1995 la
+        sociedad ha traspasado los contratos de servicios
+        meacutedicos correspondientes a la misma la
+        direccioacuten de la sociedad considera que la
+        contribucioacuten de ypf no seraacute superior al
+        porcentaje de las remuneraciones de conformidad con la
+        legislacioacuten vigente esta entidad tambieacuten
+        dispondraacute como ingresos las retenciones legales
+        que se practican sobre las remuneraciones del personal
+        activo sin ninguacuten costo adicional para ypf
+        
+        en antildeos anteriores la sociedad proveiacutea los
+        servicios de asistencia meacutedica integral al
+        personal activo y a sus jubilados y pensionados los
+        ingresos se registraban a medida que se devengaban y los
+        costos por prestaciones al momento de su efectiva
+        prestacioacuten hasta julio de 1994 la obra social
+        era deficitaria baacutesicamente porque la
+        atencioacuten de los jubilados y pensionados demandaba
+        maacutes fondos que los aportados por el instituto
+        nacional de servicios sociales para jubilados y
+        pensionados el quotinssjpquot obra social para
+        jubilados y pensionados entre marzo de 1993 y abril de
+        1994 la sociedad discontinuoacute la atencioacuten a
+        jubilados y pensionados seguacuten lo permitido por la
+        legislacioacuten vigente
+        
+        ypf habiacutea recibido demandas judiciales de
+        jubilados y pensionados reclamando la restitucioacuten
+        de las prestaciones meacutedicoasistenciales los
+        jueces intervinientes habiacutean dictado medidas
+        cautelares acatadas por ypf mediante la entrega de
+        certificados provisorios de atencioacuten
+        meacutedica no obstante ser apeladas en el fuero
+        judicial durante 1994 la caacutemara de apelaciones
+        dispuso el levantamiento de parte de dichas medidas
+        cautelares la direccioacuten de la sociedad y sus
+        asesores legales no esperan que estas acciones legales
+        tengan efectos adversos significativos en la
+        situacioacuten patrimonial y financiera o en el
+        resultado de las operaciones pues se espera transferir
+        al inssjp el costo de las prestaciones reconocidas 
+        hasta diciembre de 1994 la sociedad
+        habiacutea prestado ciertos beneficios vacacionales a
+        sus empleados jubilados pensionados y sus familiares 
+    
+    
+        <a
+        name=b programa de bonificacioacuten a funcionarios>b
+        programa de bonificacioacuten a funcionarios 
+        el programa alcanza a los principales
+        ejecutivos de la sociedad la bonificacioacuten se basa
+        en la evolucioacuten de la cotizacioacuten de las
+        acciones de la sociedad y de sus resultados 
+    
+    
+        c plan de
+        retiro 
+        a partir del 1176 de marzo de 1995 la
+        sociedad ha establecido un plan de retiro de
+        contribuciones definidas que proveeraacute beneficios
+        a cada empleado que decida adherirse al plan cada
+        adherente deberaacute aportar un monto que
+        variaraacute entre el 2 y el 9 de su
+        remuneracioacuten mensual y la sociedad deberaacute
+        aportar un monto equivalente al contribuido por cada
+        adherente la responsabilidad de la administracioacuten
+        de los fondos estaraacute a cargo de
+        compantildeiacuteas de seguro de retiro la
+        direccioacuten de la sociedad estima que la
+        contribucioacuten anual de ypf no seraacute superior
+        a 4 
+        los adherentes recibiraacuten los
+        fondos aportados por la sociedad antes de su retiro
+        uacutenicamente en caso de renuncia o despido
+        injustificado bajo ciertas circunstancias y
+        adicionalmente en caso de muerte o incapacidad ypf puede
+        discontinuar este plan en cualquier momento sin incurrir
+        en ninguacuten costo relacionado a su
+        terminacioacuten 
+    
+
+13
+compromisos y contingencias
+la sociedad ha llevado a cabo un anaacutelisis
+de sus compromisos contractuales que individualmente generan
+probables peacuterdidas futuras y ha previsionado el valor
+actual estimado de las mismas empleando una tasa de descuento
+del 10 anual
+los importes asiacute calculados ascendieron
+considerando la porcioacuten corriente y no corriente a 50
+100 y 234 al 31 de diciembre de 1995 1994 y 1993
+respectivamente y se incluyen en la previsioacuten para
+peacuterdidas futuras por contratos a largo plazo <a
+href=spexhibitbhtmlanexo e>anexo e dichos saldos
+incluyen el efecto de
+
+    
+        <a
+        name=a contratos de venta y obligaciones de compra de petroacuteleo y gas>a
+        contratos de venta y obligaciones de compra de
+        petroacuteleo y gas 9 56 y 174 al 31 de diciembre
+        de 1995 1994 y 1993 respectivamente 
+        en noviembre de 1993 la sociedad y los
+        quotsocios de totalquot total austral sa deminex
+        argentina sa y bridas sapic firmaron un acuerdo
+        estableciendo la finalizacioacuten del contrato de
+        servicios de total en la cuenca austral y su reemplazo
+        por nuevos acuerdos ypf acordoacute entre otras
+        condiciones comprar cantidades de gas variables sujetas
+        a un maacuteximo a un precio fijo predeterminado
+        transferir ciertas concesiones e intereses en consorcios
+        a los socios de total e indemnizar a los socios de total
+        por el impuesto a las ganancias y cualquier otro impuesto
+        sobre las utilidades netas o brutas que lo complemente o
+        sustituya que pudiera ser aplicable como consecuencia de
+        la finalizacioacuten del contrato de servicios la
+        direccioacuten de la sociedad estima que los
+        compromisos de compra mencionados no generaraacuten
+        peacuterdidas futuras como consecuencia de este
+        acuerdo ciertas previsiones que se habiacutean
+        establecido para cubrir peacuterdidas relacionadas con
+        el contrato de total dejaron de ser necesarias y se
+        reversaron en el cuarto trimestre de 1993 la ganancia
+        neta resultante de la renegociacioacuten del contrato
+        con los socios de total ascendioacute a 235 y fue
+        imputada a quotresultados por reconversioacuten de
+        contratos y venta de aacutereasquot en el estado de
+        resultados por el ejercicio finalizado el 31 de diciembre
+        de 1993 al 31 de diciembre de 1995 la sociedad
+        anticipoacute 56 a los socios de total por el impuesto
+        a las ganancias del ejercicio 1994 originado en esta
+        transaccioacuten el que seraacute reembolsado a ypf
+        durante la vida de los activos productivos <a
+        href=spnotes2htmlc otros creacuteditos>nota 3c 
+    
+    
+        <a
+        name=b reconversioacuten de contratos>b
+        reconversioacuten de contratos 41 44 y 60 al 31
+        de diciembre de 1995 1994 y 1993 respectivamente 
+        en la mayoriacutea de los contratos
+        renegociados ypf se comprometioacute a recibir y
+        transportar el petroacuteleo de propiedad de terceros y
+        prestar ciertos servicios auxiliares en algunos casos
+        como contraprestacioacuten se reconocioacute a ypf un
+        porcentaje sobre la produccioacuten de crudo y gas en
+        tanto que en otros no existioacute tal resarcimiento 
+        al 31 de diciembre de 1995 la
+        contingencia total sin descontar relacionada con los
+        puntos a y b mencionados anteriormente asciende a 61
+        durante los proacuteximos cinco antildeos la
+        sociedad estima efectuar desembolsos netos sin
+        descontar en relacioacuten a estos contratos por 24
+        7 5 4 y 3 respectivamente 
+    
+    
+        <a
+        name=c otros compromisos y contingencias>c otros
+        compromisos y contingencias 
+        la sociedad y ciertos consorcios en los
+        que participa han llegado a acuerdos por los cuales se
+        han comprometido a entregar hidrocarburos liacutequidos
+        a traveacutes de oleoductos asociados a
+        destileriacuteas asociadas o a adquirir ciertos
+        voluacutemenes de petroacuteleo crudo gas natural o
+        productos relacionados la direccioacuten de la
+        sociedad no preveacute peacuterdidas relacionadas con
+        estos acuerdos 
+        la sociedad ha firmado un contrato de
+        venta a largo plazo con enap la compantildeiacutea
+        petrolera estatal chilena para la provisioacuten de
+        petroacuteleo de la cuenca neuquina a chile que
+        comenzoacute en 1994 adicionalmente se firmoacute
+        un contrato con oleoducto trasandino argentina sa y
+        oleoducto trasandino chile sa sociedades controladas
+        indirectamente por ypf para transportar un miacutenimo
+        de 60000 barriles diarios de petroacuteleo crudo a
+        chile la sociedad es responsable por el pago del
+        transporte de los voluacutemenes comprometidos
+        auacuten en el caso en que los mismos no sean
+        efectivamente transportados 
+        la sociedad conjuntamente con otros
+        cuatro productores neuquinos de gas tambieacuten
+        mantiene con gas de chile sa cuyos accionistas son
+        tenneco y british gas un contrato para la
+        provisioacuten de gas que podriacutea comenzar en
+        1997 el cual se encuentra sujeto a la
+        finalizacioacuten exitosa de un gasoducto a chile y del
+        sistema de distribucioacuten relacionado durante el
+        primer trimestre de 1996 se confirmaraacute si este
+        proyecto seraacute llevado a cabo o no en octubre de
+        1995 el poder ejecutivo nacional otorgoacute a la
+        sociedad y sus socios la concesioacuten del transporte
+        a efectos de permitir la construccioacuten del
+        gasoducto y la operacioacuten dentro del territorio
+        argentino 
+        la direccioacuten de la sociedad estima
+        que no se sufriraacuten peacuterdidas como resultado
+        de las negociaciones y compromisos descriptos maacutes
+        arriba 
+        adicionalmente en relacioacuten con la
+        transformacioacuten de ypf se ha reducido
+        significativamente el nuacutemero de personas
+        empleadas y eacutesta ha sido demandada judicialmente
+        por algunos exempleados se ha constituido una
+        previsioacuten para esta contingencia y en
+        opinioacuten de la direccioacuten y en la de sus
+        asesores legales externos no se espera que en el futuro
+        estos juicios tengan efectos materiales adversos en los
+        resultados de las operaciones o en la posicioacuten
+        financiera 
+        la secretariacutea de energiacutea
+        dispuso que ypf entregue a las provincias de riacuteo
+        negro y neuqueacuten la propiedad de ciertas
+        liacuteneas de alta tensioacuten y ciertas estaciones
+        transformadoras con un valor de libros no significativo
+        sin resarcimiento para la sociedad en tal sentido ypf
+        ha reclamado tal resarcimiento ya que considera no le
+        correspondiacutea cederlas por ser de su propiedad la
+        direccioacuten de la sociedad ha propuesto a la
+        secretariacutea de energiacutea absorber el valor de
+        dichos bienes con los futuros dividendos que le
+        correspondan al estado nacional en su caraacutecter de
+        accionista esto en principio no seriacutea aceptado
+        por el estado nacional debido a ello ha sido
+        previsionado totalmente en los estados contables de la
+        sociedad la sociedad entregoacute las instalaciones
+        ubicadas en dichas provincias en el primer trimestre de
+        1994 
+        como consecuencia de un contrato de
+        servicios firmado con amoco argentina oil company
+        quotamocoquot ypf habiacutea asumido todos los
+        impuestos que amoco tuviera que pagar por sus actividades
+        en el aacuterea del contrato y adicionalmente las
+        regaliacuteas por la produccioacuten del aacuterea
+        a la provincia de chubut en 1960 fue sancionada una ley
+        que estableciacutea que en aquellos contratos en los
+        cuales un ente estatal se haciacutea cargo de los
+        impuestos nacionales de otra compantildeiacutea
+        eacutestos constituiacutean una exencioacuten en
+        favor de esta uacuteltima esta exencioacuten
+        impositiva expiroacute con la venta de las acciones de
+        ypf por parte del gobierno completada en julio de 1993
+        ypf pagoacute las regaliacuteas de amoco y amoco
+        pagoacute el impuesto a las ganancias por el
+        aacuterea cerro dragoacuten correspondiente al
+        antildeo 1993 reclamando a ypf su reembolso durante
+        el cuarto trimestre de 1994 ypf y amoco han firmado un
+        acuerdo definitivo que entroacute en vigencia el
+        1186 de enero de 1995 renegociando los teacuterminos
+        anteriores de la siguiente manera i el porcentaje de
+        participacioacuten de ypf en la produccioacuten del
+        aacuterea cerro dragoacuten se redujo al 122 ii
+        dos aacutereas cerro tortugalas flores y el
+        chulengo adyacentes al aacuterea cerro dragoacuten
+        son incorporadas al acuerdo en los mismos teacuterminos
+        de dicha aacuterea iii ypf mantiene su
+        obligacioacuten de pagar las regaliacuteas
+        correspondientes al total de la produccioacuten de
+        todas las aacutereas mencionadas iv ypf no
+        seraacute responsable en el futuro de los impuestos
+        relacionados con las aacutereas del acuerdo
+        correspondientes a amoco adicionalmente ypf se
+        asocioacute con amoco andina production company
+        quotamoco andinaquot una subsidiaria de amoco en
+        el 50 de la exploracioacuten y posible
+        explotacioacuten de dos aacutereas de la cuenca
+        neuquina y tambieacuten indemnizaraacute a amoco y
+        amoco andina por eventuales efectos impositivos que
+        podriacutean surgir como consecuencia del acuerdo la
+        sociedad considera que no deberaacute pagar monto
+        significativo alguno relacionado con este acuerdo de
+        indemnidad y en consecuencia no ha registrado ninguna
+        previsioacuten al respecto durante el ejercicio
+        finalizado el 31 de diciembre de 1995 ypf
+        reembolsoacute el impuesto a las ganancias
+        correspondiente a amoco en relacioacuten con su
+        actividad en el aacuterea cerro dragoacuten por los
+        ejercicios finalizados el 31 de diciembre de 1994 y 1993
+        la peacuterdida neta resultante del acuerdo
+        ascendioacute a 70 y fue imputada a quotresultados
+        por reconversioacuten de contratos y venta de
+        aacutereasquot en el estado de resultados por el
+        ejercicio finalizado el 31 de diciembre de 1994
+        correspondiendo baacutesicamente a la valuacioacuten
+        del activo fijo de las aacutereas cerro tortugalas
+        flores y el chulengo a su valor de realizacioacuten 
+        adicionalmente en virtud de la ley de
+        privatizacioacuten de ypf el estado nacional se hizo
+        cargo de ciertas obligaciones de la sociedad predecesora
+        al 31 de diciembre de 1990 en tal sentido el estado
+        nacional asumioacute 
+        
+            
+                todos los creacuteditos y
+                deudas originados en causa tiacutetulo o
+                compensacioacuten existentes al 31 de diciembre
+                de 1990 que no se encuentren reconocidos como
+                tales en los estados contables de yacimientos
+                petroliacuteferos fiscales sociedad del estado
+                a dicha fecha que fueran auditados por la
+                sindicatura general de empresas puacuteblicas
+                y 
+            
+            
+                toda contingencia reconocida o
+                no en dichos estados contables al 31 de diciembre
+                de 1990 generada por hechos ocurridos yo en
+                operaciones celebradas a dicha fecha siempre que
+                exista decisioacuten firme de la autoridad
+                jurisdiccional competente debiendo mantener
+                indemne a ypf de todo reclamo que se realice por
+                estas cuestiones 
+            
+        
+        bajo los teacuterminos del decreto
+        n186 54693 que implementa lo previsto por la ley de
+        privatizacioacuten la asuncioacuten por parte del
+        estado nacional de las obligaciones antes descriptas que
+        hubieran sido reclamadas judicialmente en procesos en
+        traacutemite no se extenderaacute a las costas
+        decretadas en dichas condenas como a cargo de ypf por la
+        parte que corresponda a los apoderados procuradores
+        letrados peritos o consultores teacutecnicos
+        designados por ypf para su defensa representacioacuten
+        o asesoramiento en dichos procedimientos el estado
+        nacional se haraacute cargo de las obligaciones
+        contractuales asumidas por la sociedad con los
+        profesionales que la hubieran representado o asistido en
+        los procedimientos judiciales referidos a estas
+        obligaciones cuando dichos contratos establezcan
+        retribuciones fijas y de pago perioacutedico o
+        escalonado cuyo monto parcial o total estuviera
+        desvinculado del monto del reclamo o de la demanda o de
+        las costas reguladas a cargo de ypf en relacioacuten
+        al decreto n176 54693 la sociedad estaacute
+        obligada a mantener al gobierno nacional informado de
+        cualquier accioacuten contra ypf por estos conceptos 
+        hasta el 31 de diciembre de 1995 la
+        sociedad ha recibido reclamos por un total de
+        aproximadamente 734 y otros reclamos por montos
+        indeterminados estos reclamos han sido o estaacuten en
+        proceso de ser notificados al gobierno nacional teniendo
+        en cuenta lo estipulado por la ley de
+        privatizacioacuten de ypf la sociedad considera que no
+        deberaacute responder por ninguacuten importe
+        significativo en relacioacuten con estos reclamos 
+        durante el ejercicio finalizado el 31 de
+        diciembre de 1994 la sociedad vendioacute el
+        aacuterea productiva riacuteo neuqueacuten y
+        transfirioacute los bienes existentes en dicha
+        aacuterea la cesioacuten de la concesioacuten para
+        la explotacioacuten del aacuterea fue autorizada por
+        el poder ejecutivo nacional mediante el decreto n186
+        129194 la ganancia generada por la transferencia del
+        aacuterea ascendioacute a 71 y fue imputada a la
+        liacutenea quotresultados por reconversioacuten de
+        contratos y venta de aacutereasquot del estado de
+        resultados por el ejercicio finalizado el 31 de diciembre
+        de 1994 
+    
+
+<a
+name=14 restricciones a los resultados no asignados>14
+restricciones a los resultados no asignados
+de acuerdo con las disposiciones de la ley
+n186 19550 el 5 de la utilidad neta del ejercicio debe ser
+apropiada a la reserva legal hasta que la misma alcance el 20
+del capital social capital suscripto y ajuste de los aportes
+consecuentemente los resultados no asignados estaacuten
+restringidos en 40
+como consecuencia de la sancioacuten de la ley
+n186 23696 la sociedad emitiraacute bonos de
+participacioacuten en las ganancias para el personal los
+cuales son intransferibles y caducan con la extincioacuten de
+la relacioacuten laboral de manera de distribuir entre ellos
+el 025 de la utilidad neta de cada ejercicio producto de su
+relacioacuten de dependencia cada empleado recibiraacute una
+cantidad de bonos de participacioacuten en las ganancias
+determinada en funcioacuten de su remuneracioacuten su
+antiguumledad y sus cargas de familia estos bonos dan derecho
+a los empleados a recibir participacioacuten en los resultados
+desde el ejercicio 1994 inclusive al 31 de diciembre de 1995 el
+costo acumulado del plan de participacioacuten a los empleados
+es de 3
+la asamblea general ordinaria de accionistas del
+29 de abril de 1994 cumpliendo con lo establecido por los
+estatutos de ypf aproboacute distribuir resultados no
+asignados por 430 al gobierno nacional correspondientes al pago
+de un dividendo especial el mismo fue compensado parcialmente
+con un creacutedito por ahorro obligatorio por 74 el reembolso
+de regaliacuteas pagadas en exceso por 38 e intereses
+correspondientes a estos creacuteditos por 20 el remanente fue
+cancelado en efectivo
+<a
+name=15 cambios en el conjunto econoacutemico>15
+cambios en el conjunto econoacutemico
+durante 1993 la sociedad constituyoacute
+aampc pipeline holding company transportes mariacutetimos
+petroleros sa terminales mariacutetimas patagoacutenicas
+sa e ypf usa inc y adquirioacute el 9999 del paquete
+accionario de agip argentina sa la cual se denomina ahora ypf
+gas sa asimismo efectivizoacute la venta de su 49 de
+participacioacuten accionaria en interpetrol sa y
+cedioacute al ministerio de defensa las tenencias accionarias
+de 
+petroquiacutemica bahiacutea blanca sa y
+petroquiacutemica general mosconi saic sin recibir
+resarcimiento econoacutemico en consecuencia los montos
+registrados en inversiones fueron dados de baja al igual que las
+previsiones que se habiacutean constituido a tal efecto
+durante 1994 ypf constituyoacute las sociedades
+servired ypf sa sociedad inmobiliaria red propia sa
+operadora de estaciones de servicios sa ypf exploration and
+production overseas inc ypf chile sa y petroacuteleos
+transandinos ypf sa y adquirioacute el 50 de petroken
+petroquiacutemica ensenada sa
+durante el ejercicio finalizado el 31 de
+diciembre de 1995 ypf constituyoacute las sociedades ypf
+acquisition corporation ypf peruacute sa ypf sudamericana
+sa e inversora bahiacutea blanca sa y adquirioacute el
+100 de concefeacute sa el 3040 de concecuyo sa el
+1809 de petroquiacutemica bahiacutea blanca
+saicquotpbbquot el 1149 de indupa
+saicquotindupaquot el 50 de petrochemical investment
+company y adquirioacute maxus energy corporation seguacuten
+se detalla en los siguientes paacuterrafos
+
+    
+        en abril de 1995 ypf acquisition
+        corporation la quotsubsidiariaquot adquirioacute
+        aproximadamente el 88 de las acciones ordinarias de
+        maxus energy corporation quotmaxusquot conforme a
+        la oferta hecha seguacuten el acuerdo de fusioacuten
+        realizado por la sociedad la subsidiaria y maxus el 28
+        de febrero de 1995
+        
+        la sociedad completoacute luego de una asamblea
+        especial de accionistas de maxus realizada en junio de
+        1995 la adquisicioacuten de todas las restantes
+        acciones ordinarias en circulacioacuten de esta
+        sociedad a traveacutes de la fusioacuten de la
+        subsidiaria con maxus sociedad continuadora en la cual
+        los accionistas de maxus que no habiacutean aceptado la
+        oferta recibieron el mismo monto por accioacuten que
+        se pagoacute en dicha oferta
+        
+        la compra fue financiada por i un aporte de capital de
+        ypf a la subsidiaria por u$s250 millones y ii u$s442
+        millones otorgados a la subsidiaria correspondientes a
+        una liacutenea de creacutedito de u$s550 millones
+        otorgada por the chase manhattan bank national
+        association el quotchasequot los preacutestamos
+        provenientes del creacutedito con el chase fueron
+        cancelados durante junio de 1995 con el efectivo
+        disponible de maxus y un agregado de u$s425 millones de
+        preacutestamos recibidos por subsidiarias de maxus que
+        fueron garantizados por ypf en relacioacuten con estos
+        preacutestamos la sociedad ha asumido ciertos
+        compromisos detallados en la <a
+        href=spnotes2htmlg prestamos>nota 3g los
+        acuerdos que formalizan estos preacutestamos contienen
+        entre otras cosas una restriccioacuten a la
+        disposicioacuten de los fondos provenientes de una
+        potencial venta de todos los activos de las subsidiarias
+        sujeta a ciertas excepciones se estima que estos
+        preacutestamos seraacuten cancelados con los fondos
+        generados por las operaciones de las subsidiarias
+        
+        maxus ha contabilizado dicha operacioacuten siguiendo
+        el quotmeacutetodo de adquisicioacutenquot de
+        acuerdo al statement of the accounting principles board
+        n186 16 esta norma establece que el precio de compra
+        debe asignarse a los activos identificables adquiridos y
+        a los pasivos asumidos en funcioacuten a su valor
+        corriente a la fecha de adquisicioacuten 
+    
+    en noviembre de 1995 ypf adquirioacute el 1062 de pbb
+        por un total de u$s 15 millones en diciembre de 1995 el
+        consorcio formado por ypf dow quiacutemica argentina
+        sa e itochu argentina sa adquirioacute por oferta
+        puacuteblica parte de las acciones de pbb e indupa por
+        un total de u$s 357 millones el desembolso de ypf
+        alcanzoacute a u$s 66 millones al 31 de diciembre de
+        1995 ypf vendioacute todas sus acciones de pbb
+        adquiridas en la oferta puacuteblica y el 81 de su
+        participacioacuten en indupa adquirida en dicha oferta
+        a petrochemical investment company por u$s 60 millones
+        
+        esta compra fue financiada con un preacutestamo de u$s
+        60 millones otorgado por dow credit corporation a
+        petrochemical investment company el pago de este
+        preacutestamo es garantizado por ypf
+        
+        adicionalmente en enero de 1996 ypf por siacute y
+        por cuenta de petrochemical investment company y dow
+        quiacutemica argentina sa vendieron todas sus
+        acciones en indupa saic a derivados
+        petroquiacutemicos sociedad de inversioacuten sa
+        quotderivadosquot derivados fue constituida en
+        enero de 1996 y sus accionistas eran las sociedades
+        mencionadas anteriormente
+        
+        en febrero de 1996 ypf por siacute y por cuenta de
+        petrochemical investment company y dow quiacutemica
+        argentina sa vendieron en forma porporcional a sus
+        tenencias el 70 de su participacioacuten en derivados
+        al grupo solvay y han asumido ciertos compromisos con
+        dicho grupo el efecto de estas transacciones no es
+        significativo para los estados contables de ypf al 31 de
+        diciembre de 1995
+
+
+    
+        en febrero de 1996 ypf a traveacutes
+        de una de sus sociedades controladas adquirioacute el
+        30 de polisur sa por 35 y el 637 de las acciones de
+        pbb por 29 
+    
+
+
+    
+        
+        paacutegina
+        siguiente 
+        
+        <img
+        src=imagesrightgif align=bottom border=0
+        width=30 height=30>
+    
+
+<img
+src=imagesbarragif align=bottom width=520
+height=10> 
+<img
+src=imagesypf3d2gif alt=ypf logo align=bottom
+border=0 width=111 height=52>
+
+

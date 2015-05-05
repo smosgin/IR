@@ -1,0 +1,259 @@
+ campus interactive map 
+ campus building index 
+ a 
+accounting, dept. of                                    c4 
+administration                                          d5 
+administration annex (gamma)                            e7 
+admissions, office of                                   d5 
+aeronautics                                             d5 
+aerospace & mech. engr. lab                             c5 
+agriculture (forbes)                                    c6 
+agriculture econ, dept. of                              c5 
+agriculture engr., dept of                              c6 
+agricultural sciences (shantz)                          c6 
+alumni asociation                                       b4 
+animal sciences, dept. of                               c6 
+anthropology                                            b6 
+apache hall                                             d7 
+architecture                                            c4 
+arid lands information                                  b5 
+arizona daily wildcat                                   d5 
+arizona hall                                            a7 
+arizona health sciences center                          f2 
+arizona research lab                                    b6 
+arizona state museum                                    b5 
+art & museum of art                                     b4 
+art dept., graduate studies                             d3 
+arts & sciences                                         d5 
+associated students, u of a                             c5 
+astronomy, dept. of                                     e5 
+athletics, intecollegiate                               f6 
+audio-visual                                            d3 
+auditorium, centennial                                  b6 
+automatic bank teller                                   d5 
+ b 
+babcock building                                        f3 
+bear down gymnasium                                     d6 
+bio, sciences east                                      d6 
+bio sciences west                                       b7 
+bookstore, ahsc                                         f2 
+bookstore, main campus                                  c5 
+bookstore, park student center                          b6 
+business & public admin.                                c4 
+business & public admin. (new)                          b3 
+ c 
+cancer center, ahsc                                     f1 
+capital facilities planning                             d5 
+cashier                                                 d5 
+centennial auditiorium (ticket office)                  b6 
+center for creative photography                         c4 
+center for english as a second language                 c5 
+central animal facility                                 c7 
+central heat & refrig. plant                            d6 
+central heat & refrig. plant, ahsc                      e1 
+chemistry                                               d6 
+chemisty & bio. sci. bldg.                              d6 
+chemistry, marvel labs                                  c6 
+cherry avenue parking garage                            e6 
+civil engineering                                       c4 
+classics, dept. of                                      c4 
+cohise hall                                             d5 
+coconino hall                                           b6 
+communication, dept. of                                 b4 
+community & public service                              c5 
+computer center                                         e3 
+comstock house                                          d4 
+continuing education, div. of                           e2 
+continuing medical education                            f3 
+controller                                              f2 
+corleone apartments                                     f3 
+coronado hall                                           b2 
+cultural affairs                                        a7 
+crowder hall (music)                                    a6 
+ d 
+dean of students                                        c5 
+design & construction, dept. of                         d6 
+development office                                      e3 
+disabled student services                               e5 
+douglas                                                 c6 
+drama & theatre                                         b4 
+ e 
+east stadium                                            e7 
+economics                                               c5 
+education                                               d5 
+electrical & computer engr.                             c4 
+engineering                                             c5 
+enke center                                             f6 
+entomology, dept. of                                    c6 
+exercies & sport sciences, dept. of                     f5 
+ f 
+faculty senate                                          e7 
+family & consumer resources                             b6 
+family practice unit, ahsc                              e2 
+fluid dynamics research lab                             c4 
+forbes (agriculture)                                    c6 
+franklin                                                b6 
+ g 
+gallagher theater                                       d5 
+garage                                                  d7 
+garage, ahsc                                            f1 
+geography & regional development                        c4 
+geosciences, dept. of                                   b6 
+gila hall                                               b5 
+gittings, ina e. (physical ed. & pool)                  f5 
+gould-simpson (science)                                 b6 
+graduate library school                                 e4 
+graham hall                                             d6 
+greenhouses                                             d6 
+greenlee hall                                           d6 
+ h 
+harvill building                                        c4 
+herring hall                                            c6 
+hillenbrand aquatic center                              f6 
+hist. mem. fountain                                     c5 
+history, dept. of                                       c6 
+hopi hall                                               d6 
+huachuca hall                                           a6 
+human development preschool                             d5 
+humanities, faculty of                                  d5 
+hydrology & water resources, dept. of                   c5 
+ i 
+international house                                     e2 
+international studies, office of                        c6 
+ j 
+joseph gross gallery                                    b4 
+journalism, dept. of                                    b6 
+ k 
+kaibab hall                                             b6 
+keys                                                    d7 
+kuat radio/tv                                           d5 
+ l 
+land & property management                              e3 
+law college                                             c3 
+leon levy, cancer center                                f1 
+library, ahsc                                           f2 
+library, law                                            c3 
+library, main                                           e6 
+library, science                                        d6 
+life sciences building south                            b7 
+life sciences building north                            f2 
+linguistics, dept. of                                   c7 
+ m 
+management & policy, dept. of                           c4 
+marketing, dept. of                                     c4 
+manzanita hall                                          b4 
+maricopa hall                                           b5 
+marley building                                         c6 
+mathematics                                             c7 
+mckale memorial center                                  e6 
+media & instructional services                          d5 
+medicine, college of                                    f2 
+micro campus                                            c4 
+mines & metallurgy                                      c5 
+minority student affairs                                c5 
+mirror casting facility                                 e7 
+modern languages                                        d5 
+mohave hall                                             b4 
+music   b4 
+ n 
+national park services                                  b7 
+navajo hall                                             e7 
+news and public information                             e3 
+nugent, robert l.                                       c6 
+nursing, college of                                     f2 
+nutrition & food sci., dept. of                         c6 
+ o 
+old main                                                c5 
+optical sciences annex                                  f7 
+optical sciences, dept. of                              e6 
+oriental studies, dept. of                              b6 
+ p 
+papago hall                                             b3 
+parkavenue parking garage                               b6 
+park student center                                     e7 
+parking and transportation serv.                        f3 
+personnel, dept. of                                     d6 
+pharm-anim. shelter                                     f2 
+pharmacy, college of                                    c6 
+pharmacy-microbiology                                   f5 
+physical education, dept. of                            d6 
+physical resources, offices                             d6 
+physical resources, shop #1                             d6 
+physical resources, shop #2                             d6 
+physical resources, shop #3                             c6 
+physical resources, shop #4                             c7 
+physical resources, ahsc                                e1 
+physics-atmospheric sciences (pas)                      c6 
+philosophy, dept. of                                    c6 
+phase                                                   b3 
+pinal hall                                              e7 
+planetarium, g. h. flandrau                             e5 
+poetry center                                           e3 
+police dept.                                            c7 
+post office, u.s.                                       d5 
+printing & reproduction                                 e7 
+psychology                                              e5 
+purchasing & stores                                     c6 
+ r 
+radiation control, ahsc                                 f2 
+radiology medical research lab (temp), ahsc             e1 
+registrar                                               d5 
+reservoir                                               c5 
+residence life, dept. of                                c6 
+residence life, maintenance                             e7 
+rotc                                                    b6 
+risk management                                         e1 
+ s 
+santa cruz hall                                         d7 
+sancet, frank (field)                                   e6 
+science, faculty of                                     b6 
+science library                                         d6 
+second street parking garage                            d5 
+shantz (agricultural sciences)                          c6 
+shops & warehouse, ahsc                                 e1 
+sierra hall                                             e7 
+slonaker                                                b4 
+social & beh. sci., faculty of                          d5 
+social sciences                                         c6 
+sonora hall                                             b7 
+south hall                                              b6 
+space management                                        a6 
+space sciences, kuiper                                  e5 
+speech                                                  c5 
+stadium & track                                         e6 
+state & community resources, dept. of                   b3 
+steward observatory                                     e5 
+stores                                                  c6 
+student activities office                               c5 
+student health center                                   e5 
+student recreation center                               d7 
+student uhion                                           d5 
+student union/vending                                   e1 
+ t 
+teaching lab (temp)                                     c7 
+telephone service office                                d4 
+ticket office (athletic)                                f6 
+tree ring research lab                                  e7 
+telecommunications                                      d4 
+ u 
+ua foundation/alumni                                    e3 
+ua press                                                b3 
+udall center                                            c4 
+utility & cooling plant                                 d3 
+ v 
+veterinary science                                      c6 
+visitor center                                          e6 
+ w 
+west stadium                                            e7 
+wildcat, arizona daily                                  d5 
+water resources research center 350n. campbell avenue
+ y 
+yavapai hall                                            c6 
+yuma hall                                               c5 
+ visitor center 
+direction:
+take i10 south (from phoenix) to the east speedway blvd. exit.  proceed
+and turn right onto north cherry ave.   visitor center is on the north side
+of cherry ave. and university blvd. 
+hours: m-f 8am-5pm 
+phone: (520) 621-5130 

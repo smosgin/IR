@@ -1,0 +1,535 @@
+Approximate time to generate this file: 0.002 seconds
+Begin token stream...
+----------------
+
+
+
+
+
+
+
+castanet clicks up distribution
+
+
+
+
+	
+<meta httpequiv=picslabel content=pics10 httpwwwrsacorgratingsv01html l gen true comment rsaci north america server by barrypcnetcom for httpwwwnewscom on
+19960404t08150500 exp 19970701t08150500 r n 0 s 0 v 0 l 0>
+
+
+
+<
+
+
+
+		
+headline 	fontfamily arial
+			fontsize 12pt
+			fontweight bold
+			textdecoration none
+			lineheight 100
+			color black
+			
+
+
+headline2	fontfamily arial
+			fontsize 11pt
+			fontweight bold
+			textdecoration none
+			lineheight 100
+			color black
+
+newsheadline	fontfamily arial black
+			fontsize 18pt
+			fontweight normal
+			textdecoration none
+			lineheight 100
+			color black
+
+shorttakes 	fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			marginleft 4pt
+      			marginright 4pt
+			lineheight 12pt
+			color black
+
+shorttakesbold 	fontfamily arial
+			fontsize 9pt
+			fontweight bold
+			textdecoration none
+			marginleft 4pt
+      			marginright 4pt
+			lineheight 12pt
+			color black
+
+text		fontfamily times
+			fontsize 12pt
+			fontweight normal
+			textdecoration none
+			lineheight 13pt
+			color black
+
+date		fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			lineheight 11pt
+			color black
+			
+byline		fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			lineheight 11pt
+			color black
+
+menu		fontfamily times
+			fontsize 12pt
+			fontweight normal
+			textdecoration none
+			lineheight 14pt
+			color black
+
+services	fontfamily times
+			fontsize 9pt
+			fontweight normal
+			textdecoration none
+			lineheight 14pt
+			color black
+
+attribution	fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			lineheight 11pt
+                        fontstyle italic
+			color black
+			
+quote		fontfamily arial
+			fontsize 9pt
+			fontweight bold
+			textdecoration none
+			lineheight 10pt
+			color black
+
+search		fontfamily arial
+			fontsize 9pt
+			fontweight medium
+			textdecoration none
+			lineheight 16pt
+			color black
+
+		
+jointext	fontfamily arial
+			fontsize 10pt
+			fontweight bold
+			textdecoration none
+			lineheight 12pt
+			color green
+			
+avisited	color green
+                        textdecoration underline 
+
+alink	color blue
+                     textdecoration underline 
+
+>
+			
+		                
+
+
+
+      <
+
+      function setwindowname 
+
+        thisname=cnetmain
+
+      
+
+      setwindowname
+
+        function openwindow
+
+      
+
+      windowopenhttpwwwnewscompagestop20html newwin resizable=yesscrollbars=yesstatus=0width=145height=450
+      var mywindow = windowopen newwin resizable=yesscrollbars=yesstatus=0width=145height=450
+      mywindowlocation = httpwwwnewscompagestop20html
+      mywindowlocation = httpwwwnewscompagestop20html
+      
+
+       >
+
+
+
+
+
+
+
+
+
+
+
+        
+
+        
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+
+
+        nbsp
+        
+        
+        
+ 
+
+
+	   
+        
+        
+        
+
+
+
+
+
+
+	
+
+
+        
+       
+
+
+
+
+        
+								
+        
+        
+
+
+
+
+
+
+
+
+<a
+href=httpregistrationcnetcomregistration120800htmlwebabbrev=ne
+from=httpwwwnewscomindexhtml><img width=116 height=22
+border=0 src=graphicsjoingif>
+
+
+
+<img width=116 height=564 border=0 src=graphicsmenubar2gif
+alt=menu bar usemap=menubar border=0>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+        
+
+        
+        
+        
+
+
+
+        
+       
+
+
+       castanet clicks up distribution
+
+        
+
+        
+
+        by 
+			tim clark and 
+			nick wingfield
+
+        
+	
+	
+	
+		october 7 1996 1 pm pt
+		
+
+
+    
+
+    
+
+
+
+
+
+marimba a closely watched startup company today took the wraps off a new suite of javabased technology that lets web sites broadcast information and software over the internet
+
+marimbas first products collectively called castanet will include client and server software along with a development kit for distributing information across a network to clients ranging from graphics to spreadsheets the company has applied for a patent on its core technology 
+
+the company also said today that several leading web sites including those run by online magazine hotwired and search engine excite are already offering content through channels using castanet
+
+while traditional web pages require a user to seek out a site to view information and run applets the marimba system will use a tvstyle metaphor for delivering content or applications to usersbroadcasting or pushing information and programs out to desktops 
+
+this is a method of distributing information that was pioneered by pointcast and is receiving more attention from internet companies such as microsoft and netscape communications earlier this year pointcast debuted a specialized client applicationpart web browser part screensaverthat automatically receives news headlines financial information and advertisements over the net
+
+the two leading browser companies microsoft and netscape have also made clear their intentions to offer net broadcasting capabilities in the next releases of their products for example microsofts internet explorer 40 will feature active themes or onscreen widgets that display news and other information on the windows 95 desktop like a tv channel 
+
+in the pullmodel the onus is always on the user to go back said ira machevsky a senior industry analyst at giga information group these are devices to throw the electronic newspaper to your doorstep 
+
+but while most companies are focused primarily on broadcasting content castanet is expected to allow the distribution of java applications such as a frontend to a database which can be regularly updated by a network administrator analysts and developers hope that castanet will appeal to companies that want to ease the task of constantly updating applications
+
+at the corporate level it will help the mis director who has to update 1000 or 2000 copies of an application said karl jacob ceo of dimension x users wont even notice it
+
+marimba also claims that castanet can update news stories so quickly that it is near real time requires little network bandwidth and can scale to millions of users the improved performance of programs and content is due chiefly to the fact that castanet allows java code to persistthat is to be stored locally on a hard diskrather than disappearing when a pc is shut down
+
+thats one of the big holes in java and network computers the lack of persistence said david smith research director at gartner group this really does use local storage intelligently in realworld applications download times are important
+
+the marimba system will feature a clientside tuner program for receiving data and a backend transmitter program for broadcasting the data both of which will be written in java the software applications and data channels themselves are stored on the users hard drive instead of being downloaded over the internet each time the user looks for new information 
+
+marimba also unveiled a drag and drop development toolkit called bongo for assembling broadcast data next week initially castanet will be limited to distributing java applications for security reasons the system will later allow for distribution of a variety of applications including activex controls version 11 due in the first half of 1997 will include encryption support and support for application deployment over public networks 
+
+marimbas first product announcement has been eagerly anticipated by silicon valley headed up by kim polese a former sun microsystems manager the company is among the first to focus exclusively on developing java applications in addition to polese the company is staffed by several former java engineers from sun including jonathan payne arthur van hoff and sami shaio 
+
+founded in february marimba received its first round of venture  funding from the java fund handled by the venture capital firm of kleiner perkins caufield  byers 
+
+
+        
+
+
+
+
+
+
+     
+
+
+      
+
+
+
+        
+
+
+
+
+       
+
+
+        
+
+
+
+  
+
+
+
+  
+      
+
+
+	 
+		pointcast points to intranets 
+    	      
+	
+  
+      
+
+
+	 
+		pointcast crosses border 
+    	      
+	
+  
+      
+
+
+	 
+		netscape will do battle for desktops 
+    	      
+	
+  
+      
+
+
+	 
+      		browser war aint over till its over    	      
+	
+  
+      
+
+
+	 
+		marriage of tvweb underway 
+    	      
+	
+  
+
+
+nbsp
+      
+
+
+
+
+
+                
+        
+
+        
+
+
+
+
+
+
+
+        
+
+        
+
+        
+       
+        
+       
+
+        
+
+        
+
+     
+
+copyright 169 199597 cnet inc all rights reserved
+        
+
+
+
+
+
+
+
+
+
+

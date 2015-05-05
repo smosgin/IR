@@ -1,0 +1,157 @@
+Approximate time to generate this file: 0.002 seconds
+Begin token stream...
+----------------
+
+
+a1termpaper law  civil  commercial
+1800termpaper
+termpapers
+term papers
+termpaper
+term paper
+essay
+theme
+thesis
+book report
+case study
+critical analysis
+
+
+
+
+nbsp
+
+
+
+
+
+
+
+subject index
+anthropology
+architecture
+art
+black studies
+business
+ecology
+economics
+education
+film
+healthcare 
+history
+law
+linguistics
+literature
+mass media
+medicine
+music
+philosophy
+political science
+psychology
+religion
+science
+shakespeare
+sociology
+sports recreation
+urban studies
+womens studies
+
+
+
+ 
+
+
+
+
+law  civil  commercial
+
+
+
+
+
+to order a specific paper click the catalog number button next to the paper title of interest
+
+
+
+
+
+ paper title
+description of paper  yr=year written pgs=pages fn=footnotes s=sources $=price
+
+
+
+
+
+	holders in due course	discusses a historical background on the nature and development of commercial paper noting commercial codes and cases 78yr 17pgs 29fn 9s 	$15215	
+	the pennsylvania housing code	governing landlordtenant rights in the state of pennsylvania 78yr 4pgs 5fn 4s 	$3580	
+	securities and exchange commission	an analysis and review of legal rules rule making and law cases involving the administrative law of the sec 79yr 14pgs 20fn 3s 	$12530	
+	addyston pipe and steel company v us	a detailed study of the facts of the case and its resolution by the courts 79yr 9pgs 9fn 9s 	$8055	
+	corporation law	a brief history of the law of corporations and the consequences of such law for modern society 79yr 11pgs 7fn 9s 	$9845	
+	the robinsonpatman act	dynamics and intricacies of antitrust legislative actions 79yr 13pgs 32fn 17s 	$11635	
+	nofault automobile insurance	history purposes implementations implications for legal action coverage 80yr 26pgs 66fn 48s 	$23270	
+	transportation regulatory law	question of maintaining antitrust immunity for steamship conferences 81yr 7pgs 13fn 3s 	$6265	
+	nofault automobile insurance	overview of subject with special reference to nofault in new york state 81yr 12pgs 0fn 0s 	$10740	
+	health care federal state and local tax law	tax deduction regulations for health care and health care accessories defined 81yr 11pgs 28fn 9s 	$9845	
+	 a legal case over the rights of an individual to a tract of land when the original granting state loses sovereignty over this land	a hypothetical case including statement of factsquestions presented  arguments and decision of the court 85yr  7pgs  13fn 0s 	$6265	
+	business law and the regulatory environment	the future prospects of american capitalism in light of the increasing government attempts to regulate all variety of corporate activity discusses crimes and torts contracts agency law partnership lawcorporations propertysales commercial paper e 86yr 22pgs 24fn 23s 	$19690	
+	memorandum of law  breach of warranty in real estate leasing	an examination of the lease as an important part in  contemporary real estate transactions  looks at the rights of tenants under this agreement and the responsibilities of the landlord 83yr 7pgs 10fn 0s 	$6265	
+	employment discrimination and labor law	discusses eeoc guidelines history of discrimination in the work force evolution of the fair employment practices act 1964 civil rights act and the formation of the eeoc the bakke case 80yr 13pgs 20fn 22s 	$11635	
+	mccullloch v maryland	chief justice marshalls ruling that state cannot tax banks and in general applied federal doctrine to support this  dealt specifically with the issue of chartering the first bank of the us 81yr 8pgs 0fn 0s 	$7160	
+	a comparison of the automobile lemon laws in the new york tristate area	historical facts leading to enactment of lemon laws analysis of lemon laws in new york new jersey and connecticut similarities and differences among the three states 87yr 18pgs 40fn 18s 	$16110	
+	workers compensation and the osha	discusses the relationship between state workers compensation laws and the occupational health and safety act 80yr 10pgs 5fn 5s 	$8950	
+	basic structure and functions of business enterprise	discusses legal forms of businesses functions of management organizational structures management by objectives and exceptions cycle of manufacturing 80yr 10pgs 0fn 0s 	$8950	
+	breach of contract	defines breach of contract and discusses it in the funeral industry 80yr 3pgs 0fn 0s 	$2685	
+	the legal framework of business	definition and classification of law processes how it all relates to corporate law  the rise of regulatory agencies and lobbyists 81yr 7pgs 4fn 0s 	$6265	
+	consumer protection and the automobile industry	looks at deregulation and how it affect the auto industry gives a historical background leading to stricter auto safety regulations the role of the auto manufacturers lobby previous court cases 82yr 10pgs 9fn 9s 	$8950	
+	tipreporting procedures  issues affecting tipped employees	observes tips received by an employee as counting as part of his wages and the tax equity and fiscal responsibility act passed in 1982 to improve compliance in tip reporting requirements 93yr 7pgs 16fn 11s 	$6265	
+	a crime against the right of possession	a memorandum of law in support of motion for summary judgement concerning a business partners inability to reclaim his personal belongings from a failed parternership 94yr 10pgs afn 0s 	$8950	
+	the housing authority of new york v community housing improvement program a case development	investigates the precedents which made new yorks controversial antirent control decision possible 79yr 10pgs 6fn 0s 	$8950	
+	retaliatory evictions in california a developing aspect of landlordtenant relations	examines the consequences of reporting lease violations to authorities and recent court rulings that prohibit unfair evictions 79yr 10pgs 0fn 0s 	$8950	
+	malpractice insurance crisis an answer	a legal discussion of the current insurance crisis revolving around suits brought against doctors neglect and proposes a solution to this situation 79yr 8pgs 12fn 4s 	$7160	
+	a study of tenants rights	a report on the legal rights of a tenant focusing on various state statutes prohibiting retaliatory evictions 79yr 9pgs 19fn 15s 	$8055	
+	the bevan case	a historical perspective noting political and legal ramifications of the penn central case in a philosophical note 79yr 5pgs 5fn 5s 	$4475	
+	nonsimultaneous and multiparty exchanges under irc section 1031   internal revenue code	tax treatment of gains and lossesgeneral requirement of recognition nonrecognition of gains and losses qualified property likekind property exchange requirement excluded property nonsimultaneous exchanges before and after 1979 treatment of inter 85yr 63pgs 111fn 97s 	$56385	
+	rent control and stabilization litigation	an analysis of emerging case laws dealing with rent controlstabilization  questions regarding corporate leased apartments tenancies and the state attorney generals authority in such cases issues regarding rent stabilization  looks at eight cases 88yr 32pgs afn 0s 	$28640	
+	primary residence legislation and judicialagency guidelines  an analysis of emerging case law	includes rent stabilization law the condocoop conversion processpurchasing rights and tenantsinoccupancy attorneygeneral regulations suggestions 88yr 27pgs 37fn 7s 	$24165	
+	case brief  sonderling broadcasting corp  wgldfm before the federal communications commission  fcc 73713 1973	includes facts issue decisionconclusion significance of decision researchers comments 88yr 6pgs 0fn 0s 	$5370	
+	memorandum of law  smith brothers construction company	includes issues and answers analysis exceptions conclusion 88yr 8pgs 10fn 0s 	$7160	
+	copyright law and computer software	observes that software writers have very limited protection to them and their products 90yr 8pgs 12fn 9s 	$7160	
+	schechter poultry corporation	a case analysis of the schechter poultry corp v united states in which the courts decision invalidated the national recovery act set up by president roosevelt 90yr 7pgs 6fn 10s 	$6265	
+	new yorks taylor law  the public employees fair	employment act looks at policy formationpolicy adoption policy implementation in regard to this act dealing with collective bargaining 90yr 15pgs 17fn 5s 	$13425	
+	information services  the bell system and judge greene	an analysis of the recent decision of judge harold greene in allowing the bell affiliates to offer information services over their telephone network 91yr 17pgs afn 16s 	$15215	
+	leases  tenants rights landlords rights	observes provisions required by law in clarifying the agreement between the landlord and tenant the elements of the lease rights  and responsibilities of each party etc 91yr 11pgs 14fn 12s 	$9845	
+	when oral contracts are binding	includes description of oral contracts the statute of frauds requirements uniform commercial codeparole evidence etc 91yr 13pgs 0fn 5s 	$11635	
+	a brief in the united states court of appeals for the first circuit	a brief of plaintiff and appellant arguing statement of the issues statement of the case summary of argument argument conclusion regarding an appeal concerning an insurance company and plaintiff 93yr 6pgs afn 0s 	$5370	
+	legal aspects regulating just cause for termination of employment	an examination of the various legal remedies afforded employers and employees remedies concerning just cause for termination of employment 92yr 32pgs 21fn 3s 	$28640	
+	warranties and business law	explores the various essentials of warranties including the stae of goods lawful disclaimers implied or express warranties validity of sellers title etc 92yr 10pgs 17fn 4s 	$8950	
+	legal aspects of retaliatory evictions in new york city and state  a discussion of pertinent landlordtenant law	observes new laws in new york disallowing landlords to evict a tenant for enjoying use of an apartment in a manner the landlord finds objectionable 92yr 16pgs 12fn 7s 	$14320	
+	an analysis of tax law impact on the elderly	discusses specific issues in the general field of tax savings assistance and discounts for the elderly tax counseling the law as it affects the elderly and savings discount programs 94yr 11pgs afn 13s 	$9845	
+	when oral contracts are binding	includes description of oral contracts the statute of frauds requirements uniform commercial codeparole evidence etc 91yr 13pgs 0fn 5s 	$11635	
+
+
+
+
+
+
+
+best experienced with
+
+click here to start
+
+
+
+
+
+
+send comments to  commentsa1termpapercom 
+
+last updated  122196
+copyright copy1996 asm communications inc  all rights reserved
+
+
+
+
+
+
+
+

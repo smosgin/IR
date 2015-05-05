@@ -1,0 +1,61 @@
+Approximate time to generate this file: 0.0 seconds
+Begin token stream...
+----------------
+roelof bruintjes
+ roelof t bruintjes ph d
+affiliate professor
+
+research interests cloud physics mesoscale modeling and weather 
+modifications 
+
+dr bruintjes works on the improvement of microphysical parameterization in 
+numerical cloud and mesoscale models evaluating cloud seeding efforts with 
+numerical models on the development of new cloud seeding techniques and 
+developing linked atmospherichydrological models to simulate the full 
+hydrological cycle
+
+selected publications 
+
+bruintjes rt aj heymsfield and tw krauss 1987 
+an examination of doubleplate ice crystals and the initiation of 
+precipitation in summertime cumulus clouds journal of atmospheric 
+sciences 44 13311349
+
+krauss tw rt bruintjes j verlinde and a kahn 1987 
+microphysical and radar observations of seeded and nonseeded continental 
+cumulus clouds journal of climatology and applied meteorology 26
+ 585606
+
+steyn pcl and rtbruintjes 1990 
+convective cloud characteristics for the bethlehem area 
+water sa 16 115118
+
+bruintjes rt cbarcher and m zunkel 1990 
+daily and seasonal variations of the total amount of ozone over pretoria 
+between april 1964 and february 1972 s a journal of science 86 
+
+bruintjes rt tl clark and wd hall 1993 evaluating and guiding weather modification efforts with advanced threedimensional numerical models management of irrigation and drainage systems integrated perspectives american society of civil engineers new york 480487
+
+bruintjes rt gk mather de terblanche and fe steffens 1993 a new look at the potential of hygroscopic seeding in summertime convective clouds management of irrigation and drainage systems integrated perspectives american society of civil engineers new york 496503
+
+bruintjes rt tl clark and wd hall 1994 interactions between
+topographic airflow and cloud and precipitation development during the passage
+of a winterstorm in arizona journal of atmospheric sciences 51 4867
+
+czys rr and rt bruintjes 1994 a review of hygroscopic seeding 
+experiments to enhance rainfall journal of weather modification 26 4153
+
+bruintjes rt tl clark and wd hall 1995 the dispersion of tracer plumes in mountainous regions in central arizona comparisons between observations and modeling results journal of applied meteorology 34 971988 
+
+thompson g rt bruintjes b brown and f hage 1995 intercomparison
+of inflight icing algorithms part i wisp94 realtime icing prediction and 
+evaluation program submitted to journal of weather and forecasting 
+
+brown bg g thompson rt bruintjes r bullock and t kane 1995
+intercomparison of inflight icing algorithms part ii statistical 
+verification results submitted to journal of weather and forecasting 
+
+
+
+
+

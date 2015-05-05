@@ -1,0 +1,55 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+
+launchspace course catalog
+
+
+
+
+
+
+
+
+introduction to space for nontechnical professionals kaplandec 910washington dc
+electromagnetic environment effects e3 testing violettedec 1113washington dc
+fundamentals of orbit mechanics kaufmandec 1113washington dc
+intellectual property  valuing and licensing jarosz  goldscheiderdec 1617washington dc
+remote sensing from satellites brodskydec 1820cocoa beach fl
+ascent trajectory design for launch vehicles bakerjan 810cocoa beach fl
+spacecraft structural design costanzo  larkinjan 810washington dc
+modern satellite communications kieslingjan 1315los angeles ca
+launch vehicle systems design  engineering kaplanjan 1315washington dc
+optimal estimation and control  a fresh look sonnabendjan 1317cocoa beach fl
+systems engineering an approach to informationbased design hazelriggjan 2224san diego ca
+realtime flight software engineering and development kovacsjan 2224washington dc
+launch vehicle environments loads and testing deansjan 2224cocoa beach fl
+space flight robotics and teleoperation hinmansweeneyjan 2931cocoa beach fl
+spacecraft thermal design and analysis yanowitzjan 2931cocoa beach fl
+propulsion systems for launch vehicles weegarjan 2931cocoa beach fl
+sounding rockets technology and application scredonfeb 35cocoa beach fl
+space systems avionics design  applications andrewfeb 57washington dc
+ground station command  control of satellites and resources kaitfeb 57cocoa beach fl
+international spaceports ralphfeb 1012cocoa beach fl
+mission analysis for solar system exploration horsewoodfeb 1012cocoa beach fl
+leo constellation systems design analysis  application cenkerfeb 1921cocoa beach fl
+solid rocket motor design and applications leefeb 1921cocoa beach fl
+pyrotechnic design development and qualification bementfeb 2021washington dc
+the kalman filter with aerospace applications using matlab mackisonfeb 2428cocoa beach fl
+spacecraft dynamics and attitude control kaplanfeb 2426washington dc
+microsats design development and execution of minimum missions fleeterfeb 2628cocoa beach fl
+space radiation protection  angelo  mar 46  cocoa beach fl
+the political process in systems architecture design formanmar 46washington dc
+introduction to space for nontechnical professionals kaplanmar 1011cocoa beach fl
+geo satellite onorbit operations owensmar 1214washington dc
+advanced launch systems  reusables kaplanmar 1214cocoa beach fl
+wavelets a net took for signal analysis using matlab  mackison  mar 1721  washington dc
+supportability engineering functions in launch vehicle systems smiljanicmar 2426washington dc
+launch control system designpoole copella fishermar 2426cocoa beach fl
+satellite attitude control and attitude determination systems  mackison  apr 24  washington dc
+structural dynamics analysis and design ojalvoapr 79  washington dc
+
+
+
+
+

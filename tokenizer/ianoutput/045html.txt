@@ -1,0 +1,4 @@
+<!doctype html public "-//softquad//dtd html 2.0 + extensions for hotmetal light 3.0 19960703//en"
+ three frames
+<frame
+src="download.htm" marginwidth="0" marginheight="0" scrolling="no" noresize="noresize">

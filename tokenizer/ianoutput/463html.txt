@@ -1,0 +1,604 @@
+ anexo (continuaci&oacute;n) 
+<body background="../../images/ypffon.jpg" bgcolor="#ffffff"
+text="#000000" link="#0000ff" vlink="#000080" alink="#800040">
+ &#160; 
+          <img
+        src="../../images/left.gif" align="bottom" border="0"
+        width="30" height="30">  
+          p&aacute;gina
+        anterior  
+   previsiones   
+  (expresados en millones de pesos -  <a
+href="spnotes.html#1 bases de presentaci&oacute;n de los estados contables"> nota
+1   )  
+   anexo e   
+          balances generales al 31 de
+        diciembre de  
+          1995  
+          1994  
+          1993  
+          rubro  
+          saldo al inicio del ejercicio  
+          aumento  
+          disminuci&oacute;n  
+          transferencias  
+          saldo al cierre del ejercicio  
+          saldo al cierre del ejercicio  
+          saldo al cierre del ejercicio  
+         deducidas del activo corriente: 
+         para deudores por ventas de cobro dudoso 
+         147 
+         5 
+         25 
+         (1) 
+         126 
+         147 
+         151 
+         para valuar cr&eacute;ditos con el sector
+        p&uacute;blico a su probable valor de realizaci&oacute;n 
+         114 
+         14 
+         42 
+         2 
+         88 
+         114 
+         117 
+         para otros cr&eacute;ditos de cobro dudoso 
+         60 
+         38 
+         1 
+         1 
+         98 
+         60 
+         para obsolescencia de bienes de cambio 
+         10 
+         10 
+         10 
+         102 
+         331 
+         57 
+         68 
+         2 
+         322 
+         331 
+         370 
+         deducidas del activo no corriente: 
+         para valuar cr&eacute;ditos con el sector
+        p&uacute;blico a su probable valor de realizaci 
+         4 
+         (2) 
+         2 
+         4 
+         5 
+         para valuar otros cr&eacute;ditos a su valor
+        recuperable 
+         3 
+         41 
+         38 
+         para desvalorizaci&oacute;n de las participaciones en
+        sociedades art. 33-ley n&thorn; 19.5 
+         2 
+         2 
+         2 
+         2 
+         para obsolescencia de materiales 
+         32 
+         17 
+         15 
+         32 
+         63 
+         para bienes de uso a desafectar 
+         4 
+         15 
+         11 
+         8 
+         4 
+         79 
+         para perforaciones exploratorias improductivas 
+         20 
+         101 
+         103 
+         18 
+         20 
+         28 
+         62 
+         116 
+         134 
+         39 
+         83 
+         62 
+         177 
+         total deducidas del activo durante el ejercicio 1995 
+         393 
+         173 
+         202 
+         41 
+         405 
+         total deducidas del activo durante el ejercicio 1994 
+         547 
+         198 
+         352 
+         393 
+         total deducidas del activo durante el ejercicio 1993 
+         1,477 
+         147 
+         1,077 
+         547 
+         incluidas en el pasivo corriente: 
+         para p&eacute;rdidas futuras por contratos a largo
+        plazo <a
+        href="spnotes4.html#13 compromisos y contingencias">(nota
+        13)   
+         69 
+         1 
+         10 
+         (23) 
+         37 
+         69 
+         20 
+         para despidos 
+         5 
+         4 
+         8 
+         1 
+         5 
+         34 
+         para contingencias varias   (1)   
+         1 
+         74 
+         5 
+         18 
+         (23) 
+         38 
+         74 
+         55 
+         incluidas en el pasivo no corriente: 
+         para p&eacute;rdidas futuras por contratos a largo
+        plazo <a
+        href="spnotes4.html#13 compromisos y contingencias">(nota
+        13)  
+         31 
+         1 
+         1 
+         (18) 
+         13 
+         31 
+         214 
+         para contingencias varias   (1)   
+         89 
+         18 
+         10 
+         97 
+         89 
+         89 
+         120 
+         19 
+         11 
+         (18) 
+         110 
+         120 
+         303 
+         total incluidas en el pasivo durante el ejercicio
+        1995 
+         194 
+         24 
+         29 
+         (41) 
+         148 
+         total incluidas en el pasivo durante el ejercicio
+        1994 
+         358 
+         172 
+         336 
+         194 
+         total incluidas en el pasivo durante el ejercicio
+        1993 
+         884 
+         150 
+         676 
+         358 
+  (1) constituida para cubrir importes probables de juicios
+pendientes y otros riesgos. los mismos se han estimado en base a
+los elementos de juicio disponibles, consider&aacute;ndose
+adem&aacute;s la probabilidad de ocurrencia.  
+         <img
+        src="../../images/bosch.gif" alt="firma" align="bottom"
+        width="209" height="66"> 
+          roberto j.a. dormal bosch 
+          por comisi&oacute;n fiscalizadora   
+         <img
+        src="../../images/shfirml.gif" alt="firma" align="bottom"
+        width="125" height="140"> 
+          nells leon 
+          presidente   
+   costo de ventas   
+  (expresados en millones de pesos -  <a
+href="spnotes.html#1 bases de presentaci&oacute;n de los estados contables"> nota
+1   )  
+   anexo f   
+          por los ejercicios finalizados el
+        31 de diciembre de   
+          1995  
+          1994  
+          1993  
+         existencia al comienzo del ejercicio 
+         295 
+         503 
+         514 
+         compras 
+         520 
+         659 
+         662 
+         costos de producci&oacute;n  (anexo
+        h)  
+         2,208 
+         2,205 
+         2,334 
+         resultado por tenencia   (1)    
+         (8) 
+         (55) 
+         2 
+         variaci&oacute;n previsi&oacute;n para obsolescencia
+        de bienes de cambio 
+         (92) 
+         9 
+         existencia final <a
+        href="spnotes2.html#d) bienes de cambio:">(nota 3.d)  
+         (275) 
+         (295) 
+         (503) 
+         costo de ventas 
+         2,740 
+         2,925 
+         3,018 
+  (1) incluido en los estados de resultados dentro del rubro
+&quot;resultados financieros y por tenencia generados por
+activos&#148;  <a
+href="spnotes2.html#j) resultados financieros y por tenencia:"> (nota
+3.j)   .  
+         <img
+        src="../../images/bosch.gif" alt="firma" align="bottom"
+        width="209" height="66"> 
+          roberto j.a. dormal bosch 
+          por comisi&oacute;n fiscalizadora   
+         <img
+        src="../../images/shfirml.gif" alt="firma" align="bottom"
+        width="125" height="140"> 
+          nells leon 
+          presidente   
+   activos
+y pasivos en moneda extranjera   
+  (expresados en millones de pesos -  <a
+href="spnotes.html#1 bases de presentaci&oacute;n de los estados contables"> nota
+1   )  
+   anexo g   
+          balances
+        generales al 31 de diciembre de 1995, 1994 y 1993  
+          clase y monto de
+        la moneda extranjera (en millones)  
+          rubro  
+          1993  
+          1994  
+          1995  
+          cambio vigente en
+        pesos al 31-12-95  
+          valor de libros al
+        31-12-95  
+          activo corriente  
+         caja y bancos 
+         u$s 1 
+         u$s 4 
+         u$s 3 
+         1.00  (1)   
+         3 
+         inversiones 
+         u$s 10 
+         u$s 10 
+         u$s 1 
+         1.00  (1)   
+         1 
+         cr&eacute;ditos por ventas 
+         deudores comunes 
+         u$s 105 
+         u$s 148 
+         u$s 165 
+         1.00  (1)   
+         165 
+         documentos a cobrar 
+         u$s 52 
+         u$s 86 
+         u$s 22 
+         1.00  (1)   
+         22 
+         187 
+         otros cr&eacute;ditos 
+         u$s 61 
+         u$s&#160;17 
+         u$s 73 
+         1.00  (1)   
+         73 
+         total del activo corriente 
+         264 
+          activo no corriente   
+         cr&eacute;ditos por ventas 
+         documentos a cobrar 
+         u$s 227 
+         u$s&#160;206 
+         u$s 65 
+         1.00  (1)   
+         65 
+         otros cr&eacute;ditos 
+         u$s 162 
+         u$s&#160;107 
+         u$s 145 
+         1.00  (1)   
+         145 
+         total del activo no corriente 
+         210 
+         total del activo 
+         474 
+          pasivo corriente  
+         cuentas por pagar  
+         u$s&#160;414 
+         u$s 399 
+         u$s 454 
+         1.00  (2)   
+         454 
+         pr&eacute;stamos 
+         sociedades controladas y vinculadas 
+         u$s 3 
+         1.00  (2)   
+         3 
+         otras deudas bancarias y
+        prefinanciaci&oacute;n de exportaciones 
+         u$s&#160;135 
+         u$s 397 
+         u$s 868 
+         1.00  (2)   
+         868 
+         obligaciones negociables 
+         u$s 11 
+         u$s 103 
+         1.00  (2)   
+         103 
+         deuda financiera externa 
+         u$s&#160;266 
+         u$s 30 
+         u$s 4 
+         1.00  (2)   
+         4 
+         yen&#160;6,067 
+         yen&#160;4,500 
+         yen 4,371 
+         0.00974  (2)   
+         43 
+         1,021 
+         total del pasivo corriente 
+         1,475 
+          pasivo no corriente  
+         cuentas por pagar 
+         u$s 10 
+         u$s 2 
+         pr&eacute;stamos 
+         deuda financiera externa 
+         u$s&#160;157 
+         u$s 10 
+         u$s 8 
+         1.00  (2)   
+         8 
+         fr.frs.&#160;6 
+         fr.frs. 5 
+         fr.frs. 6 
+         0.20414  (2)   
+         1 
+         yen 31,685 
+         yen 28,000 
+         yen 24,156 
+         0.00974  (2)   
+         235 
+         otras deudas bancarias y
+        prefinanciaci&oacute;n de exportaciones 
+         u$s 40 
+         1.00  (2)   
+         40 
+         obligaciones negociables 
+         u$s 350 
+         u$s 987 
+         1.00  (2)   
+         987 
+         1,271 
+         total del pasivo no corriente 
+         1,271 
+         total del pasivo 
+         2,746 
+  (1) tipo de cambio comprador. 
+(2) tipo de cambio vendedor.  
+         <img
+        src="../../images/bosch.gif" alt="firma" align="bottom"
+        width="209" height="66"> 
+          roberto j.a. dormal bosch 
+          por comisi&oacute;n fiscalizadora   
+         <img
+        src="../../images/shfirml.gif" alt="firma" align="bottom"
+        width="125" height="140"> 
+          nells leon 
+          presidente   
+ <a
+name="informacion requerida por el articulo 64 apartado i inciso b) de la ley n&#176; 19.550"> informacion
+requerida por el articulo 64 apartado i inciso b) de la ley
+n&#176; 19.550   
+  (expresados en millones de pesos -  <a
+href="spnotes.html#1 bases de presentaci&oacute;n de los estados contables"> nota
+1   )  
+   anexo h   
+          por los ejercicios finalizados el
+        31 de diciembre de   
+          1995  
+          1994  
+          1993  
+          costos de producci&oacute;n  
+          gastos de
+        administraci&oacute;n  
+          gastos de
+        comercializaci&oacute;n  
+          gastos de exploraci&oacute;n  
+          total  
+          total  
+          total  
+         sueldos y cargas sociales 
+         172 
+         39 
+         58 
+         13 
+         282 
+         278 
+         330 
+         honorarios y retribuciones por servicios 
+         16 
+         33  (1)   
+         27 
+         76 
+         62 
+         40 
+         otros gastos de personal  
+         18 
+         8 
+         8 
+         34 
+         28 
+         32 
+         impuestos, tasas y contribuciones 
+         8 
+         1 
+         5 
+         14 
+         10 
+         20 
+         regal&iacute;as, servidumbres y c&aacute;nones 
+         304 
+         304 
+         277 
+         302 
+         seguros  
+         14 
+         1 
+         4 
+         19 
+         19 
+         17 
+         alquileres de inmuebles y equipos 
+         10 
+         3 
+         12 
+         25 
+         24 
+         30 
+         gastos de estudio 
+         4 
+         45 
+         49 
+         40 
+         24 
+         depreciaci&oacute;n de bienes de uso 
+         749 
+         5 
+         40 
+         794 
+         721 
+         599 
+         materiales y &uacute;tiles de consumo 
+         171 
+         3 
+         8 
+         182 
+         187 
+         223 
+         contrataciones de obra y otros servicios 
+         176 
+         16 
+         41 
+         9 
+         242 
+         262 
+         298 
+         conservaci&oacute;n, reparaci&oacute;n y
+        mantenimiento 
+         211 
+         2 
+         15 
+         228 
+         260 
+         133 
+         contratos de explotaci&oacute;n de &aacute;reas
+        productivas 
+         35 
+         35 
+         74 
+         296 
+         perforaciones exploratorias improductivas 
+         101 
+         101 
+         111 
+         64 
+         transportes, productos y cargas 
+         178 
+         1 
+         89 
+         268 
+         248 
+         253 
+         previsi&oacute;n para deudores por ventas de cobro
+        dudoso 
+         5 
+         5 
+         13 
+         6 
+         gastos de publicidad y propaganda 
+         11 
+         34 
+         45 
+         53 
+         49 
+         combustibles, gas, energ&iacute;a y otros 
+         142 
+         22 
+         5 
+         14 
+         183 
+         203 
+         198 
+         total por el ejercicio finalizado el 31-12-95 
+         2,208 
+         145 
+         351 
+         182 
+         2,886 
+         total por el ejercicio finalizado el 31-12-94 
+         2,205 
+         143 
+         344 
+         178 
+         2,870 
+         total por el ejercicio finalizado el 31-12-93 
+         2,334 
+         129 
+         336 
+         115 
+         2,914 
+  (1) incluye 3 de provisi&oacute;n por honorarios a
+directores y s&iacute;ndicos.  
+         <img
+        src="../../images/bosch.gif" alt="firma" align="bottom"
+        width="209" height="66"> 
+          roberto j.a. dormal bosch 
+          por comisi&oacute;n fiscalizadora   
+         <img
+        src="../../images/shfirml.gif" alt="firma" align="bottom"
+        width="125" height="140"> 
+          nells leon 
+          presidente   
+ &#160;&#160;<img src="../../images/barra.gif"
+align="bottom" width="520" height="10"> 
+  <img
+src="../../images/ypf3d2.gif" alt="ypf logo" align="bottom"
+border="0" width="111" height="52">  

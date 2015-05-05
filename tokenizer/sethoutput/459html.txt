@@ -1,0 +1,1656 @@
+Approximate time to generate this file: 0.008 seconds
+Begin token stream...
+----------------
+
+
+
+
+notas a los estados contables 2
+
+
+
+<body background=imagesypffonjpg bgcolor=ffffff
+text=000000 link=0000ff vlink=000080 alink=800040>
+160
+notas a los estados contables 
+por los ejercicios finalizados el 31 de diciembre de 1995 1994 y
+1993
+continuacioacuten
+
+    
+        
+        <img
+        src=imagesleftgif align=bottom border=0
+        width=30 height=30> 
+        
+        paacutegina
+        anterior
+    
+
+<a
+name=3 detalle de los principales rubros de los estados contables >3
+detalle de los principales rubros de los estados contables 
+se indica a continuacioacuten la
+composicioacuten de los principales rubros de cada estado
+contable a las fechas de cierre indicadas o por los ejercicios
+finalizados en esas fechas seguacuten corresponda
+
+    
+        balances
+        generales 
+    
+
+
+    activo 
+
+
+
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        a
+        inversiones
+        corriente
+        no corriente
+        corriente 
+        no corriente
+        corriente
+        no corriente
+    
+    
+        colocaciones transitorias
+        4
+        
+        7
+        
+        8
+        
+    
+    
+        tiacutetulos puacuteblicos <a
+        href=spexhibitahtmlanexo c>anexo c
+        
+        
+        5
+        
+        5
+        
+    
+    
+        sociedades art 33  ley n186 19550 <a
+        href=spexhibitahtmlanexo c>anexo c
+        
+        670
+        
+        244
+        
+        125
+    
+    
+        previsioacuten para desvalorizacioacuten de las
+        participaciones en sociedades art 33  ley n18619550 <a
+        href=spexhibitbhtmlanexo e>anexo e
+        
+        2
+        
+        2
+        
+        2
+    
+    
+        
+        4
+        668
+        12
+        242
+        13
+        123
+    
+
+
+
+
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        b
+        creditos por ventas
+        corriente
+        no corriente
+        corriente 
+        no corriente
+        corriente
+        no corriente
+    
+    
+        deudores del sector privado
+        568
+        
+        567
+        
+        511
+        
+    
+    
+        deudores del sector puacuteblico
+        116
+        2
+        145
+        30
+        168
+        72
+    
+    
+        documentos a cobrar 1 2 
+        24
+        65
+        94
+        216
+        62
+        251
+    
+    
+        sociedades art 33 151 ley n186 19550 <a
+        href=spnotes3html8 operaciones y saldos con sociedades art 33  ley n186 19550>nota
+        8
+        13
+        
+        9
+        
+        5
+        
+    
+    
+        
+        721
+        67
+        815
+        246
+        746
+        323
+    
+    
+        
+    
+    
+        previsioacuten para deudores por ventas de cobro
+        dudoso anexo e
+        126
+        
+        147
+        
+        151
+        
+    
+    
+        previsioacuten para valuar creacuteditos con el
+        sector puacuteblico a su probable valor de
+        realizacioacuten anexo
+        e
+        88
+        2
+        114
+        4
+        117
+        5
+    
+    
+        
+        507 
+        65
+        554
+        242
+        478
+        318
+    
+
+
+1 estos documentos incluyen intereses por
+41 al 31 de diciembre de 1995 devengando intereacutes libor
+maacutes un 48 anual
+2 al 31 de diciembre de 1995 los vencimientos de los documentos
+a cobrar a largo plazo son los siguientes 32 en 1997 13 en
+1998 18 en 1999 y 2 en el 2000
+
+
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        c
+        otros creacuteditos
+        corriente
+        no corriente
+        corriente 
+        no corriente
+        corriente
+        no corriente
+    
+    
+        creacuteditos y anticipos de impuestos
+        207
+        16
+        110
+        17
+        220
+        
+    
+    
+        deudores por servicios
+        30
+        
+        44
+        
+        69
+        
+    
+    
+        por venta de tiacutetulos puacuteblicos
+        512
+        
+        30
+        51
+        
+        88
+    
+    
+        gastos pagados por adelantado
+        16
+        102
+        14
+        66
+        72
+        
+    
+    
+        sociedades art 33  ley n186 19550 <a
+        href=spnotes3html8 operaciones y saldos con sociedades art 33  ley n186 19550>nota
+        8
+        
+        21
+        5
+        4
+        5
+        
+    
+    
+        swap financiero  diferencia de cambio
+        1
+        7
+        3
+        24
+        
+        
+    
+    
+        ahorro obligatorio 
+        <a
+        href=spnotes4html14 restricciones a los resultados no asignados>nota
+        14
+        
+        
+        
+        
+        74
+        
+    
+    
+        por venta de bienes de uso 1
+        13
+        31
+        
+        41
+        
+        48
+    
+    
+        preacutestamos a clientes
+        20
+        40
+        27
+        34
+        10
+        29
+    
+    
+        bonos emitidos por el estado nacional
+        20
+        62
+        
+        
+        
+        
+    
+    
+        por reconversioacuten de contratos <a
+        href=spnotes4html13 compromisos y contingencias>nota
+        13
+        
+        56
+        
+        
+        
+        
+    
+    
+        diversos
+        117
+        16
+        68
+        29
+        34
+        46
+    
+    
+        
+        475
+        351
+        301
+        266
+        484
+        211
+    
+    
+        previsioacuten para otros creacuteditos de cobro
+        dudoso anexo e
+        98
+        
+        60
+        
+        
+        
+    
+    
+        previsioacuten para valuar otros creacuteditos a
+        su probable valor de realizacioacuten <a
+        href=spexhibitbhtmlanexo e>anexo e
+        
+        38
+        
+        
+        
+        
+    
+    
+        
+        377
+        313
+        241
+        266
+        484
+        211
+    
+
+
+1 35 devengan intereacutes a una tasa del
+10 anual o libor maacutes 4 anual la que fuera mayor y 9
+devengan intereacutes a una tasa fija del 10 anual
+2 garantizado por acciones de sevel argentina sa que a su
+valor de cotizacioacuten al 31 de diciembre de 1995
+representaba 13
+
+
+    
+        d
+        bienes de cambio
+        1995
+        1994
+        1993
+    
+    
+        productos destilados para la venta 
+        141
+        150
+        223
+    
+    
+        petroacuteleo crudo
+        89
+        88
+        108
+    
+    
+        productos en proceso de destilacioacuten
+        13
+        14
+        47
+    
+    
+        materias primas y envases
+        22
+        32
+        24
+    
+    
+        materiales
+        10
+        11
+        101
+    
+    
+        
+        275
+        295
+        503
+    
+    
+        previsioacuten para obsolescencia de bienes de
+        cambio anexo e
+        10
+        10
+        102
+    
+    
+        
+        265
+        285
+        401
+    
+
+
+
+
+    
+        e
+        bienes de uso
+        1995
+        1994
+        1993
+    
+    
+        valor residual de bienes de uso <a
+        href=spexhibitahtmlanexo a>anexo a
+        6887
+        5968
+        5983
+    
+    
+        previsioacuten para obsolescencia de
+        materiales anexo e
+        15
+        32
+        63
+    
+    
+        previsioacuten para bienes de uso a desafectar <a
+        href=spexhibitbhtmlanexo e>anexo e
+        8
+        4
+        79
+    
+    
+        previsioacuten para perforaciones exploratorias
+        improductivas anexo e 
+        18
+        20
+        28
+    
+    
+        
+        6846
+        5912
+        5813
+    
+
+
+
+    pasivo 
+
+
+
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        f
+        cuentas por pagar
+        corriente
+        no corriente
+        corriente 
+        no corriente
+        corriente
+        no corriente
+    
+    
+        proveedores
+        563
+        7
+        580
+        15
+        537
+        22
+    
+    
+        sociedades art 33  ley n186 19550 
+        <a
+        href=spnotes3html8 operaciones y saldos con sociedades art 33  ley n186 19550>nota
+        8
+        21
+        
+        28
+        
+        24
+        
+    
+    
+        obligaciones a pagar
+        2
+        
+        10
+        2
+        17
+        11
+    
+    
+        diversas 
+        78
+        6
+        79
+        7
+        125
+        15
+    
+    
+        
+        664
+        13
+        697
+        24
+        703
+        48
+    
+
+
+
+
+    
+        
+        
+        
+        1995
+        1994
+        1993
+    
+    
+        g
+        prestamos
+        tasa de intereacutes<font
+        size=1>1
+        vencimiento del capital
+        corriente
+        no corriente
+        corriente 
+        no corriente
+        corriente
+        no corriente
+    
+    
+        deuda financiera externa 
+        
+        
+        
+        
+        
+        
+        
+        
+    
+    
+        bank of new york y otros  intereses
+        
+        
+        
+        
+        
+        
+        171
+        
+    
+    
+        the export import bank of japan
+        525
+        19962003
+        43
+        235
+        47
+        293
+        46
+        313
+    
+    
+        banco internacional de reconstruccioacuten y
+        fomento quotbirfquot
+        
+        
+        
+        
+        2
+        
+        58
+        107
+    
+    
+        swap financiero  intereacutes adicional
+        728
+        
+        2
+        
+        2
+        
+        5
+        19
+    
+    
+        otros acreedores
+        4941388
+        19962000
+        2
+        9
+        27
+        12
+        76
+        49
+    
+    
+        
+        
+        
+        47
+        244
+        78
+        305
+        356
+        488
+    
+    
+        retencioacuten impuesto a las ganancias 
+        beneficiarios del exterio
+        
+        
+        23
+        
+        24
+        
+        48
+        
+    
+    
+        menos compromiso de aporte para asumir los intereses
+        sobre la deuda financiera externa sujeta al plan brady
+        151 bank of new york y otros  ley n176 23526 <a
+        href=spnotes3html9 deuda financiera externa  ley n186 23526>nota
+        9
+        
+        
+        
+        
+        
+        
+        218
+        
+    
+    
+        menos compromiso de aporte para asumir deuda
+        financiera externa  ley n186 23526 <a
+        href=spnotes3html9 deuda financiera externa  ley n186 23526>nota
+        9
+        
+        
+        23
+        
+        52
+        
+        60
+        13
+    
+    
+        
+        
+        
+        47
+        244
+        50
+        305
+        126
+        475
+    
+    
+        obligaciones negociables  u$s350 millones
+        8
+        2004
+        11
+        350
+        12
+        367
+        
+        
+    
+    
+        obligaciones negociables  u$s400 millones programa
+        global por u$s500 millones
+        895
+        19962002
+        46
+        311
+        
+        
+        
+        
+    
+    
+        obligaciones negociables  u$s 400 millones programa
+        global por u$s700 millones
+        750
+        19962002
+        46
+        326
+        
+        
+        
+        
+    
+    
+        sociedades art 33  ley n176 19550 
+        <a
+        href=spnotes3html8 operaciones y saldos con sociedades art 33  ley n186 19550>nota
+        8
+        6
+        1996
+        3
+        
+        
+        
+        
+        
+    
+    
+        prefinanciacioacuten de exportaciones 
+        6381019
+        1996
+        723
+        
+        330
+        
+        150
+        
+    
+    
+        otras deudas bancarias
+        6381550
+        19962000
+        152
+        40
+        94
+        
+        
+        
+    
+    
+        
+        
+        
+        1028
+        1271
+        486
+        672
+        276
+        475
+    
+
+
+1tasa de intereacutes anual vigente al 31
+de diciembre de 1995
+al 31 de diciembre de 1995 los vencimientos de
+los preacutestamos a largo plazo son los siguientes 
+
+
+    
+        
+        de 1 a 2 antildeos
+        de 2 a 3 antildeos
+        de 3 a 4 antildeos
+        de 4 a 5 antildeos
+        a maacutes de 5 antildeos
+        total
+    
+    
+        prestamos 
+        172
+        148
+        157
+        165
+        629
+        1271
+    
+
+
+los preacutestamos en moneda extranjera al 31
+de diciembre de 1995 1994 y 1993 se detallan en el <a
+href=spexhibitbhtmlanexo g>anexo g
+al 31 de diciembre de 1995 los principales
+preacutestamos que incluyen claacuteusulas restrictivas son
+los siguientes
+
+    
+        1
+        obligaciones negociables 
+        durante el ejercicio finalizado el 31 de
+        diciembre de 1994 la sociedad emitioacute obligaciones
+        negociables por u$s350 millones de valor nominal las
+        condiciones finales de la colocacioacuten fueron 09977
+        del valor nominal y tasa fija de 8 anual los ingresos
+        netos fueron utilizados en parte para cancelar anticipada
+        mente uno de los preacutestamos pendientes con el
+        birf el remanente de los ingresos netos provenientes
+        de esta emisioacuten fueron destinados a cancelar otras
+        deudas bancarias y a financiar inversiones y gastos de
+        capital 
+        durante el ejercicio finalizado el 31 de
+        diciembre de 1995 la sociedad emitioacute 
+        
+            obligaciones negociables por u$s400 millones de
+                valor nominal correspondientes al programa global
+                de hasta u$s500 millones aprobado por el
+                directorio en su reunioacuten del 6 de julio de
+                1994 las obligaciones negociables devengan una
+                tasa fija anual del 895 los fondos
+                provenientes de esta emisioacuten se aplicaron
+                a la refinanciacioacuten de pasivos y a la
+                realizacioacuten de inversiones en activos
+                fijos
+            obligaciones negociables por u$s400 millones de
+                valor nominal correspondientes al programa global
+                de hasta u$s700 millones aprobado por el
+                directorio en sus reuniones del 7 de septiembre y
+                26 de octubre de 1995 y la asamblea general
+                ordinaria de accionistas del 26 de octubre de
+                1995 las obligaciones negociables fueron
+                colocadas a 09968 de su valor nominal
+                maacutes los intereses devengados desde el 26
+                de octubre al 6 de noviembre de 1995 y con una
+                tasa de intereacutes fija del 750 anual los
+                fondos provenientes de esta emisioacuten se
+                aplicaron a la refinanciacioacuten de pasivos
+        
+        los pagos de capital e intereses
+        correspondientes a estas emisiones se efectuaraacuten
+        con los ingresos provenientes de las exportaciones
+        relacionadas con el contrato de venta de crudo a largo
+        plazo con enap <a
+        href=spnotes4html13 compromisos y contingencias>nota
+        13 en relacioacuten con las emisiones de las
+        obligaciones negociables la sociedad ha acordado
+        opciones que tienen por objeto establecer una
+        proteccioacuten sobre el precio de venta de dicho
+        contrato en el caso que este precio sea inferior a u$s14
+        por barril de crudo 
+        en relacioacuten con las emisiones de
+        obligaciones negociables la sociedad y sus sociedades
+        controladas han acordado ciertas claacuteusulas
+        incluyendo entre otras pagar todos sus pasivos a su
+        vencimiento y no crear gravaacutemenes que excedan el
+        15 del total de activos 
+        en caso de incumplimiento de alguna de
+        las claacuteusulas pactadas el fiduciario o los
+        tenedores titulares de por lo menos un 25 del monto
+        total de capital de las obligaciones negociables en
+        circulacioacuten podraacuten declarar exigible y
+        pagadero el capital e intereses devengados de todas las
+        obligaciones en forma inmediata 
+    
+    
+        <a
+        name=2 the export import bank of japan>2 the export
+        import bank of japan financiamiento de obras de
+        infraestructura 
+        en caso de ocurrir alguna de las
+        situaciones que se exponen a continuacioacuten este
+        banco podraacute a su opcioacuten declarar vencido
+        y pagadero inmediatamente todo el capital pendiente de
+        cancelacioacuten conjuntamente con los intereses y
+        demaacutes cargas correspondientes 
+        
+            
+                si la sociedad incumpliera por
+                maacutes de 30 diacuteas en el pago de
+                capital o intereacutes 
+            
+            
+                ante cualquier accioacuten o
+                proceso por el cual los activos de la sociedad
+                pudieran ser distribuidos entre sus acreedores o 
+            
+            
+                en caso de disolucioacuten yo
+                suspensioacuten de las operaciones de la
+                sociedad 
+            
+        
+        el acuerdo de preacutestamos con el
+        export import bank of japan contiene claacuteusulas
+        previendo causales de incumplimiento este acuerdo
+        requiere que ypf informe al export import bank of japan
+        cualquier transaccioacuten fuera del curso normal de
+        los negocios que resulte en disposiciones de activos
+        significativas debido al proceso de privatizacioacuten
+        y transformacioacuten que la sociedad completoacute
+        al 31 de diciembre de 1993 ypf ha obtenido una
+        exencioacuten de caraacutecter permanente a esta
+        restriccioacuten por parte del export import bank of
+        japan y en relacioacuten con esta autorizacioacuten
+        la sociedad se ha comprometido a mantener su porcentaje
+        de participacioacuten del 30 en refineriacutea del
+        norte sa y a evitar que esta sociedad disponga de sus
+        principales activos operativos durante la vigencia del
+        plazo del preacutestamo 
+        adicionalmente el acuerdo de
+        preacutestamos con el export import bank of japan
+        contiene causales de incumplimiento que pueden
+        materializarse mediante notificacioacuten del
+        prestamista en caso de que el gobierno argentino como
+        garante de los preacutestamos deje de pagar sus
+        obligaciones vencidas por un monto acumulado de
+        maacutes de 15 millones de doacutelares
+        estadounidenses o suspenda sus pagos o no esteacute
+        en condiciones de pagar o solicite que cualquiera de sus
+        obligaciones sea diferida pospuesta o reescalonada o se
+        acuerde declare o imponga una moratoria en el pago de
+        las mismas la sociedad no ha sido notificada de
+        ninguacuten incumplimiento relacionado con este
+        acuerdo 
+        en abril de 1995 la sociedad cumpliendo
+        con ciertas claacuteusulas contenidas en el contrato
+        con el export import bank of japan informoacute a
+        eacuteste sobre el acuerdo de fusioacuten mencionado
+        en la <a
+        href=spnotes4html15 cambios en el conjunto econoacutemico>nota
+        15 
+        la informacioacuten referida al cambio
+        de moneda que cubre la exposicioacuten a la
+        devaluacioacuten del doacutelar estadounidense con
+        respecto al yen se expone en la <a
+        href=spnoteshtml1 bases de presentacioacuten de los estados contables>nota
+        1 
+    
+    
+        <a
+        name=3 adquisicioacuten de acciones ordinarias de maxus>3
+        adquisicioacuten de acciones ordinarias de maxus 
+        en relacioacuten con la
+        adquisicioacuten de las acciones ordinarias de maxus
+        seguacuten lo mencionado en la <a
+        href=spnotes4html15 cambios en el conjunto econoacutemico>nota
+        15 la sociedad ha asumido los siguientes
+        compromisos 
+        
+            
+                respecto de los preacutestamos
+                otorgados a las subsidiarias de maxus por u$s425
+                millones financiados por el chase manhattan bank
+                seguacuten lo mencionado en la <a
+                href=spnotes4html15 cambios en el conjunto econoacutemico>nota
+                15 la sociedad ha acordado ciertas
+                claacuteusulas restrictivas incluyendo entre
+                otras mantener un endeudamiento sobre bases
+                consolidadas inferior al 45 del total de
+                endeudamiento maacutes patrimonio neto y
+                mantener un patrimonio neto tangible superior al
+                80 del patrimonio neto tangible al 31 de
+                diciembre de 1994 
+            
+            
+                de acuerdo con el contrato de
+                fusioacuten en caso de que maxus no pueda
+                hacer frente a sus obligaciones en el momento en
+                que las mismas sean exigibles ya sea al
+                vencimiento o por otro motivo incluyendo
+                soacutelo a este propoacutesito los
+                dividendos correspondientes a las acciones
+                preferidas y los pagos por rescate ypf se
+                comprometioacute por el periacuteodo de nueve
+                antildeos posteriores a la fecha de la
+                fusioacuten a capitalizar a maxus hasta el
+                monto necesario para permitirle afrontar sus
+                obligaciones este compromiso estaacute
+                limitado al monto pagado por maxus por el
+                servicio de los preacutestamos para la
+                adquisicioacuten incluyendo la
+                refinanciacioacuten de dichos preacutestamos
+                y se reduciraacute de acuerdo con el monto de
+                cualquier aporte de capital efectuado por la
+                sociedad a maxus luego de finalizada la
+                fusioacuten y por el monto del producido neto
+                de cualquier venta por maxus de acciones
+                ordinarias o de acciones preferidas no
+                rescatables con posterioridad a la fusioacuten 
+            
+            
+                garantizar el pago de los
+                preacutestamos de maxus a largo plazo que
+                ascendiacutean a aproximadamente u$s1000
+                millones al momento de la adquisicioacuten 
+            
+            
+                garantizar el pago y el
+                cumplimiento de toda obligacioacuten de maxus
+                con los tenedores de sus acciones preferidas de
+                valor u$s975 incluyendo la obligacioacuten de
+                pago de los dividendos trimestrales y de rescatar
+                dichas acciones en ciertas circunstancias las
+                acciones preferidas de valor u$s975 en
+                circulacioacuten al 31 de diciembre de 1995
+                ascienden a 1250000 
+            
+        
+    
+    
+        <a
+        name=4 morgan guaranty trust company of new york quotmorganquot>4
+        morgan guaranty trust company of new york
+        quotmorganquot 
+        en agosto de 1995 el morgan
+        otorgoacute a ypf un preacutestamo de aproximadamente
+        u$s110 millones con el objeto de refinanciar ciertos
+        pasivos este creacutedito devenga una tasa anual de
+        1288 y su vencimiento final operaraacute en julio de
+        1997 como consecuencia del acuerdo de preacutestamo
+        firmado la sociedad ha acordado ciertas claacuteusulas
+        restrictivas incluyendo entre otras mantener un
+        endeudamiento sobre bases consolidadas inferior al 45
+        del total de endeudamiento maacutes patrimonio neto y
+        mantener un patrimonio neto tangible superior al 80 del
+        patrimonio neto tangible al 31 de diciembre de 1994 
+    
+    
+        estados
+        de resultados 
+        <a
+        name=h consolidacioacuten proporcional>h
+        consolidacioacuten proporcional 
+        seguacuten se explica en <a
+        href=spnoteshtmlj cuentas del estado de resultados>nota
+        2j los resultados de inversiones permanentes en
+        sociedades controladas excepto por agroquiacutemica
+        latinoamericana sa la cual se encuentra totalmente
+        previsionada y en aquellas sociedades vinculadas en las
+        cuales se posee una participacioacuten del 50 han
+        sido consolidadas proporcionalmente liacutenea por
+        liacutenea neto de las operaciones entre dichas
+        sociedades a partir del uacuteltimo trimestre de 1994
+        este cambio de presentacioacuten ha sido aplicado
+        retroactivamente para fines comparativos 
+        la apertura de los estados de resultados
+        de ypf y las sociedades proporcionalmente consolidadas
+        quototrasquot neto de las operaciones entre dichas
+        sociedades es la siguiente 
+    
+
+
+
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        
+        ypf
+        otras
+        total
+        ypf
+        otras
+        total 
+        ypf 
+        otras
+        total 
+    
+    
+        ventas netas <a
+        href=spnotes4html11 informacioacuten sobre segmentos de negocio>noa
+        11
+        4302
+        652 
+        4954
+        4327
+        67
+        4394
+        4390
+        2
+        4392
+    
+    
+        costo de ventas 
+        anexo f
+        2740
+        485
+        3225
+        2925
+        45
+        2970
+        3018
+        1
+        3019
+    
+    
+        utilidad bruta
+        1562
+        167
+        1729
+        1402
+        22
+        1424
+        1372
+        1
+        1373
+    
+    
+        gastos de administracioacuten <a
+        href=spexhibitbhtmlanexo h>anexo h
+        145
+        35
+        180
+        143
+        11
+        154
+        129
+        1
+        130
+    
+    
+        gastos de comercializacioacuten <a
+        href=spexhibitbhtmlanexo h>anexo h
+        351
+        4
+        355
+        344
+        1
+        345
+        336
+        1
+        337
+    
+    
+        gastos de exploracioacuten <a
+        href=spexhibitbhtmlanexo h>anexo h
+        182
+        51 
+        233 
+        178
+        4
+        182
+        115
+        150
+        115
+    
+    
+        utilidad peacuterdida operativa
+        884
+        77
+        961
+        737
+        6
+        743
+        792
+        1
+        791
+    
+    
+        resultados de inversiones permanentes
+        82
+        105
+        23
+        25
+        2
+        23
+        7
+        1
+        8
+    
+    
+        otros ingresos egresos netos <a
+        href=i otros ingresos egresos netos>nota 3i
+        16
+        2
+        14
+        147
+        2
+        149
+        128
+        150
+        128
+    
+    
+        resultados financieros y por tenencia 
+    
+    
+        generados por activos <a
+        href=j resultados financieros y por tenencia>nota
+        3j
+        12
+        5
+        17
+        68
+        2
+        70
+        134
+        150
+        134
+    
+    
+        generados por pasivos <a
+        href=j resultados financieros y por tenencia>nota
+        3j
+        37
+        95
+        132
+        26
+        2
+        28
+        179
+        150
+        179
+    
+    
+        resultados por reconversioacuten de contratos y
+        venta de aacuterea <a
+        href=k resultados por reconversioacuten de contratos y venta de aacutereas >nota
+        3k
+        150
+        150
+        150
+        1
+        150
+        1
+        235
+        150
+        235
+    
+    
+        utilidad neta antes de resultados inusuales impuesto
+        a las ganancias y sobre los activos y dividendos al
+        capital preferido
+        793
+        90
+        883
+        574
+        2
+        576
+        861
+        150
+        861
+    
+    
+        resultados inusuales netos <a
+        href=l resultados inusuales netos>nota 3l
+        
+        
+        
+        
+        
+        
+        47
+        
+        47
+    
+    
+        utilidad neta antes de impuesto a las ganancias y
+        sobre los activos y dividendos al capital preferido
+        793
+        90
+        883
+        574
+        2
+        576
+        814
+        150
+        814
+    
+    
+        impuesto a las ganancias y sobre los activos
+        150
+        61
+        61
+        10
+        2
+        12
+        31
+        150
+        31
+    
+    
+        utilidad neta antes de dividendos al capital
+        preferido
+        793
+        29
+        822
+        564
+        150
+        564
+        783
+        150
+        783
+    
+    
+        dividendos al capital preferido de sociedades
+        controladas
+        
+        29
+        29
+        
+        150
+        
+        
+        150
+        
+    
+    
+        utilidad neta
+        793
+        
+        793
+        564
+        150
+        564
+        783
+        150
+        783
+    
+    
+        utilidad neta por accioacuten <a
+        href=spnoteshtml1 bases de presentacioacuten de los estados contables>nota
+        1
+        225
+        150
+        225
+        160
+        150
+        160
+        222
+        150
+        222
+    
+
+
+
+    i
+    otros ingresos egresos netos
+
+
+
+    
+        
+        ingresos egresos
+    
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        utilidad por la cancelacioacuten de
+        cargas fiscales con bocones 
+        nota
+        2g
+        123
+        
+        
+    
+    
+        indemnizaciones por despidos y otros
+        gastos de personal 
+        39
+        60
+        150
+    
+    
+        obra social
+        150
+        20
+        73
+    
+    
+        baja de bienes de uso y materiales obsoletos
+        40
+        22
+        4
+    
+    
+        diversos
+        28
+        45
+        59
+    
+    
+        
+        16
+        147
+        128
+    
+
+
+la operatoria de la obra social se detalla en
+la <a
+href=spnotes4htmla obra social y otros beneficios posteriores al retiro>nota
+12a 
+
+    <a
+    name=j resultados financieros y por tenencia>j
+    resultados financieros y por tenencia
+
+
+
+    
+        
+        ganancia perdida
+    
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        generados por activos
+    
+    
+        intereses
+        79
+        63
+        74
+    
+    
+        diferencia de cambio
+        30
+        27
+        150
+    
+    
+        resultado por venta y por tenencia de bocones
+        
+        
+        56
+    
+    
+        resultado por exposicioacuten a la inflacioacuten
+        29
+        49
+        2
+    
+    
+        resultado por tenencia de bienes de cambio <a
+        href=spexhibitbhtmlanexo f>anexo f
+        8
+        55
+        2
+    
+    
+        
+        12
+        68
+        134
+    
+    
+        generados por pasivos
+        
+        
+        
+    
+    
+        intereses
+        135
+        98
+        126
+    
+    
+        diferencia de cambio
+        71
+        78
+        61
+    
+    
+        resultado por exposicioacuten a la inflacioacuten
+        27
+        46
+        8
+    
+    
+        
+        37
+        26
+        179
+    
+    
+        
+        25
+        42
+        45
+    
+
+
+
+    <a
+    name=k resultados por reconversioacuten de contratos y venta de aacutereas >k
+    resultados por reconversioacuten de contratos y venta de
+    aacutereas <a
+    href=spnotes4html13 compromisos y contingencias>nota
+    13
+
+
+
+    
+        
+        ganancia perdida
+    
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        reconversioacuten contrato amoco 
+        
+        70
+        
+    
+    
+        venta aacuterea riacuteo neuqueacuten
+        
+        71
+        
+    
+    
+        reconversioacuten contrato total
+        
+        
+        235
+    
+    
+        
+        
+        1
+        235
+    
+
+
+
+    l
+    resultados inusuales netos
+
+
+
+    
+        
+        ganancia perdida
+    
+    
+        
+        1995
+        1994
+        1993
+    
+    
+        plan de reestructuracioacuten 
+        indemnizaciones por despidos 
+        
+        
+        68
+    
+    
+        ganancia por la cesioacuten yo asociacioacuten
+        en aacutereas y por la venta de otros activos
+        relacionados con la privatizacioacuten de ypf
+        
+        
+        35
+    
+    
+        otros
+        
+        
+        14
+    
+    
+        
+        
+        
+        47
+    
+
+
+
+
+    
+        
+        paacutegina
+        siguiente 
+        
+        <img
+        src=imagesrightgif align=bottom border=0
+        width=30 height=30>
+    
+
+160<img
+src=imagesbarragif align=bottom width=520
+height=10> 
+<img
+src=imagesypf3d2gif alt=ypf logo align=bottom
+border=0 width=111 height=52>
+
+

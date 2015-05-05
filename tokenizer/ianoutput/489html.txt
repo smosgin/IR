@@ -1,0 +1,35 @@
+ marcas de autos que utilizan y recomiendan ypf 
+<body background="../images/ypffon.jpg" bgcolor="#ffffff"
+text="#000000" link="#0000ff" vlink="#000080" alink="#800040">
+<img src="../images/zlbmarc2.gif"
+alt="marcas de autos que utilizan y recomiendan ypf"
+align="bottom" width="579" height="30"> 
+ nuestros lubricantes cumplen con las normas de calidad mas
+exigentes de europa (acea) y de ee.uu. (api sj y cf-4) por lo que
+son los lubricantes apropiados para ser utilizados por todos los
+autom&oacute;viles que circulan en el pa&iacute;s.  
+ adem&aacute;s nos llena de orgullo haber sido elegidos por las
+siguientes marcas como lubricante para el primer llenado y
+espec&iacute;ficamente recomendado para utilizar en sus
+veh&iacute;culos en la rep&uacute;blica argentina. 
+ &#160;    <a
+href="../_vti_bin/shtml.exe/lubri/spmarks.html/map"><img
+align="bottom" src="../images/marcas.gif" width="492" ismap
+usemap="#frontpagemap" height="263" border="0">  
+     &#160;<img src="../images/barra.gif"
+    align="bottom" width="520" height="10"> 
+                      ford
+                        argentina  
+                     volkswagen argentina 
+                      scania
+                        argentina  
+                     mitsubishi 
+                     nissan 
+                     seat 
+                     kawasaki 
+                     juki / mondial 
+     <img src="../images/barra.gif"
+    align="bottom" width="520" height="10"> 
+      <img
+    src="../images/ypf3d2.gif" alt="ypf logo" align="bottom"
+    border="0" width="111" height="52">  

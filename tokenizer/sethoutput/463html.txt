@@ -1,0 +1,964 @@
+Approximate time to generate this file: 0.004 seconds
+Begin token stream...
+----------------
+
+
+
+
+anexo continuacioacuten
+
+
+
+<body background=imagesypffonjpg bgcolor=ffffff
+text=000000 link=0000ff vlink=000080 alink=800040>
+160
+
+    
+        <img
+        src=imagesleftgif align=bottom border=0
+        width=30 height=30>
+        paacutegina
+        anterior
+    
+
+previsiones
+expresados en millones de pesos  <a
+href=spnoteshtml1 bases de presentacioacuten de los estados contables>nota
+1
+anexo e
+
+
+    
+        balances generales al 31 de
+        diciembre de
+        1995
+        1994
+        1993
+    
+    
+        rubro
+        saldo al inicio del ejercicio
+        aumento
+        disminucioacuten
+        transferencias
+        saldo al cierre del ejercicio
+        saldo al cierre del ejercicio
+        saldo al cierre del ejercicio
+    
+    
+        deducidas del activo corriente
+    
+    
+        para deudores por ventas de cobro dudoso
+        147
+        5
+        25
+        1
+        126
+        147
+        151
+    
+    
+        para valuar creacuteditos con el sector
+        puacuteblico a su probable valor de realizacioacuten
+        114
+        14
+        42
+        2
+        88
+        114
+        117
+    
+    
+        para otros creacuteditos de cobro dudoso
+        60
+        38
+        1
+        1
+        98
+        60
+        
+    
+    
+        para obsolescencia de bienes de cambio
+        10
+        
+        
+        
+        10
+        10
+        102
+    
+    
+        
+        331
+        57
+        68
+        2
+        322
+        331
+        370
+    
+    
+        deducidas del activo no corriente
+    
+    
+        para valuar creacuteditos con el sector
+        puacuteblico a su probable valor de realizaci
+        4
+        
+        
+        2
+        2
+        4
+        5
+    
+    
+        para valuar otros creacuteditos a su valor
+        recuperable
+        
+        
+        3
+        41
+        38
+        
+        
+    
+    
+        para desvalorizacioacuten de las participaciones en
+        sociedades art 33ley nthorn 195
+        2
+        
+        
+        
+        2
+        2
+        2
+    
+    
+        para obsolescencia de materiales
+        32
+        
+        17
+        
+        15
+        32
+        63
+    
+    
+        para bienes de uso a desafectar
+        4
+        15
+        11
+        
+        8
+        4
+        79
+    
+    
+        para perforaciones exploratorias improductivas
+        20
+        101
+        103
+        
+        18
+        20
+        28
+    
+    
+        
+        62
+        116
+        134
+        39
+        83
+        62
+        177
+    
+    
+        total deducidas del activo durante el ejercicio 1995
+        393
+        173
+        202
+        41
+        405
+        
+        
+    
+    
+        total deducidas del activo durante el ejercicio 1994
+        547
+        198
+        352
+        
+        
+        393
+        
+    
+    
+        total deducidas del activo durante el ejercicio 1993
+        1477
+        147
+        1077
+        
+        
+        
+        547
+    
+    
+        incluidas en el pasivo corriente
+    
+    
+        para peacuterdidas futuras por contratos a largo
+        plazo <a
+        href=spnotes4html13 compromisos y contingencias>nota
+        13 
+        69
+        1
+        10
+        23
+        37
+        69
+        20
+    
+    
+        para despidos
+        5
+        4
+        8
+        
+        1
+        5
+        34
+    
+    
+        para contingencias varias 1
+        
+        
+        
+        
+        
+        
+        1
+    
+    
+        
+        74
+        5
+        18
+        23
+        38
+        74
+        55
+    
+    
+        incluidas en el pasivo no corriente
+    
+    
+        para peacuterdidas futuras por contratos a largo
+        plazo <a
+        href=spnotes4html13 compromisos y contingencias>nota
+        13
+        31
+        1
+        1
+        18
+        13
+        31
+        214
+    
+    
+        para contingencias varias 1
+        89
+        18
+        10
+        
+        97
+        89
+        89
+    
+    
+        
+        120
+        19
+        11
+        18
+        110
+        120
+        303
+    
+    
+        total incluidas en el pasivo durante el ejercicio
+        1995
+        194
+        24
+        29
+        41
+        148
+        
+        
+    
+    
+        total incluidas en el pasivo durante el ejercicio
+        1994
+        358
+        172
+        336
+        
+        
+        194
+        
+    
+    
+        total incluidas en el pasivo durante el ejercicio
+        1993
+        884
+        150
+        676
+        
+        
+        
+        358
+    
+
+
+1 constituida para cubrir importes probables de juicios
+pendientes y otros riesgos los mismos se han estimado en base a
+los elementos de juicio disponibles consideraacutendose
+ademaacutes la probabilidad de ocurrencia
+
+    
+        <img
+        src=imagesboschgif alt=firma align=bottom
+        width=209 height=66> 
+        roberto ja dormal bosch
+        por comisioacuten fiscalizadora 
+        
+        <img
+        src=imagesshfirmlgif alt=firma align=bottom
+        width=125 height=140> 
+        nells leon
+        presidente 
+        
+    
+
+costo de ventas
+expresados en millones de pesos  <a
+href=spnoteshtml1 bases de presentacioacuten de los estados contables>nota
+1
+anexo f
+
+
+    
+        por los ejercicios finalizados el
+        31 de diciembre de 
+        1995
+        1994
+        1993
+    
+    
+        existencia al comienzo del ejercicio
+        295
+        503
+        514
+    
+    
+        compras
+        520
+        659
+        662
+    
+    
+        costos de produccioacuten anexo
+        h
+        2208
+        2205
+        2334
+    
+    
+        resultado por tenencia 1 
+        8
+        55
+        2
+    
+    
+        variacioacuten previsioacuten para obsolescencia
+        de bienes de cambio
+        
+        92
+        9
+    
+    
+        existencia final <a
+        href=spnotes2htmld bienes de cambio>nota 3d
+        275
+        295
+        503
+    
+    
+        costo de ventas
+        2740
+        2925
+        3018
+    
+
+
+1 incluido en los estados de resultados dentro del rubro
+quotresultados financieros y por tenencia generados por
+activos148 <a
+href=spnotes2htmlj resultados financieros y por tenencia>nota
+3j
+
+    
+        <img
+        src=imagesboschgif alt=firma align=bottom
+        width=209 height=66> 
+        roberto ja dormal bosch
+        por comisioacuten fiscalizadora 
+        
+        <img
+        src=imagesshfirmlgif alt=firma align=bottom
+        width=125 height=140> 
+        nells leon
+        presidente 
+        
+    
+
+activos
+y pasivos en moneda extranjera
+expresados en millones de pesos  <a
+href=spnoteshtml1 bases de presentacioacuten de los estados contables>nota
+1
+anexo g
+
+
+    
+        balances
+        generales al 31 de diciembre de 1995 1994 y 1993
+    
+    
+        
+        clase y monto de
+        la moneda extranjera en millones
+        
+        
+    
+    
+        rubro
+        1993
+        1994
+        1995
+        cambio vigente en
+        pesos al 311295
+        valor de libros al
+        311295
+    
+    
+        activo corriente
+    
+    
+        caja y bancos
+        u$s 1
+        u$s 4
+        u$s 3
+        1001
+        3
+    
+    
+        inversiones
+        u$s 10
+        u$s 10
+        u$s 1
+        1001
+        1
+    
+    
+        creacuteditos por ventas
+    
+    
+        deudores comunes
+        u$s 105
+        u$s 148
+        u$s 165
+        1001
+        165
+    
+    
+        documentos a cobrar
+        u$s 52
+        u$s 86
+        u$s 22
+        1001
+        22
+    
+    
+        
+        187
+    
+    
+        otros creacuteditos
+        u$s 61
+        u$s16017
+        u$s 73
+        1001
+        73
+    
+    
+        total del activo corriente
+        
+        264
+    
+    
+        activo no corriente 
+    
+    
+        creacuteditos por ventas
+    
+    
+        documentos a cobrar
+        u$s 227
+        u$s160206
+        u$s 65
+        1001
+        65
+    
+    
+        otros creacuteditos
+        u$s 162
+        u$s160107
+        u$s 145
+        1001
+        145
+    
+    
+        total del activo no corriente
+        
+        210
+    
+    
+        total del activo
+        
+        474
+    
+    
+        pasivo corriente
+    
+    
+        cuentas por pagar 
+        u$s160414
+        u$s 399
+        u$s 454
+        1002
+        454
+    
+    
+        preacutestamos
+    
+    
+        sociedades controladas y vinculadas
+        
+        
+        u$s 3
+        1002
+        3
+    
+    
+        otras deudas bancarias y
+        prefinanciacioacuten de exportaciones
+        u$s160135
+        u$s 397
+        u$s 868
+        1002
+        868
+    
+    
+        obligaciones negociables
+        
+        u$s 11
+        u$s 103
+        1002
+        103
+    
+    
+        deuda financiera externa
+        u$s160266
+        u$s 30
+        u$s 4
+        1002
+        4
+    
+    
+        
+        yen1606067
+        yen1604500
+        yen 4371
+        0009742
+        43
+    
+    
+        
+        1021
+    
+    
+        total del pasivo corriente
+        
+        1475
+    
+    
+        pasivo no corriente
+    
+    
+        cuentas por pagar
+        u$s 10
+        u$s 2
+        
+        
+        
+    
+    
+        preacutestamos
+    
+    
+        deuda financiera externa
+        u$s160157
+        u$s 10
+        u$s 8
+        1002
+        8
+    
+    
+        
+        frfrs1606
+        frfrs 5
+        frfrs 6
+        0204142
+        1
+    
+    
+        
+        yen 31685
+        yen 28000
+        yen 24156
+        0009742
+        235
+    
+    
+        otras deudas bancarias y
+        prefinanciacioacuten de exportaciones
+        
+        
+        u$s 40
+        1002
+        40
+    
+    
+        obligaciones negociables
+        
+        u$s 350
+        u$s 987
+        1002
+        987
+    
+    
+        
+        1271
+    
+    
+        total del pasivo no corriente
+        
+        1271
+    
+    
+        total del pasivo
+        
+        2746
+    
+
+
+1 tipo de cambio comprador
+2 tipo de cambio vendedor
+
+    
+        <img
+        src=imagesboschgif alt=firma align=bottom
+        width=209 height=66> 
+        roberto ja dormal bosch
+        por comisioacuten fiscalizadora 
+        
+        <img
+        src=imagesshfirmlgif alt=firma align=bottom
+        width=125 height=140> 
+        nells leon
+        presidente 
+        
+    
+
+<a
+name=informacion requerida por el articulo 64 apartado i inciso b de la ley n176 19550>informacion
+requerida por el articulo 64 apartado i inciso b de la ley
+n176 19550
+expresados en millones de pesos  <a
+href=spnoteshtml1 bases de presentacioacuten de los estados contables>nota
+1
+anexo h
+
+
+    
+        por los ejercicios finalizados el
+        31 de diciembre de 
+        1995
+        1994
+        1993
+    
+    
+        
+        costos de produccioacuten
+        gastos de
+        administracioacuten
+        gastos de
+        comercializacioacuten
+        gastos de exploracioacuten
+        total
+        total
+        total
+    
+    
+        sueldos y cargas sociales
+        172
+        39
+        58
+        13
+        282
+        278
+        330
+    
+    
+        honorarios y retribuciones por servicios
+        16
+        331
+        27
+        
+        76
+        62
+        40
+    
+    
+        otros gastos de personal 
+        18
+        8
+        8
+        
+        34
+        28
+        32
+    
+    
+        impuestos tasas y contribuciones
+        8
+        1
+        5
+        
+        14
+        10
+        20
+    
+    
+        regaliacuteas servidumbres y caacutenones
+        304
+        
+        
+        
+        304
+        277
+        302
+    
+    
+        seguros 
+        14
+        1
+        4
+        
+        19
+        19
+        17
+    
+    
+        alquileres de inmuebles y equipos
+        10
+        3
+        12
+        
+        25
+        24
+        30
+    
+    
+        gastos de estudio
+        4
+        
+        
+        45
+        49
+        40
+        24
+    
+    
+        depreciacioacuten de bienes de uso
+        749
+        5
+        40
+        
+        794
+        721
+        599
+    
+    
+        materiales y uacutetiles de consumo
+        171
+        3
+        8
+        
+        182
+        187
+        223
+    
+    
+        contrataciones de obra y otros servicios
+        176
+        16
+        41
+        9
+        242
+        262
+        298
+    
+    
+        conservacioacuten reparacioacuten y
+        mantenimiento
+        211
+        2
+        15
+        
+        228
+        260
+        133
+    
+    
+        contratos de explotacioacuten de aacutereas
+        productivas
+        35
+        
+        
+        
+        35
+        74
+        296
+    
+    
+        perforaciones exploratorias improductivas
+        
+        
+        
+        101
+        101
+        111
+        64
+    
+    
+        transportes productos y cargas
+        178
+        1
+        89
+        
+        268
+        248
+        253
+    
+    
+        previsioacuten para deudores por ventas de cobro
+        dudoso
+        
+        
+        5
+        
+        5
+        13
+        6
+    
+    
+        gastos de publicidad y propaganda
+        
+        11
+        34
+        
+        45
+        53
+        49
+    
+    
+        combustibles gas energiacutea y otros
+        142
+        22
+        5
+        14
+        183
+        203
+        198
+    
+    
+        total por el ejercicio finalizado el 311295
+        2208
+        145
+        351
+        182
+        2886
+        
+        
+    
+    
+        total por el ejercicio finalizado el 311294
+        2205
+        143
+        344
+        178
+        
+        2870
+        
+    
+    
+        total por el ejercicio finalizado el 311293
+        2334
+        129
+        336
+        115
+        
+        
+        2914
+    
+
+
+1 incluye 3 de provisioacuten por honorarios a
+directores y siacutendicos
+
+    
+        <img
+        src=imagesboschgif alt=firma align=bottom
+        width=209 height=66> 
+        roberto ja dormal bosch
+        por comisioacuten fiscalizadora 
+        
+        <img
+        src=imagesshfirmlgif alt=firma align=bottom
+        width=125 height=140> 
+        nells leon
+        presidente 
+        
+    
+
+160160<img src=imagesbarragif
+align=bottom width=520 height=10>
+<img
+src=imagesypf3d2gif alt=ypf logo align=bottom
+border=0 width=111 height=52>
+
+

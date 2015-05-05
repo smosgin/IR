@@ -1,0 +1,322 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+
+
+cdt publications
+
+
+
+
+
+
+cdt publications
+
+index
+
+
+policy posts 
+position papers  testimony 
+working group reports 
+annual reports
+
+
+
+
+cdt policy posts
+
+cdt policy posts are the regular news publication of the center for democracy and
+technology they are designed to deliver accurate uptodate information on public policy
+issues affecting civil liberties online  cdts policy posts a leading resource for policy makers press industry representatives students and others who are interested in legal and policy issues affecting the internet and other interactive media
+
+
+| volume 3 1997 | volume 2 1996 | volume 1 1995 | 
+
+
+volume 3 1997 
+
+policy post 301  january 17 1997
+     fbi issues scaled back surveillance capacity notice  cost and capability issues remain
+     
+on tuesday january 14 1997 the fbi issued a revised notice of proposed
+surveillance capacity as required by the 1994 communications assistance for
+law enforcement act calea  aka digital telephony  the notice details
+projected increases in law enforcement wiretapping and other electronic
+surveillance activity in the coming years
+
+
+
+volume 2 1996
+
+
+policy post 238  november 18 1996
+president takes first steps towards clipper 311
+
+policy post 237  november 5 1996
+privacy issues wrapup
+
+policy post 236  october 22 1996
+congress promises action on encryption next year
+
+policy post 235  october 4 1996
+latest admin crypto policy pushes to key escrow
+
+policy post 234  september 26 1996
+house judiciary comm holds hearing on crypto bill
+
+policy post 233  september 25 1996
+ftc recommends changes to protect personal info
+
+policy post 232  september 20 1996
+fbi surveillance demands rejected on privacy grounds
+
+policy post 231  september 16 1996
+join rep eshoo online tues 916 at 800 edt
+
+policy post 230  august 16 1996
+new electronic health information provisions pose privacy risks
+
+policy post 229  august 1 1996
+clinton administration congress propose sweeping antiterrorism initiatives
+
+policy post 228  july 21 1996
+fbi director to testify at senate crypto hearing netizens can participate in hearing live online
+
+policy post 227  july 12 1996
+vp gore reiterates support for key escrow
+
+policy post 226  june 28 1996
+senate encryption hearing  sea change in policy debate
+
+policy post 225  june 21 1996
+june 26 senate encryption hearing to be quotcybercastquot live
+
+policy post 224  june 11 1996
+join sen burns online tonight 611 10pm edt
+
+policy post 223  june 7 1996
+congressftc focus on online privacy issues
+
+policy post 222  may 30 1996
+nrc report calls admin crypto policy into question
+
+policy post 221  may 30 1996
+your privacy online cdt unveils demo  clearinghouse
+
+policy post 220  may 22 1996
+clinton administration floats clipper iii draft
+
+policy post 219  may 17 1996
+27 representatives urge president clinton to abandon keyescrow encryption policy
+
+policy post 218  may 13 1996
+join sen burns online tonight 513 at 900 et
+
+policy post 217  may 9 1996
+cdt urges fcc to avoid regulating internet telephony
+
+policy post 216  may 7 1996
+senator burns goes online to discuss crypto bill
+
+policy post 215  may 2 1996
+legislation challenges clintons grip on us crypto policy
+
+policy post 214  april 12 1996
+key senators strengthen medical privacy bill
+
+policy post 213  march 29 1996
+netfriendly legislators announce internet caucus controls
+
+policy post 212  march 28 1996
+sen burns announces new bill to lift crypto export controls
+
+policy post 211  march 19 1996
+cdt proposes changes to improve medprivacy bill
+
+policy post 210  march 14 1996
+deadline extended to join cda legal challenge
+
+policy post 209  march 5 1996
+bills to relax crypto exports introduced
+
+policy post 208  march 1 1996
+citizens internet empowerment coalition files motion to overturn cda
+
+policy post 207  february 26 1996
+broad coalition launches court challenge to cda individual internet users invited to join
+
+policy post 206  february  8 1996
+clinton signs cda protest begins
+
+policy post 205  february 1 1996
+congress passes cda cdt others plan court challenge
+
+policy post 204  february 1 1996
+congress about to vote on final telecomm bill  cda
+
+policy post 203  january 17 1996
+fbi fails to meet public accountability requirements of digtel law
+
+policy post 202  january 12 1996
+a victory for pgp author phil zimmermann fundamental privacy issues remain
+
+policy post 201  january 4 1996
+text and cdt analysis of latest communications decency act
+
+
+
+
+volume 1 1995
+
+
+policy post number 32  december 6 1995
+house conferees approve sweeping net censorship provision
+
+policy post number 31  december 4 1995
+conferees set to vote this week on fate of the net
+
+policy post number 30  december 1 1995
+conferees close to decision on cyberporn issue
+
+policy post number 29  november 9 1995
+public interestindustry coalition says administrations crypto policy flawed pledges to develop alternative
+
+policy post number 28  november 6 1995
+senator leahy calls on fbi to justify wiretap capacity request
+
+policy post number 27  october 24 1995
+senator bennett introduces landmark health privacy legislaion
+
+policy post number 26  october 20 1995
+fbi announces digital telephony surveillance capacity requests
+
+policy post number 25  october 6 1995
+house panel approves national id system
+
+policy post number 24  september 11 1995
+administrations new crypto policy flops at conference
+
+policy post number 23  august 4 1995
+house passes coxwyden internet freedom amendment 420  4
+
+policy post number 22  july 26 1995
+house and senate cyberporn hearings
+
+policy post number 21  july 6 1995
+senate health bill would expose private health records
+
+policy post number 20  june 21 1995
+gingrich says no to exon
+
+policy post number 19  june 20 1995
+cdt analysis of senate passed communications decency act
+
+policy post number 18  june 14 1995
+senate passes unconstitutional communications decency act  battle moves to house
+
+policy post number 17  june 14 1995
+senator harkin amendment would remove privacy protection for telephone consumer records
+
+policy post number 16  june 6 1995
+senator dole to introduce sweeping antiindecency internet censorship bill
+
+policy post number 15  may 31 1995
+senate proposals would create national identification system
+
+policy post number 14  may 26 1995
+new draft of exon comm decency act proposed  still unconstitutional
+
+policy post number 13   may 12 1995
+cdt testifies before sen judiciary subcommittee on the availability of bomb making material on the internet
+
+policy post number 12   may 8 1995
+fcc fcc modifies caller id policy
+
+policy post number 11   may 5 1995
+justice department says cda threatens first amendment and privacy rights calls for comprehensive review
+profamily groups express concern over cda
+
+policy post number 10   april 27 1995
+clinton administration unveils counterterrorism initiative
+
+policy post number 9   april 11 1995
+subject house cda sponsor says goslow
+
+policy post number 8   april 7 1995
+subject senator leahy introduces alternative to communications decency act
+
+policy post number 7   march 30 1995
+subject senator leahy states strong opposition to exon legislation
+
+policy post number 6   march 23 1995
+subject cdt analysis of revised exon indecency legislation
+
+policy post number 5   march 22 1995
+subject senate commerce committee adopts s 314 as amendment to senate telecommunications reform legislation
+
+policy post number 4   march 16 1995
+subject senator leahy expresses serious concern about s 314  asks cdt led coalition to explore alternatives
+
+policy post number 3  march 3 1995
+subject public interestindustry coalition led by cdt sends letter to senators exon and pressler message keep s 314 off fast track
+
+ policy post number 2  february 13 1995
+subject x9 committee agrees to adopt 3xdes based security standards
+
+ policy post number 1  february 9 1995
+senator exon introduces online indecency legislation s 314
+
+
+
+
+cdt position papers
+
+
+a constitutional analysis of s 314 by cdt and people for the american way
+
+cdts analysis of the senatepassed communications decency act
+
+cdt testimony before federal trade commission on the privacy of online transactional information november 20 1995 
+
+cdt testimony before federal trade commission workship on consumer privacy on the global information infrastructure june 45 1996
+
+
+
+
+working group reports
+
+
+
+interactive working group report to senator leahy
+
+the interactive working group is a coalition of public interest and industry representatives concerned with government content regulations in interactive media this report was completed at the request of senator leahy and describes currently available parental control technologies the state of current law and the constitutional issues raised by content regulations in new media
+
+
+
+
+cdt annual reports 
+
+
+first annual report and 1996 work in progress
+1995 activities
+
+
+
+
+
+ cdt home page
+
+last updated 012397 || for more information write webmastercdtorg
+
+
+
+
+
+
+
+
+
+
+
+
+

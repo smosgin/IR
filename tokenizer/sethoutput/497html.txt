@@ -1,0 +1,81 @@
+Approximate time to generate this file: 0.001 seconds
+Begin token stream...
+----------------
+
+
+
+
+argentina
+
+
+
+<body background=imagesypffonjpg bgcolor=ffffff
+text=000000 link=0000ff vlink=000080 alink=800040>
+160 
+<img src=imagesargentingif
+alt=argentina align=bottom width=119 height=22> 
+
+
+    
+        
+        <img src=imagesaworldarjpg
+        alt=argentine map align=bottom width=309
+        height=514> 
+        
+        <img src=imagesrefgif
+        align=bottom width=12 height=12> refinery
+        <img src=imagespetgif align=bottom width=11
+        height=11> petrochemical plant
+        <img src=imagesmongif align=bottom width=16
+        height=16> monobuoy
+        <img src=imagestangif align=bottom width=14
+        height=13> tanker fleet
+        <img src=imagesprogif align=bottom width=17
+        height=17> product pipeline
+        <img src=imagesoilgif align=bottom width=17
+        height=17> oil pipeline
+        
+        main ypf assets
+        
+        
+            lujaacuten de cuyo 
+            la plata 
+            petroquiacutemica la plata 
+            plaza huincul 
+            refinor sa 30
+                refinerias del norte 
+            oldelval sa 30
+                oleoductos del valle 
+            oiltanking ebytem sa 30
+                hydrocarbon transportation and storage 
+            terminales mariacutetimas
+                patagoacutenicas 30
+                c olivia y c coacuterdoba
+                oil storage and shipment 
+            tmp sa 30
+                transportes mariacutetimos petroleros sa
+                oil transportation by ship 
+            petroken sa 50
+                petroquiacutemica ensenada sa 
+            oleoducto trasandino 5775
+                estenssoropedrals oil pipeline 
+            petroquiacutemica bahiacutea
+                blanca sa 1806 
+        
+        
+            service stations in argentina
+                
+            chile and peru
+                
+        
+        
+    
+
+
+<img src=imagesbarragif
+align=bottom width=520 height=10> 
+<img
+src=imagesypf3d2gif alt=ypf logo align=bottom
+border=0 width=111 height=52>
+
+
