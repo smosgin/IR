@@ -10,4 +10,19 @@ public class ComparisonPoint {
 		object2 = name2;
 		comparisonValue = value;
 	}
+	
+	public boolean contains(String name1, String name2){
+		boolean returnValue = false;
+		if(name1.equalsIgnoreCase(object1)){
+			if(name2.equalsIgnoreCase(object2)){
+				returnValue = true;
+			}
+		}
+		else if(name1.equalsIgnoreCase(object2)){
+			if(name2.equalsIgnoreCase(object1)){
+				returnValue = true;
+			}
+		}
+		return returnValue;
+	}
 }
