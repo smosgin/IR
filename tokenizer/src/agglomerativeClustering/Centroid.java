@@ -118,5 +118,9 @@ public class Centroid {
 	public String getName(){
 		return myName;
 	}
+	
+	public Map<String, Float> getTFIDF(){
+		return termsToWeights;
+	}
 
 }

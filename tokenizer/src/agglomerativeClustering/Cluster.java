@@ -44,6 +44,7 @@ public class Cluster {
 	public static ComparisonPoint maxPoint;
 	public static Point maxIJ = new Point(0,0);
 	public static int clusteringCount = 0;
+	public static ArrayList<String> lines = new ArrayList<String>();
 
 	public static void iterateDirectory(String dirPath) {
 
@@ -161,9 +162,21 @@ public class Cluster {
 		// TODO Auto-generated method stub
 		iterateDirectory(args[0]);
 		ComparisonPoint[][] similarityMatrix = cosineSimilarity();
-		String[] docArray = (String[]) documents.keySet().toArray(new String[documents.size()]);
-		System.out.println("Object " + maxPoint.getName1() + " is being merged with " + maxPoint.getName2());
-		Centroid c = new Centroid(maxPoint.getName1(), maxPoint.getName2(), documents.get(docArray[maxIJ.i]), documents.get(docArray[maxIJ.j]));
+		while(max > 0.4){
+		Centroid c1 = null;
+		Centroid c2 = null;
+		for(Centroid temp : centroids){
+			if(temp.getName().equals(maxPoint.getName1())){
+				c1 = temp;
+			}
+			else if(temp.getName().equals(maxPoint.getName2())){
+				c2 = temp;
+			}
+		}
+		//String[] docArray = (String[]) documents.keySet().toArray(new String[documents.size()]);
+		lines.add("Object " + maxPoint.getName1() + " is being merged with " + maxPoint.getName2());
+		Centroid c = new Centroid(maxPoint.getName1(), maxPoint.getName2(), c1.getTFIDF(), c2.getTFIDF());
+		//Centroid c = new Centroid(maxPoint.getName1(), maxPoint.getName2(), documents.get(docArray[maxIJ.i]), documents.get(docArray[maxIJ.j]));
 		centroids.add(c);
 		clusteringCount++;
 		//"zero" out the rows/columns that correspond to the two objects merged
@@ -179,8 +192,21 @@ public class Cluster {
 		int x = 0;
 		int y = 0;
 		boolean wasNull = false;
+		boolean wasNull2 = false;
+		boolean wasNull3 = false;
 		for(int i = 0; i < similarityMatrix.length; i++){
+			wasNull = false;
+			wasNull2 = false;
 			for(int j = 0; j < similarityMatrix[i].length; j++){
+				if(similarityMatrix[i][j] == null && wasNull == true && wasNull2 == true){
+					wasNull3 = true;
+				}
+				else if(similarityMatrix[i][j] == null && wasNull == true){
+					wasNull2 = true;
+				}
+				else{
+					wasNull = false;
+				}
 				if(similarityMatrix[i][j] != null){
 					m[x][y] = similarityMatrix[i][j];
 				}
@@ -190,8 +216,8 @@ public class Cluster {
 				}
 				y++;
 			}
-			if(wasNull == true){
-				wasNull = false;
+			if(wasNull3 == true){
+				wasNull3 = false;
 			}
 			else{
 				x++;
@@ -208,10 +234,41 @@ public class Cluster {
 				}
 			}
 		}
+		similarityMatrix = m;
 		
-		while(maxPoint.getValue() > 0.4){
-			
+		//find the next max
+		max = 0;
+		for(int i = 0; i < similarityMatrix.length; i++){
+			for(int j = 0; j < similarityMatrix[i].length; j++){
+				if(similarityMatrix[i][j].getValue() < 1.0 && similarityMatrix[i][j].getValue() > max){
+					max = similarityMatrix[i][j].getValue();
+					maxIJ.i = i;
+					maxIJ.j = j;
+					maxPoint = similarityMatrix[i][j];
+				}
+			}
 		}
+	}
+		
+//		while(max > 0.4){
+//			
+//		}
+		
+		try {
+        	PrintWriter pw = new PrintWriter("p5output.txt");
+        	
+    		for(String s : lines){
+    			pw.write(s);
+    			pw.write("\n");
+    		}
+            pw.close();
+        } catch (FileNotFoundException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        } catch (IOException e) {
+            // TODO Auto-generated catch block
+            e.printStackTrace();
+        }
         
         try {
         	PrintWriter pw = new PrintWriter("newSimilarityMatrix.txt");
@@ -219,7 +276,7 @@ public class Cluster {
     		for(int i = 0; i < similarityMatrix.length; i++){
     			for(int j = 0; j < similarityMatrix.length; j++){
     				//System.out.print(similarityMatrix[i][j] + "\t");
-    				pw.write(similarityMatrix[i][j] + "\t");
+    				pw.write(similarityMatrix[i][j].getValue() + "\t");
     			}
     			pw.write("\n");
     		}
