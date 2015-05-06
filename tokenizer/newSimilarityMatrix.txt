@@ -1,0 +1,5 @@
+null	null	null	null	null	
+null	null	null	null	null	
+null	null	agglomerativeClustering.ComparisonPoint@3d5d9be1	agglomerativeClustering.ComparisonPoint@4ca4f040	agglomerativeClustering.ComparisonPoint@6099210f	
+null	null	agglomerativeClustering.ComparisonPoint@4ca4f040	agglomerativeClustering.ComparisonPoint@65499154	agglomerativeClustering.ComparisonPoint@40e455bf	
+null	null	agglomerativeClustering.ComparisonPoint@6099210f	agglomerativeClustering.ComparisonPoint@40e455bf	agglomerativeClustering.ComparisonPoint@4eb98fe1	

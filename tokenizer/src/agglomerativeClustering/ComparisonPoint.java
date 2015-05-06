@@ -25,4 +25,16 @@ public class ComparisonPoint {
 		}
 		return returnValue;
 	}
+	
+	public String getName1(){
+		return object1;
+	}
+	
+	public String getName2(){
+		return object2;
+	}
+	
+	public float getValue(){
+		return comparisonValue;
+	}
 }

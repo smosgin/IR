@@ -8,16 +8,22 @@ import java.util.SortedSet;
 import java.util.TreeSet;
 
 public class Centroid {
-	private SortedSet<Integer> docs;
+	private SortedSet<String> docs;
+	private String myName;
 	private float myScore;
 	//private static float[][] similarityMatrix;
 	private Map<String, Float> termsToWeights;
 	
-	public Centroid(int docNum1, int docNum2, Map<String, Float> tfidf1, Map<String, Float> tfidf2){
-		docs = new TreeSet<Integer>();
-		docs.add(docNum1);
-		//myScore = score;
-		//similarityMatrix = matrix;
+	public Centroid(String doc, Map<String, Float> tfidf){
+		docs = new TreeSet<String>();
+		docs.add(doc);
+		myName = doc;
+		termsToWeights = tfidf;
+	}
+	
+	public Centroid(String doc1, String doc2, Map<String, Float> tfidf1, Map<String, Float> tfidf2){
+		docs = new TreeSet<String>();
+		docs.add(doc1);
 		termsToWeights = tfidf1;
 		Map<String, Float> tfidfCopy = new HashMap<String, Float>(tfidf2);
 		for(String term : termsToWeights.keySet()){
@@ -36,7 +42,8 @@ public class Centroid {
 		for(String term : tfidfCopy.keySet()){
 			termsToWeights.put(term, (tfidf2.get(term) * 1) / (docs.size() + 1));
 		}
-		docs.add(docNum2);
+		docs.add(doc2);
+		myName = doc1 + doc2;
 	}
 	
 	public void addObject(Centroid c){
@@ -52,6 +59,10 @@ public class Centroid {
 			else{
 				termsToWeights.put(term, (c.termsToWeights.get(term) * c.docs.size()) / (docs.size() + c.docs.size()));
 			}
+		}
+		for(String doc : c.docs){
+			docs.add(doc);
+			myName += doc;
 		}
 	}
 	
@@ -102,6 +113,10 @@ public class Centroid {
 		}
 		returnValue = (float) (dp / Math.sqrt(distance1 * distance2));
 		return returnValue;
+	}
+	
+	public String getName(){
+		return myName;
 	}
 
 }
