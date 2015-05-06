@@ -1,17 +1,13 @@
 package agglomerativeClustering;
 
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Set;
 import java.util.SortedSet;
 import java.util.TreeSet;
 
 public class Centroid {
 	private SortedSet<String> docs;
 	private String myName;
-	private float myScore;
-	//private static float[][] similarityMatrix;
 	private Map<String, Float> termsToWeights;
 	
 	public Centroid(String doc, Map<String, Float> tfidf){
@@ -66,7 +62,7 @@ public class Centroid {
 		}
 	}
 	
-	//
+	//Compute the cosine similarity to another document
 	public float cosineSimilarity(Map<String, Float> tfidf){
 		float returnValue = 0;
 		float dp = 0;
@@ -91,6 +87,7 @@ public class Centroid {
 		return returnValue;
 	}
 	
+	//Compute the cosine similarity to another centroid
 	public float cosineSimilarity(Centroid c){
 		float returnValue = 0;
 		float dp = 0;
